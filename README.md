@@ -1,2 +1,0 @@
-# VOLTICMENU
-Fivem Lua Menu
