@@ -1,4482 +1,5378 @@
-{
-  "avisa": {
-    "hash": "0x9A474B5E",
+[
+  {
+    "name": "avisa",
+    "hash": "9A474B5E",
     "category": "Boats",
     "label": "Avisa"
   },
-  "dinghy": {
-    "hash": "0x3D961290",
+  {
+    "name": "dinghy",
+    "hash": "3D961290",
     "category": "Boats",
     "label": "Dinghy"
   },
-  "dinghy2": {
-    "hash": "0x107F392C",
+  {
+    "name": "dinghy2",
+    "hash": "107F392C",
     "category": "Boats",
     "label": "Dinghy2"
   },
-  "dinghy3": {
-    "hash": "0x1E5E54EA",
+  {
+    "name": "dinghy3",
+    "hash": "1E5E54EA",
     "category": "Boats",
     "label": "Dinghy3"
   },
-  "dinghy4": {
-    "hash": "0x33B47F96",
+  {
+    "name": "dinghy4",
+    "hash": "33B47F96",
     "category": "Boats",
     "label": "Dinghy4"
   },
-  "dinghy5": {
-    "hash": "0xC58DA34A",
+  {
+    "name": "dinghy5",
+    "hash": "C58DA34A",
     "category": "Boats",
     "label": "Dinghy5"
   },
-  "jetmax": {
-    "hash": "0x33581161",
+  {
+    "name": "jetmax",
+    "hash": "33581161",
     "category": "Boats",
     "label": "Jetmax"
   },
-  "kosatka": {
-    "hash": "0x4FAF0D70",
+  {
+    "name": "kosatka",
+    "hash": "4FAF0D70",
     "category": "Boats",
     "label": "Kosatka"
   },
-  "longfin": {
-    "hash": "0x6EF89CCC",
+  {
+    "name": "longfin",
+    "hash": "6EF89CCC",
     "category": "Boats",
     "label": "Longfin"
   },
-  "marquis": {
-    "hash": "0xC1CE1183",
+  {
+    "name": "marquis",
+    "hash": "C1CE1183",
     "category": "Boats",
     "label": "Marquis"
   },
-  "patrolboat": {
-    "hash": "0xEF813606",
+  {
+    "name": "patrolboat",
+    "hash": "EF813606",
     "category": "Boats",
     "label": "Patrolboat"
   },
-  "seashark": {
-    "hash": "0xC2974024",
+  {
+    "name": "seashark",
+    "hash": "C2974024",
     "category": "Boats",
     "label": "Seashark"
   },
-  "seashark2": {
-    "hash": "0xDB4388E4",
+  {
+    "name": "seashark2",
+    "hash": "DB4388E4",
     "category": "Boats",
     "label": "Seashark2"
   },
-  "seashark3": {
-    "hash": "0xED762D49",
+  {
+    "name": "seashark3",
+    "hash": "ED762D49",
     "category": "Boats",
     "label": "Seashark3"
   },
-  "speeder": {
-    "hash": "0xDC60D2B",
+  {
+    "name": "speeder",
+    "hash": "DC60D2B",
     "category": "Boats",
     "label": "Speeder"
   },
-  "speeder2": {
-    "hash": "0x1A144F2A",
+  {
+    "name": "speeder2",
+    "hash": "1A144F2A",
     "category": "Boats",
     "label": "Speeder2"
   },
-  "squalo": {
-    "hash": "0x17DF5EC2",
+  {
+    "name": "squalo",
+    "hash": "17DF5EC2",
     "category": "Boats",
     "label": "Squalo"
   },
-  "submersible": {
-    "hash": "0x2DFF622F",
+  {
+    "name": "submersible",
+    "hash": "2DFF622F",
     "category": "Boats",
     "label": "Submersible"
   },
-  "submersible2": {
-    "hash": "0xC07107EE",
+  {
+    "name": "submersible2",
+    "hash": "C07107EE",
     "category": "Boats",
     "label": "Submersible2"
   },
-  "suntrap": {
-    "hash": "0xEF2295C9",
+  {
+    "name": "suntrap",
+    "hash": "EF2295C9",
     "category": "Boats",
     "label": "Suntrap"
   },
-  "toro": {
-    "hash": "0x3FD5AA2F",
+  {
+    "name": "toro",
+    "hash": "3FD5AA2F",
     "category": "Boats",
     "label": "Toro"
   },
-  "toro2": {
-    "hash": "0x362CAC6D",
+  {
+    "name": "toro2",
+    "hash": "362CAC6D",
     "category": "Boats",
     "label": "Toro2"
   },
-  "tropic": {
-    "hash": "0x1149422F",
+  {
+    "name": "tropic",
+    "hash": "1149422F",
     "category": "Boats",
     "label": "Tropic"
   },
-  "tropic2": {
-    "hash": "0x56590FE9",
+  {
+    "name": "tropic2",
+    "hash": "56590FE9",
     "category": "Boats",
     "label": "Tropic2"
   },
-  "tug": {
-    "hash": "0x82CAC433",
+  {
+    "name": "tug",
+    "hash": "82CAC433",
     "category": "Boats",
     "label": "Tug"
   },
-  "benson": {
-    "hash": "0x7A61B330",
+  {
+    "name": "benson",
+    "hash": "7A61B330",
     "category": "Commercials",
     "label": "Benson"
   },
-  "mule": {
-    "hash": "0x35ED670B",
+  {
+    "name": "mule",
+    "hash": "35ED670B",
     "category": "Commercials",
     "label": "Mule"
   },
-  "mule2": {
-    "hash": "0xC1632BEB",
+  {
+    "name": "mule2",
+    "hash": "C1632BEB",
     "category": "Commercials",
     "label": "Mule2"
   },
-  "mule3": {
-    "hash": "0x85A5B471",
+  {
+    "name": "mule3",
+    "hash": "85A5B471",
     "category": "Commercials",
     "label": "Mule3"
   },
-  "mule4": {
-    "hash": "0x73F4110E",
+  {
+    "name": "mule4",
+    "hash": "73F4110E",
     "category": "Commercials",
     "label": "Mule4"
   },
-  "mule5": {
-    "hash": "0x501AC93C",
+  {
+    "name": "mule5",
+    "hash": "501AC93C",
     "category": "Commercials",
     "label": "Mule5"
   },
-  "packer": {
-    "hash": "0x21EEE87D",
+  {
+    "name": "packer",
+    "hash": "21EEE87D",
     "category": "Commercials",
     "label": "Packer"
   },
-  "phantom": {
-    "hash": "0x809AA4CB",
+  {
+    "name": "phantom",
+    "hash": "809AA4CB",
     "category": "Commercials",
     "label": "Phantom"
   },
-  "phantom2": {
-    "hash": "0x9DAE1398",
+  {
+    "name": "phantom2",
+    "hash": "9DAE1398",
     "category": "Commercials",
     "label": "Phantom2"
   },
-  "phantom3": {
-    "hash": "0x0A90ED5C",
+  {
+    "name": "phantom3",
+    "hash": "0A90ED5C",
     "category": "Commercials",
     "label": "Phantom3"
   },
-  "phantom4": {
-    "hash": "0xF84B48D1",
+  {
+    "name": "phantom4",
+    "hash": "F84B48D1",
     "category": "Commercials",
     "label": "Phantom4"
   },
-  "pounder": {
-    "hash": "0x7DE35E7D",
+  {
+    "name": "pounder",
+    "hash": "7DE35E7D",
     "category": "Commercials",
     "label": "Pounder"
   },
-  "pounder2": {
-    "hash": "0x6290F15B",
+  {
+    "name": "pounder2",
+    "hash": "6290F15B",
     "category": "Commercials",
     "label": "Pounder2"
   },
-  "stockade": {
-    "hash": "0x6827CF72",
+  {
+    "name": "stockade",
+    "hash": "6827CF72",
     "category": "Commercials",
     "label": "Stockade"
   },
-  "stockade3": {
-    "hash": "0xF337AB36",
+  {
+    "name": "stockade3",
+    "hash": "F337AB36",
     "category": "Commercials",
     "label": "Stockade3"
   },
-  "terbyte": {
-    "hash": "0x897AFC65",
+  {
+    "name": "terbyte",
+    "hash": "897AFC65",
     "category": "Commercials",
     "label": "Terbyte"
   },
-  "asbo": {
-    "hash": "0x42ACA95F",
+  {
+    "name": "asbo",
+    "hash": "42ACA95F",
     "category": "Compacts",
     "label": "Asbo"
   },
-  "blista": {
-    "hash": "0xEB70965F",
+  {
+    "name": "blista",
+    "hash": "EB70965F",
     "category": "Compacts",
     "label": "Blista"
   },
-  "brioso": {
-    "hash": "0x5C55CB39",
+  {
+    "name": "brioso",
+    "hash": "5C55CB39",
     "category": "Compacts",
     "label": "Brioso"
   },
-  "brioso2": {
-    "hash": "0x55365079",
+  {
+    "name": "brioso2",
+    "hash": "55365079",
     "category": "Compacts",
     "label": "Brioso2"
   },
-  "brioso3": {
-    "hash": "0x00E827DE",
+  {
+    "name": "brioso3",
+    "hash": "00E827DE",
     "category": "Compacts",
     "label": "Brioso3"
   },
-  "club": {
-    "hash": "0x82E47E85",
+  {
+    "name": "club",
+    "hash": "82E47E85",
     "category": "Compacts",
     "label": "Club"
   },
-  "dilettante": {
-    "hash": "0xBC993509",
+  {
+    "name": "dilettante",
+    "hash": "BC993509",
     "category": "Compacts",
     "label": "Dilettante"
   },
-  "dilettante2": {
-    "hash": "0x64430650",
+  {
+    "name": "dilettante2",
+    "hash": "64430650",
     "category": "Compacts",
     "label": "Dilettante2"
   },
-  "kanjo": {
-    "hash": "0x18619B7E",
+  {
+    "name": "kanjo",
+    "hash": "18619B7E",
     "category": "Compacts",
     "label": "Kanjo"
   },
-  "issi2": {
-    "hash": "0xB9CB3B69",
+  {
+    "name": "issi2",
+    "hash": "B9CB3B69",
     "category": "Compacts",
     "label": "Issi2"
   },
-  "issi3": {
-    "hash": "0x378236E1",
+  {
+    "name": "issi3",
+    "hash": "378236E1",
     "category": "Compacts",
     "label": "Issi3"
   },
-  "issi4": {
-    "hash": "0x256E92BA",
+  {
+    "name": "issi4",
+    "hash": "256E92BA",
     "category": "Compacts",
     "label": "Issi4"
   },
-  "issi5": {
-    "hash": "0x5BA0FF1E",
+  {
+    "name": "issi5",
+    "hash": "5BA0FF1E",
     "category": "Compacts",
     "label": "Issi5"
   },
-  "issi6": {
-    "hash": "0x49E25BA1",
+  {
+    "name": "issi6",
+    "hash": "49E25BA1",
     "category": "Compacts",
     "label": "Issi6"
   },
-  "panto": {
-    "hash": "0xE644E480",
+  {
+    "name": "panto",
+    "hash": "E644E480",
     "category": "Compacts",
     "label": "Panto"
   },
-  "prairie": {
-    "hash": "0xA988D3A2",
+  {
+    "name": "prairie",
+    "hash": "A988D3A2",
     "category": "Compacts",
     "label": "Prairie"
   },
-  "rhapsody": {
-    "hash": "0x322CF98F",
+  {
+    "name": "rhapsody",
+    "hash": "322CF98F",
     "category": "Compacts",
     "label": "Rhapsody"
   },
-  "weevil": {
-    "hash": "0x61FE4D6A",
+  {
+    "name": "weevil",
+    "hash": "61FE4D6A",
     "category": "Compacts",
     "label": "Weevil"
   },
-  "cogcabrio": {
-    "hash": "0x13B57D8A",
+  {
+    "name": "cogcabrio",
+    "hash": "13B57D8A",
     "category": "Coupes",
     "label": "Cogcabrio"
   },
-  "exemplar": {
-    "hash": "0xFFB15B5E",
+  {
+    "name": "exemplar",
+    "hash": "FFB15B5E",
     "category": "Coupes",
     "label": "Exemplar"
   },
-  "f620": {
-    "hash": "0xDCBCBE48",
+  {
+    "name": "f620",
+    "hash": "DCBCBE48",
     "category": "Coupes",
     "label": "F620"
   },
-  "felon": {
-    "hash": "0xE8A8BDA8",
+  {
+    "name": "felon",
+    "hash": "E8A8BDA8",
     "category": "Coupes",
     "label": "Felon"
   },
-  "felon2": {
-    "hash": "0xFAAD85EE",
+  {
+    "name": "felon2",
+    "hash": "FAAD85EE",
     "category": "Coupes",
     "label": "Felon2"
   },
-  "jackal": {
-    "hash": "0xDAC67112",
+  {
+    "name": "jackal",
+    "hash": "DAC67112",
     "category": "Coupes",
     "label": "Jackal"
   },
-  "kanjosj": {
-    "hash": "0xFC2E479A",
+  {
+    "name": "kanjosj",
+    "hash": "FC2E479A",
     "category": "Coupes",
     "label": "Kanjosj"
   },
-  "oracle": {
-    "hash": "0x506434F6",
+  {
+    "name": "oracle",
+    "hash": "506434F6",
     "category": "Coupes",
     "label": "Oracle"
   },
-  "oracle2": {
-    "hash": "0xE18195B2",
+  {
+    "name": "oracle2",
+    "hash": "E18195B2",
     "category": "Coupes",
     "label": "Oracle2"
   },
-  "postlude": {
-    "hash": "0xEE6F8F79",
+  {
+    "name": "postlude",
+    "hash": "EE6F8F79",
     "category": "Coupes",
     "label": "Postlude"
   },
-  "previon": {
-    "hash": "0x546DA331",
+  {
+    "name": "previon",
+    "hash": "546DA331",
     "category": "Coupes",
     "label": "Previon"
   },
-  "sentinel": {
-    "hash": "0x50732C82",
+  {
+    "name": "sentinel",
+    "hash": "50732C82",
     "category": "Coupes",
     "label": "Sentinel"
   },
-  "sentinel2": {
-    "hash": "0x3412AE2D",
+  {
+    "name": "sentinel2",
+    "hash": "3412AE2D",
     "category": "Coupes",
     "label": "Sentinel2"
   },
-  "windsor": {
-    "hash": "0x5E4327C8",
+  {
+    "name": "windsor",
+    "hash": "5E4327C8",
     "category": "Coupes",
     "label": "Windsor"
   },
-  "windsor2": {
-    "hash": "0x8CF5CAE1",
+  {
+    "name": "windsor2",
+    "hash": "8CF5CAE1",
     "category": "Coupes",
     "label": "Windsor2"
   },
-  "zion": {
-    "hash": "0xBD1B39C3",
+  {
+    "name": "zion",
+    "hash": "BD1B39C3",
     "category": "Coupes",
     "label": "Zion"
   },
-  "zion2": {
-    "hash": "0xB8E2AE18",
+  {
+    "name": "zion2",
+    "hash": "B8E2AE18",
     "category": "Coupes",
     "label": "Zion2"
   },
-  "bmx": {
-    "hash": "0x43779C54",
+  {
+    "name": "bmx",
+    "hash": "43779C54",
     "category": "Cycles",
     "label": "Bmx"
   },
-  "cruiser": {
-    "hash": "0x1ABA13B5",
+  {
+    "name": "cruiser",
+    "hash": "1ABA13B5",
     "category": "Cycles",
     "label": "Cruiser"
   },
-  "fixter": {
-    "hash": "0xCE23D3BF",
+  {
+    "name": "fixter",
+    "hash": "CE23D3BF",
     "category": "Cycles",
     "label": "Fixter"
   },
-  "scorcher": {
-    "hash": "0xF4E1AA15",
+  {
+    "name": "scorcher",
+    "hash": "F4E1AA15",
     "category": "Cycles",
     "label": "Scorcher"
   },
-  "tribike": {
-    "hash": "0x4339CD69",
+  {
+    "name": "tribike",
+    "hash": "4339CD69",
     "category": "Cycles",
     "label": "Tribike"
   },
-  "tribike2": {
-    "hash": "0xB67597EC",
+  {
+    "name": "tribike2",
+    "hash": "B67597EC",
     "category": "Cycles",
     "label": "Tribike2"
   },
-  "tribike3": {
-    "hash": "0xE823FB48",
+  {
+    "name": "tribike3",
+    "hash": "E823FB48",
     "category": "Cycles",
     "label": "Tribike3"
   },
-  "ambulance": {
-    "hash": "0x45D56ADA",
+  {
+    "name": "ambulance",
+    "hash": "45D56ADA",
     "category": "Emergency",
     "label": "Ambulance"
   },
-  "fbi": {
-    "hash": "0x432EA949",
+  {
+    "name": "fbi",
+    "hash": "432EA949",
     "category": "Emergency",
     "label": "Fbi"
   },
-  "fbi2": {
-    "hash": "0x9DC66994",
+  {
+    "name": "fbi2",
+    "hash": "9DC66994",
     "category": "Emergency",
     "label": "Fbi2"
   },
-  "firetruk": {
-    "hash": "0x73920F8E",
+  {
+    "name": "firetruk",
+    "hash": "73920F8E",
     "category": "Emergency",
     "label": "Firetruk"
   },
-  "lguard": {
-    "hash": "0x1BF8D381",
+  {
+    "name": "lguard",
+    "hash": "1BF8D381",
     "category": "Emergency",
     "label": "Lguard"
   },
-  "pbus": {
-    "hash": "0x885F3671",
+  {
+    "name": "pbus",
+    "hash": "885F3671",
     "category": "Emergency",
     "label": "Pbus"
   },
-  "police": {
-    "hash": "0x79FBB0C5",
+  {
+    "name": "police",
+    "hash": "79FBB0C5",
     "category": "Emergency",
     "label": "Police"
   },
-  "police2": {
-    "hash": "0x9F05F101",
+  {
+    "name": "police2",
+    "hash": "9F05F101",
     "category": "Emergency",
     "label": "Police2"
   },
-  "police3": {
-    "hash": "0x71FA16EA",
+  {
+    "name": "police3",
+    "hash": "71FA16EA",
     "category": "Emergency",
     "label": "Police3"
   },
-  "police4": {
-    "hash": "0x8A63C7B9",
+  {
+    "name": "police4",
+    "hash": "8A63C7B9",
     "category": "Emergency",
     "label": "Police4"
   },
-  "policeb": {
-    "hash": "0xFDEFAEC3",
+  {
+    "name": "policeb",
+    "hash": "FDEFAEC3",
     "category": "Emergency",
     "label": "Policeb"
   },
-  "polmav": {
-    "hash": "0x1517D4D9",
+  {
+    "name": "polmav",
+    "hash": "1517D4D9",
     "category": "Emergency",
     "label": "Polmav"
   },
-  "policeold1": {
-    "hash": "0xA46462F7",
+  {
+    "name": "policeold1",
+    "hash": "A46462F7",
     "category": "Emergency",
     "label": "Policeold1"
   },
-  "policeold2": {
-    "hash": "0x95F4C618",
+  {
+    "name": "policeold2",
+    "hash": "95F4C618",
     "category": "Emergency",
     "label": "Policeold2"
   },
-  "policet": {
-    "hash": "0x1B38E955",
+  {
+    "name": "policet",
+    "hash": "1B38E955",
     "category": "Emergency",
     "label": "Policet"
   },
-  "pranger": {
-    "hash": "0x2C33B46E",
+  {
+    "name": "pranger",
+    "hash": "2C33B46E",
     "category": "Emergency",
     "label": "Pranger"
   },
-  "predator": {
-    "hash": "0xE2E7D4AB",
+  {
+    "name": "predator",
+    "hash": "E2E7D4AB",
     "category": "Emergency",
     "label": "Predator"
   },
-  "riot": {
-    "hash": "0xB822A1AA",
+  {
+    "name": "riot",
+    "hash": "B822A1AA",
     "category": "Emergency",
     "label": "Riot"
   },
-  "riot2": {
-    "hash": "0x9B16A3B4",
+  {
+    "name": "riot2",
+    "hash": "9B16A3B4",
     "category": "Emergency",
     "label": "Riot2"
   },
-  "sheriff": {
-    "hash": "0x9BAA707C",
+  {
+    "name": "sheriff",
+    "hash": "9BAA707C",
     "category": "Emergency",
     "label": "Sheriff"
   },
-  "sheriff2": {
-    "hash": "0x72935408",
+  {
+    "name": "sheriff2",
+    "hash": "72935408",
     "category": "Emergency",
     "label": "Sheriff2"
   },
-  "akula": {
-    "hash": "0x46699F47",
+  {
+    "name": "akula",
+    "hash": "46699F47",
     "category": "Helicopters",
     "label": "Akula"
   },
-  "annihilator": {
-    "hash": "0x31F0B376",
+  {
+    "name": "annihilator",
+    "hash": "31F0B376",
     "category": "Helicopters",
     "label": "Annihilator"
   },
-  "annihilator2": {
-    "hash": "0x11962E49",
+  {
+    "name": "annihilator2",
+    "hash": "11962E49",
     "category": "Helicopters",
     "label": "Annihilator2"
   },
-  "buzzard": {
-    "hash": "0x2F03547B",
+  {
+    "name": "buzzard",
+    "hash": "2F03547B",
     "category": "Helicopters",
     "label": "Buzzard"
   },
-  "buzzard2": {
-    "hash": "0x2C75F0DD",
+  {
+    "name": "buzzard2",
+    "hash": "2C75F0DD",
     "category": "Helicopters",
     "label": "Buzzard2"
   },
-  "cargobob": {
-    "hash": "0xFCFCB68B",
+  {
+    "name": "cargobob",
+    "hash": "FCFCB68B",
     "category": "Helicopters",
     "label": "Cargobob"
   },
-  "cargobob2": {
-    "hash": "0x60A7EA10",
+  {
+    "name": "cargobob2",
+    "hash": "60A7EA10",
     "category": "Helicopters",
     "label": "Cargobob2"
   },
-  "cargobob3": {
-    "hash": "0x53174EEF",
+  {
+    "name": "cargobob3",
+    "hash": "53174EEF",
     "category": "Helicopters",
     "label": "Cargobob3"
   },
-  "cargobob4": {
-    "hash": "0x78BC1A3C",
+  {
+    "name": "cargobob4",
+    "hash": "78BC1A3C",
     "category": "Helicopters",
     "label": "Cargobob4"
   },
-  "conada": {
-    "hash": "0xE384DD25",
+  {
+    "name": "conada",
+    "hash": "E384DD25",
     "category": "Helicopters",
     "label": "Conada"
   },
-  "frogger": {
-    "hash": "0x2C634FBD",
+  {
+    "name": "frogger",
+    "hash": "2C634FBD",
     "category": "Helicopters",
     "label": "Frogger"
   },
-  "frogger2": {
-    "hash": "0x742E9AC0",
+  {
+    "name": "frogger2",
+    "hash": "742E9AC0",
     "category": "Helicopters",
     "label": "Frogger2"
   },
-  "havok": {
-    "hash": "0x89BA59F5",
+  {
+    "name": "havok",
+    "hash": "89BA59F5",
     "category": "Helicopters",
     "label": "Havok"
   },
-  "hunter": {
-    "hash": "0xFD707EDE",
+  {
+    "name": "hunter",
+    "hash": "FD707EDE",
     "category": "Helicopters",
     "label": "Hunter"
   },
-  "maverick": {
-    "hash": "0x9D0450CA",
+  {
+    "name": "maverick",
+    "hash": "9D0450CA",
     "category": "Helicopters",
     "label": "Maverick"
   },
-  "savage": {
-    "hash": "0xFB133A17",
+  {
+    "name": "savage",
+    "hash": "FB133A17",
     "category": "Helicopters",
     "label": "Savage"
   },
-  "seasparrow": {
-    "hash": "0xD4AE63D9",
+  {
+    "name": "seasparrow",
+    "hash": "D4AE63D9",
     "category": "Helicopters",
     "label": "Seasparrow"
   },
-  "seasparrow2": {
-    "hash": "0x494752F7",
+  {
+    "name": "seasparrow2",
+    "hash": "494752F7",
     "category": "Helicopters",
     "label": "Seasparrow2"
   },
-  "seasparrow3": {
-    "hash": "0x5F017E6B",
+  {
+    "name": "seasparrow3",
+    "hash": "5F017E6B",
     "category": "Helicopters",
     "label": "Seasparrow3"
   },
-  "skylift": {
-    "hash": "0x3E48BF23",
+  {
+    "name": "skylift",
+    "hash": "3E48BF23",
     "category": "Helicopters",
     "label": "Skylift"
   },
-  "supervolito": {
-    "hash": "0x2A54C47D",
+  {
+    "name": "supervolito",
+    "hash": "2A54C47D",
     "category": "Helicopters",
     "label": "Supervolito"
   },
-  "supervolito2": {
-    "hash": "0x9C5E5644",
+  {
+    "name": "supervolito2",
+    "hash": "9C5E5644",
     "category": "Helicopters",
     "label": "Supervolito2"
   },
-  "swift": {
-    "hash": "0xEBC24DF2",
+  {
+    "name": "swift",
+    "hash": "EBC24DF2",
     "category": "Helicopters",
     "label": "Swift"
   },
-  "swift2": {
-    "hash": "0x4019CB4C",
+  {
+    "name": "swift2",
+    "hash": "4019CB4C",
     "category": "Helicopters",
     "label": "Swift2"
   },
-  "valkyrie": {
-    "hash": "0xA09E15FD",
+  {
+    "name": "valkyrie",
+    "hash": "A09E15FD",
     "category": "Helicopters",
     "label": "Valkyrie"
   },
-  "valkyrie2": {
-    "hash": "0x5BFA5C4B",
+  {
+    "name": "valkyrie2",
+    "hash": "5BFA5C4B",
     "category": "Helicopters",
     "label": "Valkyrie2"
   },
-  "volatus": {
-    "hash": "0x920016F1",
+  {
+    "name": "volatus",
+    "hash": "920016F1",
     "category": "Helicopters",
     "label": "Volatus"
   },
-  "bulldozer": {
-    "hash": "0x7074F39D",
+  {
+    "name": "bulldozer",
+    "hash": "7074F39D",
     "category": "Industrial",
     "label": "Bulldozer"
   },
-  "cutter": {
-    "hash": "0xC3FBA120",
+  {
+    "name": "cutter",
+    "hash": "C3FBA120",
     "category": "Industrial",
     "label": "Cutter"
   },
-  "dump": {
-    "hash": "0x810369E2",
+  {
+    "name": "dump",
+    "hash": "810369E2",
     "category": "Industrial",
     "label": "Dump"
   },
-  "flatbed": {
-    "hash": "0x50B0215A",
+  {
+    "name": "flatbed",
+    "hash": "50B0215A",
     "category": "Industrial",
     "label": "Flatbed"
   },
-  "guardian": {
-    "hash": "0x825A9F4C",
+  {
+    "name": "guardian",
+    "hash": "825A9F4C",
     "category": "Industrial",
     "label": "Guardian"
   },
-  "handler": {
-    "hash": "0x1A7FCEFA",
+  {
+    "name": "handler",
+    "hash": "1A7FCEFA",
     "category": "Industrial",
     "label": "Handler"
   },
-  "mixer": {
-    "hash": "0xD138A6BB",
+  {
+    "name": "mixer",
+    "hash": "D138A6BB",
     "category": "Industrial",
     "label": "Mixer"
   },
-  "mixer2": {
-    "hash": "0x1C534995",
+  {
+    "name": "mixer2",
+    "hash": "1C534995",
     "category": "Industrial",
     "label": "Mixer2"
   },
-  "rubble": {
-    "hash": "0x9A5B1DCC",
+  {
+    "name": "rubble",
+    "hash": "9A5B1DCC",
     "category": "Industrial",
     "label": "Rubble"
   },
-  "tiptruck": {
-    "hash": "0x02E19879",
+  {
+    "name": "tiptruck",
+    "hash": "02E19879",
     "category": "Industrial",
     "label": "Tiptruck"
   },
-  "tiptruck2": {
-    "hash": "0xC7824E5E",
+  {
+    "name": "tiptruck2",
+    "hash": "C7824E5E",
     "category": "Industrial",
     "label": "Tiptruck2"
   },
-  "apc": {
-    "hash": "0x2189D250",
+  {
+    "name": "apc",
+    "hash": "2189D250",
     "category": "Military",
     "label": "Apc"
   },
-  "barracks": {
-    "hash": "0xCEEA3F4B",
+  {
+    "name": "barracks",
+    "hash": "CEEA3F4B",
     "category": "Military",
     "label": "Barracks"
   },
-  "barracks2": {
-    "hash": "0x4008EABB",
+  {
+    "name": "barracks2",
+    "hash": "4008EABB",
     "category": "Military",
     "label": "Barracks2"
   },
-  "barracks3": {
-    "hash": "0x2592B5CF",
+  {
+    "name": "barracks3",
+    "hash": "2592B5CF",
     "category": "Military",
     "label": "Barracks3"
   },
-  "barrage": {
-    "hash": "0xF34DFB25",
+  {
+    "name": "barrage",
+    "hash": "F34DFB25",
     "category": "Military",
     "label": "Barrage"
   },
-  "chernobog": {
-    "hash": "0xD6BC7523",
+  {
+    "name": "chernobog",
+    "hash": "D6BC7523",
     "category": "Military",
     "label": "Chernobog"
   },
-  "crusader": {
-    "hash": "0x132D5A1A",
+  {
+    "name": "crusader",
+    "hash": "132D5A1A",
     "category": "Military",
     "label": "Crusader"
   },
-  "halftrack": {
-    "hash": "0xFE141DA6",
+  {
+    "name": "halftrack",
+    "hash": "FE141DA6",
     "category": "Military",
     "label": "Halftrack"
   },
-  "khanjali": {
-    "hash": "0xAA6F980A",
+  {
+    "name": "khanjali",
+    "hash": "AA6F980A",
     "category": "Military",
     "label": "Khanjali"
   },
-  "minitank": {
-    "hash": "0xB53C6C52",
+  {
+    "name": "minitank",
+    "hash": "B53C6C52",
     "category": "Military",
     "label": "Minitank"
   },
-  "rhino": {
-    "hash": "0x2EA68690",
+  {
+    "name": "rhino",
+    "hash": "2EA68690",
     "category": "Military",
     "label": "Rhino"
   },
-  "scarab": {
-    "hash": "0xBBA2A2F7",
+  {
+    "name": "scarab",
+    "hash": "BBA2A2F7",
     "category": "Military",
     "label": "Scarab"
   },
-  "scarab2": {
-    "hash": "0x5BEB3CE0",
+  {
+    "name": "scarab2",
+    "hash": "5BEB3CE0",
     "category": "Military",
     "label": "Scarab2"
   },
-  "scarab3": {
-    "hash": "0xDD71BFEB",
+  {
+    "name": "scarab3",
+    "hash": "DD71BFEB",
     "category": "Military",
     "label": "Scarab3"
   },
-  "thruster": {
-    "hash": "0x58CDAF30",
+  {
+    "name": "thruster",
+    "hash": "58CDAF30",
     "category": "Military",
     "label": "Thruster"
   },
-  "trailersmall2": {
-    "hash": "0x8FD54EBB",
+  {
+    "name": "trailersmall2",
+    "hash": "8FD54EBB",
     "category": "Military",
     "label": "Trailersmall2"
   },
-  "vetir": {
-    "hash": "0x780FFBD2",
+  {
+    "name": "vetir",
+    "hash": "780FFBD2",
     "category": "Military",
     "label": "Vetit"
   },
-  "akuma": {
-    "hash": "0x63ABADE7",
+  {
+    "name": "akuma",
+    "hash": "63ABADE7",
     "category": "Motorcycles",
     "label": "Akuma"
   },
-  "avarus": {
-    "hash": "0x81E38F7F",
+  {
+    "name": "avarus",
+    "hash": "81E38F7F",
     "category": "Motorcycles",
     "label": "Avarus"
   },
-  "bagger": {
-    "hash": "0x806B9CC3",
+  {
+    "name": "bagger",
+    "hash": "806B9CC3",
     "category": "Motorcycles",
     "label": "Bagger"
   },
-  "bati": {
-    "hash": "0xF9300CC5",
+  {
+    "name": "bati",
+    "hash": "F9300CC5",
     "category": "Motorcycles",
     "label": "Bati"
   },
-  "bati2": {
-    "hash": "0xCADD5D2D",
+  {
+    "name": "bati2",
+    "hash": "CADD5D2D",
     "category": "Motorcycles",
     "label": "Bati2"
   },
-  "bf400": {
-    "hash": "0x05283265",
+  {
+    "name": "bf400",
+    "hash": "05283265",
     "category": "Motorcycles",
     "label": "Bf400"
   },
-  "carbonrs": {
-    "hash": "0x00ABB0C0",
+  {
+    "name": "carbonrs",
+    "hash": "00ABB0C0",
     "category": "Motorcycles",
     "label": "Carbonrs"
   },
-  "chimera": {
-    "hash": "0x00675ED7",
+  {
+    "name": "chimera",
+    "hash": "00675ED7",
     "category": "Motorcycles",
     "label": "Chimera"
   },
-  "cliffhanger": {
-    "hash": "0x17420102",
+  {
+    "name": "cliffhanger",
+    "hash": "17420102",
     "category": "Motorcycles",
     "label": "Cliffhanger"
   },
-  "daemon": {
-    "hash": "0x77934CEE",
+  {
+    "name": "daemon",
+    "hash": "77934CEE",
     "category": "Motorcycles",
     "label": "Daemon"
   },
-  "daemon2": {
-    "hash": "0xAC4E93C9",
+  {
+    "name": "daemon2",
+    "hash": "AC4E93C9",
     "category": "Motorcycles",
     "label": "Daemon2"
   },
-  "defiler": {
-    "hash": "0x30FF0190",
+  {
+    "name": "defiler",
+    "hash": "30FF0190",
     "category": "Motorcycles",
     "label": "Defiler"
   },
-  "deathbike": {
-    "hash": "0xFE5F0722",
+  {
+    "name": "deathbike",
+    "hash": "FE5F0722",
     "category": "Motorcycles",
     "label": "Deathbike"
   },
-  "deathbike2": {
-    "hash": "0x93F09558",
+  {
+    "name": "deathbike2",
+    "hash": "93F09558",
     "category": "Motorcycles",
     "label": "Deathbike2"
   },
-  "deathbike3": {
-    "hash": "0xAE12C99C",
+  {
+    "name": "deathbike3",
+    "hash": "AE12C99C",
     "category": "Motorcycles",
     "label": "Deathbike3"
   },
-  "diablous": {
-    "hash": "0xF1B44F44",
+  {
+    "name": "diablous",
+    "hash": "F1B44F44",
     "category": "Motorcycles",
     "label": "Diablous"
   },
-  "diablous2": {
-    "hash": "0x6ABDF65E",
+  {
+    "name": "diablous2",
+    "hash": "6ABDF65E",
     "category": "Motorcycles",
     "label": "Diablous2"
   },
-  "double": {
-    "hash": "0x9C669788",
+  {
+    "name": "double",
+    "hash": "9C669788",
     "category": "Motorcycles",
     "label": "Double"
   },
-  "enduro": {
-    "hash": "0x6882FA73",
+  {
+    "name": "enduro",
+    "hash": "6882FA73",
     "category": "Motorcycles",
     "label": "Enduro"
   },
-  "esskey": {
-    "hash": "0x794CB30C",
+  {
+    "name": "esskey",
+    "hash": "794CB30C",
     "category": "Motorcycles",
     "label": "Esskey"
   },
-  "faggio": {
-    "hash": "0x9229E4EB",
+  {
+    "name": "faggio",
+    "hash": "9229E4EB",
     "category": "Motorcycles",
     "label": "Faggio"
   },
-  "faggio2": {
-    "hash": "0x0350D1AB",
+  {
+    "name": "faggio2",
+    "hash": "0350D1AB",
     "category": "Motorcycles",
     "label": "Faggio2"
   },
-  "faggio3": {
-    "hash": "0xB328B188",
+  {
+    "name": "faggio3",
+    "hash": "B328B188",
     "category": "Motorcycles",
     "label": "Faggio3"
   },
-  "fcr": {
-    "hash": "0x25676EAF",
+  {
+    "name": "fcr",
+    "hash": "25676EAF",
     "category": "Motorcycles",
     "label": "Fcr"
   },
-  "fcr2": {
-    "hash": "0xD2D5E00E",
+  {
+    "name": "fcr2",
+    "hash": "D2D5E00E",
     "category": "Motorcycles",
     "label": "Fcr2"
   },
-  "gargoyle": {
-    "hash": "0x2C2C2324",
+  {
+    "name": "gargoyle",
+    "hash": "2C2C2324",
     "category": "Motorcycles",
     "label": "Gargoyle"
   },
-  "hakuchou": {
-    "hash": "0x4B6C568A",
+  {
+    "name": "hakuchou",
+    "hash": "4B6C568A",
     "category": "Motorcycles",
     "label": "Hakuchou"
   },
-  "hakuchou2": {
-    "hash": "0xF0C2A91F",
+  {
+    "name": "hakuchou2",
+    "hash": "F0C2A91F",
     "category": "Motorcycles",
     "label": "Hakuchou2"
   },
-  "hexer": {
-    "hash": "0x11F76C14",
+  {
+    "name": "hexer",
+    "hash": "11F76C14",
     "category": "Motorcycles",
     "label": "Hexer"
   },
-  "innovation": {
-    "hash": "0xF683EACA",
+  {
+    "name": "innovation",
+    "hash": "F683EACA",
     "category": "Motorcycles",
     "label": "Innovation"
   },
-  "lectro": {
-    "hash": "0x26321E67",
+  {
+    "name": "lectro",
+    "hash": "26321E67",
     "category": "Motorcycles",
     "label": "Lectro"
   },
-  "manchez": {
-    "hash": "0xA5325278",
+  {
+    "name": "manchez",
+    "hash": "A5325278",
     "category": "Motorcycles",
     "label": "Manchez"
   },
-  "manchez2": {
-    "hash": "0x40C332A3",
+  {
+    "name": "manchez2",
+    "hash": "40C332A3",
     "category": "Motorcycles",
     "label": "Manchez2"
   },
-  "manchez3": {
-    "hash": "0x5285D628",
+  {
+    "name": "manchez3",
+    "hash": "5285D628",
     "category": "Motorcycles",
     "label": "Manchez3"
   },
-  "nemesis": {
-    "hash": "0xDA288376",
+  {
+    "name": "nemesis",
+    "hash": "DA288376",
     "category": "Motorcycles",
     "label": "Nemesis"
   },
-  "nightblade": {
-    "hash": "0xA0438767",
+  {
+    "name": "nightblade",
+    "hash": "A0438767",
     "category": "Motorcycles",
     "label": "Nightblade"
   },
-  "oppressor": {
-    "hash": "0x34B82784",
+  {
+    "name": "oppressor",
+    "hash": "34B82784",
     "category": "Motorcycles",
     "label": "Oppressor"
   },
-  "oppressor2": {
-    "hash": "0x7B54A9D3",
+  {
+    "name": "oppressor2",
+    "hash": "7B54A9D3",
     "category": "Motorcycles",
     "label": "Oppressor2"
   },
-  "pcj": {
-    "hash": "0xC9CEAF06",
+  {
+    "name": "pcj",
+    "hash": "C9CEAF06",
     "category": "Motorcycles",
     "label": "Pcj"
   },
-  "powersurge": {
-    "hash": "0xAD5E30D7",
+  {
+    "name": "powersurge",
+    "hash": "AD5E30D7",
     "category": "Motorcycles",
     "label": "Powersurge"
   },
-  "ratbike": {
-    "hash": "0x6FACDF31",
+  {
+    "name": "ratbike",
+    "hash": "6FACDF31",
     "category": "Motorcycles",
     "label": "Ratbike"
   },
-  "reever": {
-    "hash": "0x76D7C404",
+  {
+    "name": "reever",
+    "hash": "76D7C404",
     "category": "Motorcycles",
     "label": "Reever"
   },
-  "ruffian": {
-    "hash": "0xCABD11E8",
+  {
+    "name": "ruffian",
+    "hash": "CABD11E8",
     "category": "Motorcycles",
     "label": "Ruffian"
   },
-  "rrocket": {
-    "hash": "0x36A167E0",
+  {
+    "name": "rrocket",
+    "hash": "36A167E0",
     "category": "Motorcycles",
     "label": "Rrocket"
   },
-  "sanchez": {
-    "hash": "0x2EF89E46",
+  {
+    "name": "sanchez",
+    "hash": "2EF89E46",
     "category": "Motorcycles",
     "label": "Sanchez"
   },
-  "sanchez2": {
-    "hash": "0xA960B13E",
+  {
+    "name": "sanchez2",
+    "hash": "A960B13E",
     "category": "Motorcycles",
     "label": "Sanchez2"
   },
-  "sanctus": {
-    "hash": "0x58E316C7",
+  {
+    "name": "sanctus",
+    "hash": "58E316C7",
     "category": "Motorcycles",
     "label": "Sanctus"
   },
-  "shinobi": {
-    "hash": "0x50A6FB9C",
+  {
+    "name": "shinobi",
+    "hash": "50A6FB9C",
     "category": "Motorcycles",
     "label": "Shinobi"
   },
-  "shotaro": {
-    "hash": "0xE7D2A16E",
+  {
+    "name": "shotaro",
+    "hash": "E7D2A16E",
     "category": "Motorcycles",
     "label": "Shotaro"
   },
-  "sovereign": {
-    "hash": "0x2C509634",
+  {
+    "name": "sovereign",
+    "hash": "2C509634",
     "category": "Motorcycles",
     "label": "Sovereign"
   },
-  "stryder": {
-    "hash": "0x11F58A5A",
+  {
+    "name": "stryder",
+    "hash": "11F58A5A",
     "category": "Motorcycles",
     "label": "Stryder"
   },
-  "thrust": {
-    "hash": "0x6D6F8F43",
+  {
+    "name": "thrust",
+    "hash": "6D6F8F43",
     "category": "Motorcycles",
     "label": "Thrust"
   },
-  "vader": {
-    "hash": "0xF79A00F7",
+  {
+    "name": "vader",
+    "hash": "F79A00F7",
     "category": "Motorcycles",
     "label": "Vader"
   },
-  "vindicator": {
-    "hash": "0xAF599F01",
+  {
+    "name": "vindicator",
+    "hash": "AF599F01",
     "category": "Motorcycles",
     "label": "Vindicator"
   },
-  "vortex": {
-    "hash": "0xDBA9DBFC",
+  {
+    "name": "vortex",
+    "hash": "DBA9DBFC",
     "category": "Motorcycles",
     "label": "Vortex"
   },
-  "wolfsbane": {
-    "hash": "0xDB20A373",
+  {
+    "name": "wolfsbane",
+    "hash": "DB20A373",
     "category": "Motorcycles",
     "label": "Wolfsbane"
   },
-  "zombiea": {
-    "hash": "0xC3D7C72B",
+  {
+    "name": "zombiea",
+    "hash": "C3D7C72B",
     "category": "Motorcycles",
     "label": "Zombiea"
   },
-  "zombieb": {
-    "hash": "0xDE05FB87",
+  {
+    "name": "zombieb",
+    "hash": "DE05FB87",
     "category": "Motorcycles",
     "label": "Zombieb"
   },
-  "blade": {
-    "hash": "0xB820ED5E",
+  {
+    "name": "blade",
+    "hash": "B820ED5E",
     "category": "Muscle",
     "label": "Blade"
   },
-  "broadway": {
-    "hash": "0x8CC51028",
+  {
+    "name": "broadway",
+    "hash": "8CC51028",
     "category": "Muscle",
     "label": "Broadway"
   },
-  "buccaneer": {
-    "hash": "0xD756460C",
+  {
+    "name": "buccaneer",
+    "hash": "D756460C",
     "category": "Muscle",
     "label": "Buccaneer"
   },
-  "buccaneer2": {
-    "hash": "0xC397F748",
+  {
+    "name": "buccaneer2",
+    "hash": "C397F748",
     "category": "Muscle",
     "label": "Buccaneer2"
   },
-  "chino": {
-    "hash": "0x14D69010",
+  {
+    "name": "chino",
+    "hash": "14D69010",
     "category": "Muscle",
     "label": "Chino"
   },
-  "chino2": {
-    "hash": "0xAED64A63",
+  {
+    "name": "chino2",
+    "hash": "AED64A63",
     "category": "Muscle",
     "label": "Chino2"
   },
-  "clique": {
-    "hash": "0xA29F78B0",
+  {
+    "name": "clique",
+    "hash": "A29F78B0",
     "category": "Muscle",
     "label": "Clique"
   },
-  "coquette3": {
-    "hash": "0x2EC385FE",
+  {
+    "name": "coquette3",
+    "hash": "2EC385FE",
     "category": "Muscle",
     "label": "Coquette3"
   },
-  "deviant": {
-    "hash": "0x4C3FFF49",
+  {
+    "name": "deviant",
+    "hash": "4C3FFF49",
     "category": "Muscle",
     "label": "Deviant"
   },
-  "dominator": {
-    "hash": "0x04CE68AC",
+  {
+    "name": "dominator",
+    "hash": "04CE68AC",
     "category": "Muscle",
     "label": "Dominator"
   },
-  "dominator2": {
-    "hash": "0xC96B73D9",
+  {
+    "name": "dominator2",
+    "hash": "C96B73D9",
     "category": "Muscle",
     "label": "Dominator2"
   },
-  "dominator3": {
-    "hash": "0xC52C6B93",
+  {
+    "name": "dominator3",
+    "hash": "C52C6B93",
     "category": "Muscle",
     "label": "Dominator3"
   },
-  "dominator4": {
-    "hash": "0xD6FB0F30",
+  {
+    "name": "dominator4",
+    "hash": "D6FB0F30",
     "category": "Muscle",
     "label": "Dominator4"
   },
-  "dominator5": {
-    "hash": "0xAE0A3D4F",
+  {
+    "name": "dominator5",
+    "hash": "AE0A3D4F",
     "category": "Muscle",
     "label": "Dominator5"
   },
-  "dominator6": {
-    "hash": "0xB2E046FB",
+  {
+    "name": "dominator6",
+    "hash": "B2E046FB",
     "category": "Muscle",
     "label": "Dominator6"
   },
-  "dominator7": {
-    "hash": "0x196F9418",
+  {
+    "name": "dominator7",
+    "hash": "196F9418",
     "category": "Muscle",
     "label": "Dominator7"
   },
-  "dukes": {
-    "hash": "0x2B26F456",
+  {
+    "name": "dukes",
+    "hash": "2B26F456",
     "category": "Muscle",
     "label": "Dukes"
   },
-  "dukes2": {
-    "hash": "0xEC8F7094",
+  {
+    "name": "dukes2",
+    "hash": "EC8F7094",
     "category": "Muscle",
     "label": "Dukes2"
   },
-  "dukes3": {
-    "hash": "0x7F3415E3",
+  {
+    "name": "dukes3",
+    "hash": "7F3415E3",
     "category": "Muscle",
     "label": "Dukes3"
   },
-  "faction": {
-    "hash": "0x81A9CDDF",
+  {
+    "name": "faction",
+    "hash": "81A9CDDF",
     "category": "Muscle",
     "label": "Faction"
   },
-  "faction2": {
-    "hash": "0x95466BDB",
+  {
+    "name": "faction2",
+    "hash": "95466BDB",
     "category": "Muscle",
     "label": "Faction2"
   },
-  "faction3": {
-    "hash": "0x866BCE26",
+  {
+    "name": "faction3",
+    "hash": "866BCE26",
     "category": "Muscle",
     "label": "Faction3"
   },
-  "ellie": {
-    "hash": "0xB472D2B5",
+  {
+    "name": "ellie",
+    "hash": "B472D2B5",
     "category": "Muscle",
     "label": "Ellie"
   },
-  "eudora": {
-    "hash": "0xB581BF9A",
+  {
+    "name": "eudora",
+    "hash": "B581BF9A",
     "category": "Muscle",
     "label": "Eudora"
   },
-  "gauntlet": {
-    "hash": "0x94B395C5",
+  {
+    "name": "gauntlet",
+    "hash": "94B395C5",
     "category": "Muscle",
     "label": "Gauntlet"
   },
-  "gauntlet2": {
-    "hash": "0x14D22159",
+  {
+    "name": "gauntlet2",
+    "hash": "14D22159",
     "category": "Muscle",
     "label": "Gauntlet2"
   },
-  "gauntlet3": {
-    "hash": "0x2B0C4DCD",
+  {
+    "name": "gauntlet3",
+    "hash": "2B0C4DCD",
     "category": "Muscle",
     "label": "Gauntlet3"
   },
-  "gauntlet4": {
-    "hash": "0x734C5E50",
+  {
+    "name": "gauntlet4",
+    "hash": "734C5E50",
     "category": "Muscle",
     "label": "Gauntlet4"
   },
-  "gauntlet5": {
-    "hash": "0x817AFAAD",
+  {
+    "name": "gauntlet5",
+    "hash": "817AFAAD",
     "category": "Muscle",
     "label": "Gauntlet5"
   },
-  "greenwood": {
-    "hash": "0x026ED430",
+  {
+    "name": "greenwood",
+    "hash": "026ED430",
     "category": "Muscle",
     "label": "Greenwood"
   },
-  "hermes": {
-    "hash": "0x00E83C17",
+  {
+    "name": "hermes",
+    "hash": "00E83C17",
     "category": "Muscle",
     "label": "Hermes"
   },
-  "hotknife": {
-    "hash": "0x0239E390",
+  {
+    "name": "hotknife",
+    "hash": "0239E390",
     "category": "Muscle",
     "label": "Hotknife"
   },
-  "hustler": {
-    "hash": "0x23CA25F2",
+  {
+    "name": "hustler",
+    "hash": "23CA25F2",
     "category": "Muscle",
     "label": "Hustler"
   },
-  "impaler": {
-    "hash": "0x83070B62",
+  {
+    "name": "impaler",
+    "hash": "83070B62",
     "category": "Muscle",
     "label": "Impaler"
   },
-  "impaler2": {
-    "hash": "0x3C26BD0C",
+  {
+    "name": "impaler2",
+    "hash": "3C26BD0C",
     "category": "Muscle",
     "label": "Impaler2"
   },
-  "impaler3": {
-    "hash": "0x8D45DF49",
+  {
+    "name": "impaler3",
+    "hash": "8D45DF49",
     "category": "Muscle",
     "label": "Impaler3"
   },
-  "impaler4": {
-    "hash": "0x9804F4C7",
+  {
+    "name": "impaler4",
+    "hash": "9804F4C7",
     "category": "Muscle",
     "label": "Impaler4"
   },
-  "imperator": {
-    "hash": "0x1A861243",
+  {
+    "name": "imperator",
+    "hash": "1A861243",
     "category": "Muscle",
     "label": "Imperator"
   },
-  "imperator2": {
-    "hash": "0x619C1B82",
+  {
+    "name": "imperator2",
+    "hash": "619C1B82",
     "category": "Muscle",
     "label": "Imperator2"
   },
-  "imperator3": {
-    "hash": "0xD2F77E37",
+  {
+    "name": "imperator3",
+    "hash": "D2F77E37",
     "category": "Muscle",
     "label": "Imperator3"
   },
-  "lurcher": {
-    "hash": "0x7B47A6A7",
+  {
+    "name": "lurcher",
+    "hash": "7B47A6A7",
     "category": "Muscle",
     "label": "Lurcher"
   },
-  "moonbeam": {
-    "hash": "0x1F52A43F",
+  {
+    "name": "moonbeam",
+    "hash": "1F52A43F",
     "category": "Muscle",
     "label": "Moonbeam"
   },
-  "moonbeam2": {
-    "hash": "0x710A2B9B",
+  {
+    "name": "moonbeam2",
+    "hash": "710A2B9B",
     "category": "Muscle",
     "label": "Moonbeam2"
   },
-  "nightshade": {
-    "hash": "0x8C2BD0DC",
+  {
+    "name": "nightshade",
+    "hash": "8C2BD0DC",
     "category": "Muscle",
     "label": "Nightshade"
   },
-  "peyote2": {
-    "hash": "0x9472CD24",
+  {
+    "name": "peyote2",
+    "hash": "9472CD24",
     "category": "Muscle",
     "label": "Peyote2"
   },
-  "phoenix": {
-    "hash": "0x831A21D5",
+  {
+    "name": "phoenix",
+    "hash": "831A21D5",
     "category": "Muscle",
     "label": "Phoenix"
   },
-  "picador": {
-    "hash": "0x59E0FBF3",
+  {
+    "name": "picador",
+    "hash": "59E0FBF3",
     "category": "Muscle",
     "label": "Picador"
   },
-  "ratloader": {
-    "hash": "0xD83C13CE",
+  {
+    "name": "ratloader",
+    "hash": "D83C13CE",
     "category": "Muscle",
     "label": "Ratloader"
   },
-  "ratloader2": {
-    "hash": "0xDCE1D9F7",
+  {
+    "name": "ratloader2",
+    "hash": "DCE1D9F7",
     "category": "Muscle",
     "label": "Ratloader2"
   },
-  "ruiner": {
-    "hash": "0xF26CEFF9",
+  {
+    "name": "ruiner",
+    "hash": "F26CEFF9",
     "category": "Muscle",
     "label": "Ruiner"
   },
-  "ruiner2": {
-    "hash": "0x381E10BD",
+  {
+    "name": "ruiner2",
+    "hash": "381E10BD",
     "category": "Muscle",
     "label": "Ruiner2"
   },
-  "ruiner3": {
-    "hash": "0x2E5AFD37",
+  {
+    "name": "ruiner3",
+    "hash": "2E5AFD37",
     "category": "Muscle",
     "label": "Ruiner3"
   },
-  "ruiner4": {
-    "hash": "0x65BDEBFC",
+  {
+    "name": "ruiner4",
+    "hash": "65BDEBFC",
     "category": "Muscle",
     "label": "Ruiner4"
   },
-  "sabregt": {
-    "hash": "0x9B909C94",
+  {
+    "name": "sabregt",
+    "hash": "9B909C94",
     "category": "Muscle",
     "label": "Sabregt"
   },
-  "sabregt2": {
-    "hash": "0x0D4EA603",
+  {
+    "name": "sabregt2",
+    "hash": "0D4EA603",
     "category": "Muscle",
     "label": "Sabregt2"
   },
-  "slamvan": {
-    "hash": "0x2B7F9DE3",
+  {
+    "name": "slamvan",
+    "hash": "2B7F9DE3",
     "category": "Muscle",
     "label": "Slamvan"
   },
-  "slamvan2": {
-    "hash": "0x31ADBBFC",
+  {
+    "name": "slamvan2",
+    "hash": "31ADBBFC",
     "category": "Muscle",
     "label": "Slamvan2"
   },
-  "slamvan3": {
-    "hash": "0x42BC5E19",
+  {
+    "name": "slamvan3",
+    "hash": "42BC5E19",
     "category": "Muscle",
     "label": "Slamvan3"
   },
-  "slamvan4": {
-    "hash": "0x8526E2F5",
+  {
+    "name": "slamvan4",
+    "hash": "8526E2F5",
     "category": "Muscle",
     "label": "Slamvan4"
   },
-  "slamvan5": {
-    "hash": "0x163F8520",
+  {
+    "name": "slamvan5",
+    "hash": "163F8520",
     "category": "Muscle",
     "label": "Slamvan5"
   },
-  "slamvan6": {
-    "hash": "0x67D52852",
+  {
+    "name": "slamvan6",
+    "hash": "67D52852",
     "category": "Muscle",
     "label": "Slamvan6"
   },
-  "stalion": {
-    "hash": "0x72A4C31E",
+  {
+    "name": "stalion",
+    "hash": "72A4C31E",
     "category": "Muscle",
     "label": "Stalion"
   },
-  "stalion2": {
-    "hash": "0xE80F67EE",
+  {
+    "name": "stalion2",
+    "hash": "E80F67EE",
     "category": "Muscle",
     "label": "Stalion2"
   },
-  "tahoma": {
-    "hash": "0xE478B977",
+  {
+    "name": "tahoma",
+    "hash": "E478B977",
     "category": "Muscle",
     "label": "Tahoma"
   },
-  "tampa": {
-    "hash": "0x39F9C898",
+  {
+    "name": "tampa",
+    "hash": "39F9C898",
     "category": "Muscle",
     "label": "Tampa"
   },
-  "tampa3": {
-    "hash": "0xB7D9F7F1",
+  {
+    "name": "tampa3",
+    "hash": "B7D9F7F1",
     "category": "Muscle",
     "label": "Tampa3"
   },
-  "tulip": {
-    "hash": "0x56D42971",
+  {
+    "name": "tulip",
+    "hash": "56D42971",
     "category": "Muscle",
     "label": "Tulip"
   },
-  "tulip2": {
-    "hash": "0x1004EDA4",
+  {
+    "name": "tulip2",
+    "hash": "1004EDA4",
     "category": "Muscle",
     "label": "Tulip2"
   },
-  "vamos": {
-    "hash": "0xFD128DFD",
+  {
+    "name": "vamos",
+    "hash": "FD128DFD",
     "category": "Muscle",
     "label": "Vamos"
   },
-  "vigero": {
-    "hash": "0xCEC6B9B7",
+  {
+    "name": "vigero",
+    "hash": "CEC6B9B7",
     "category": "Muscle",
     "label": "Vigero"
   },
-  "vigero2": {
-    "hash": "0x973141FC",
+  {
+    "name": "vigero2",
+    "hash": "973141FC",
     "category": "Muscle",
     "label": "Vigero2"
   },
-  "virgo": {
-    "hash": "0xE2504942",
+  {
+    "name": "virgo",
+    "hash": "E2504942",
     "category": "Muscle",
     "label": "Virgo"
   },
-  "virgo2": {
-    "hash": "0xCA62927A",
+  {
+    "name": "virgo2",
+    "hash": "CA62927A",
     "category": "Muscle",
     "label": "Virgo2"
   },
-  "virgo3": {
-    "hash": "0x00FDFFB0",
+  {
+    "name": "virgo3",
+    "hash": "00FDFFB0",
     "category": "Muscle",
     "label": "Virgo3"
   },
-  "voodoo": {
-    "hash": "0x779B4F2D",
+  {
+    "name": "voodoo",
+    "hash": "779B4F2D",
     "category": "Muscle",
     "label": "Voodoo"
   },
-  "voodoo2": {
-    "hash": "0x1F3766E3",
+  {
+    "name": "voodoo2",
+    "hash": "1F3766E3",
     "category": "Muscle",
     "label": "Voodoo2"
   },
-  "weevil2": {
-    "hash": "0xC4BB1908",
+  {
+    "name": "weevil2",
+    "hash": "C4BB1908",
     "category": "Muscle",
     "label": "Weevil2"
   },
-  "yosemite": {
-    "hash": "0x6F946279",
+  {
+    "name": "yosemite",
+    "hash": "6F946279",
     "category": "Muscle",
     "label": "Yosemite"
   },
-  "yosemite2": {
-    "hash": "0x64F49967",
+  {
+    "name": "yosemite2",
+    "hash": "64F49967",
     "category": "Muscle",
     "label": "Yosemite2"
   },
-  "yosemite3": {
-    "hash": "0x0409D787",
+  {
+    "name": "yosemite3",
+    "hash": "0409D787",
     "category": "Muscle",
     "label": "Yosemite3"
   },
-  "bfinjection": {
-    "hash": "0x432AA566",
+  {
+    "name": "bfinjection",
+    "hash": "432AA566",
     "category": "Off-Road",
     "label": "Bfinjection"
   },
-  "bifta": {
-    "hash": "0xEB298297",
+  {
+    "name": "bifta",
+    "hash": "EB298297",
     "category": "Off-Road",
     "label": "Bifta"
   },
-  "blazer": {
-    "hash": "0x8125BCF9",
+  {
+    "name": "blazer",
+    "hash": "8125BCF9",
     "category": "Off-Road",
     "label": "Blazer"
   },
-  "blazer2": {
-    "hash": "0xFD231729",
+  {
+    "name": "blazer2",
+    "hash": "FD231729",
     "category": "Off-Road",
     "label": "Blazer2"
   },
-  "blazer3": {
-    "hash": "0xB44F0582",
+  {
+    "name": "blazer3",
+    "hash": "B44F0582",
     "category": "Off-Road",
     "label": "Blazer3"
   },
-  "blazer4": {
-    "hash": "0xE5BA6858",
+  {
+    "name": "blazer4",
+    "hash": "E5BA6858",
     "category": "Off-Road",
     "label": "Blazer4"
   },
-  "blazer5": {
-    "hash": "0xA1355F67",
+  {
+    "name": "blazer5",
+    "hash": "A1355F67",
     "category": "Off-Road",
     "label": "Blazer5"
   },
-  "bodhi2": {
-    "hash": "0xAA699BB6",
+  {
+    "name": "bodhi2",
+    "hash": "AA699BB6",
     "category": "Off-Road",
     "label": "Bodhi2"
   },
-  "brawler": {
-    "hash": "0xA7CE1BC5",
+  {
+    "name": "brawler",
+    "hash": "A7CE1BC5",
     "category": "Off-Road",
     "label": "Brawler"
   },
-  "bruiser": {
-    "hash": "0x27D79225",
+  {
+    "name": "bruiser",
+    "hash": "27D79225",
     "category": "Off-Road",
     "label": "Bruiser"
   },
-  "bruiser2": {
-    "hash": "0x9B065C9E",
+  {
+    "name": "bruiser2",
+    "hash": "9B065C9E",
     "category": "Off-Road",
     "label": "Bruiser2"
   },
-  "bruiser3": {
-    "hash": "0x8644331A",
+  {
+    "name": "bruiser3",
+    "hash": "8644331A",
     "category": "Off-Road",
     "label": "Bruiser3"
   },
-  "brutus": {
-    "hash": "0x7F81A829",
+  {
+    "name": "brutus",
+    "hash": "7F81A829",
     "category": "Off-Road",
     "label": "Brutus"
   },
-  "brutus2": {
-    "hash": "0x8F49AE28",
+  {
+    "name": "brutus2",
+    "hash": "8F49AE28",
     "category": "Off-Road",
     "label": "Brutus2"
   },
-  "brutus3": {
-    "hash": "0x798682A2",
+  {
+    "name": "brutus3",
+    "hash": "798682A2",
     "category": "Off-Road",
     "label": "Brutus3"
   },
-  "caracara": {
-    "hash": "0x4ABEBF23",
+  {
+    "name": "caracara",
+    "hash": "4ABEBF23",
     "category": "Off-Road",
     "label": "Caracara"
   },
-  "caracara2": {
-    "hash": "0xAF966F3C",
+  {
+    "name": "caracara2",
+    "hash": "AF966F3C",
     "category": "Off-Road",
     "label": "Caracara2"
   },
-  "dloader": {
-    "hash": "0x698521E3",
+  {
+    "name": "dloader",
+    "hash": "698521E3",
     "category": "Off-Road",
     "label": "Dloader"
   },
-  "draugur": {
-    "hash": "0xD235A4A6",
+  {
+    "name": "draugur",
+    "hash": "D235A4A6",
     "category": "Off-Road",
     "label": "Draugur"
   },
-  "dubsta3": {
-    "hash": "0xB6410173",
+  {
+    "name": "dubsta3",
+    "hash": "B6410173",
     "category": "Off-Road",
     "label": "Dubsta3"
   },
-  "dune": {
-    "hash": "0x9CF21E0F",
+  {
+    "name": "dune",
+    "hash": "9CF21E0F",
     "category": "Off-Road",
     "label": "Dune"
   },
-  "dune2": {
-    "hash": "0x1FD824AF",
+  {
+    "name": "dune2",
+    "hash": "1FD824AF",
     "category": "Off-Road",
     "label": "Dune2"
   },
-  "dune3": {
-    "hash": "0x711D4738",
+  {
+    "name": "dune3",
+    "hash": "711D4738",
     "category": "Off-Road",
     "label": "Dune3"
   },
-  "dune4": {
-    "hash": "0xCEB28249",
+  {
+    "name": "dune4",
+    "hash": "CEB28249",
     "category": "Off-Road",
     "label": "Dune4"
   },
-  "dune5": {
-    "hash": "0xED62BFA9",
+  {
+    "name": "dune5",
+    "hash": "ED62BFA9",
     "category": "Off-Road",
     "label": "Dune5"
   },
-  "everon": {
-    "hash": "0x97553C28",
+  {
+    "name": "everon",
+    "hash": "97553C28",
     "category": "Off-Road",
     "label": "Everon"
   },
-  "freecrawler": {
-    "hash": "0xFCC2F483",
+  {
+    "name": "freecrawler",
+    "hash": "FCC2F483",
     "category": "Off-Road",
     "label": "Freecrawler"
   },
-  "hellion": {
-    "hash": "0xEA6A047F",
+  {
+    "name": "hellion",
+    "hash": "EA6A047F",
     "category": "Off-Road",
     "label": "Hellion"
   },
-  "insurgent": {
-    "hash": "0x9114EADA",
+  {
+    "name": "insurgent",
+    "hash": "9114EADA",
     "category": "Off-Road",
     "label": "Insurgent"
   },
-  "insurgent2": {
-    "hash": "0x7B7E56F0",
+  {
+    "name": "insurgent2",
+    "hash": "7B7E56F0",
     "category": "Off-Road",
     "label": "Insurgent2"
   },
-  "insurgent3": {
-    "hash": "0x8D4B7A8A",
+  {
+    "name": "insurgent3",
+    "hash": "8D4B7A8A",
     "category": "Off-Road",
     "label": "Insurgent3"
   },
-  "kalahari": {
-    "hash": "0x05852838",
+  {
+    "name": "kalahari",
+    "hash": "05852838",
     "category": "Off-Road",
     "label": "Kalahari"
   },
-  "kamacho": {
-    "hash": "0xF8C2E0E7",
+  {
+    "name": "kamacho",
+    "hash": "F8C2E0E7",
     "category": "Off-Road",
     "label": "Kamacho"
   },
-  "marshall": {
-    "hash": "0x49863E9C",
+  {
+    "name": "marshall",
+    "hash": "49863E9C",
     "category": "Off-Road",
     "label": "Marshall"
   },
-  "mesa3": {
-    "hash": "0x84F42E51",
+  {
+    "name": "mesa3",
+    "hash": "84F42E51",
     "category": "Off-Road",
     "label": "Mesa3"
   },
-  "monster": {
-    "hash": "0xCD93A7DB",
+  {
+    "name": "monster",
+    "hash": "CD93A7DB",
     "category": "Off-Road",
     "label": "Monster"
   },
-  "monster3": {
-    "hash": "0x669EB40A",
+  {
+    "name": "monster3",
+    "hash": "669EB40A",
     "category": "Off-Road",
     "label": "Monster3"
   },
-  "monster4": {
-    "hash": "0x32174AFC",
+  {
+    "name": "monster4",
+    "hash": "32174AFC",
     "category": "Off-Road",
     "label": "Monster4"
   },
-  "monster5": {
-    "hash": "0xD556917C",
+  {
+    "name": "monster5",
+    "hash": "D556917C",
     "category": "Off-Road",
     "label": "Monster5"
   },
-  "menacer": {
-    "hash": "0x79DD18AE",
+  {
+    "name": "menacer",
+    "hash": "79DD18AE",
     "category": "Off-Road",
     "label": "Menacer"
   },
-  "outlaw": {
-    "hash": "0x185E2FF3",
+  {
+    "name": "outlaw",
+    "hash": "185E2FF3",
     "category": "Off-Road",
     "label": "Outlaw"
   },
-  "nightshark": {
-    "hash": "0x19DD9ED1",
+  {
+    "name": "nightshark",
+    "hash": "19DD9ED1",
     "category": "Off-Road",
     "label": "Nightshark"
   },
-  "patriot3": {
-    "hash": "0xD80F4A44",
+  {
+    "name": "patriot3",
+    "hash": "D80F4A44",
     "category": "Off-Road",
     "label": "Patriot3"
   },
-  "rancherxl": {
-    "hash": "0x6210CBB0",
+  {
+    "name": "rancherxl",
+    "hash": "6210CBB0",
     "category": "Off-Road",
     "label": "Rancherxl"
   },
-  "rancherxl2": {
-    "hash": "0x7341576B",
+  {
+    "name": "rancherxl2",
+    "hash": "7341576B",
     "category": "Off-Road",
     "label": "Rancherxl2"
   },
-  "rebel": {
-    "hash": "0xB802DD46",
+  {
+    "name": "rebel",
+    "hash": "B802DD46",
     "category": "Off-Road",
     "label": "Rebel"
   },
-  "rebel2": {
-    "hash": "0x8612B64B",
+  {
+    "name": "rebel2",
+    "hash": "8612B64B",
     "category": "Off-Road",
     "label": "Rebel2"
   },
-  "rcbandito": {
-    "hash": "0xEEF345EC",
+  {
+    "name": "rcbandito",
+    "hash": "EEF345EC",
     "category": "Off-Road",
     "label": "Rcbandito"
   },
-  "riata": {
-    "hash": "0xA4A4E453",
+  {
+    "name": "riata",
+    "hash": "A4A4E453",
     "category": "Off-Road",
     "label": "Riata"
   },
-  "sandking": {
-    "hash": "0xB9210FD0",
+  {
+    "name": "sandking",
+    "hash": "B9210FD0",
     "category": "Off-Road",
     "label": "Sandking"
   },
-  "sandking2": {
-    "hash": "0x3AF8C345",
+  {
+    "name": "sandking2",
+    "hash": "3AF8C345",
     "category": "Off-Road",
     "label": "Sandking2"
   },
-  "technical": {
-    "hash": "0x83051506",
+  {
+    "name": "technical",
+    "hash": "83051506",
     "category": "Off-Road",
     "label": "Technical"
   },
-  "technical2": {
-    "hash": "0x4662BCBB",
+  {
+    "name": "technical2",
+    "hash": "4662BCBB",
     "category": "Off-Road",
     "label": "Technical2"
   },
-  "technical3": {
-    "hash": "0x50D4D19F",
+  {
+    "name": "technical3",
+    "hash": "50D4D19F",
     "category": "Off-Road",
     "label": "Technical3"
   },
-  "trophytruck": {
-    "hash": "0x0612F4B6",
+  {
+    "name": "trophytruck",
+    "hash": "0612F4B6",
     "category": "Off-Road",
     "label": "Trophytruck"
   },
-  "trophytruck2": {
-    "hash": "0xD876DBE2",
+  {
+    "name": "trophytruck2",
+    "hash": "D876DBE2",
     "category": "Off-Road",
     "label": "Trophytruck2"
   },
-  "vagrant": {
-    "hash": "0x2C1FEA99",
+  {
+    "name": "vagrant",
+    "hash": "2C1FEA99",
     "category": "Off-Road",
     "label": "Vagrant"
   },
-  "verus": {
-    "hash": "0x11CBC051",
+  {
+    "name": "verus",
+    "hash": "11CBC051",
     "category": "Off-Road",
     "label": "Verus"
   },
-  "winky": {
-    "hash": "0xF376F1E6",
+  {
+    "name": "winky",
+    "hash": "F376F1E6",
     "category": "Off-Road",
     "label": "Winky"
   },
-  "zhaba": {
-    "hash": "0x4C8DBA51",
+  {
+    "name": "zhaba",
+    "hash": "4C8DBA51",
     "category": "Off-Road",
     "label": "Zhaba"
   },
-  "formula": {
-    "hash": "0x1446590A",
+  {
+    "name": "formula",
+    "hash": "1446590A",
     "category": "Open Wheel",
     "label": "Formula"
   },
-  "formula2": {
-    "hash": "0x8B213907",
+  {
+    "name": "formula2",
+    "hash": "8B213907",
     "category": "Open Wheel",
     "label": "Formula2"
   },
-  "openwheel1": {
-    "hash": "0x58F77553",
+  {
+    "name": "openwheel1",
+    "hash": "58F77553",
     "category": "Open Wheel",
     "label": "Openwheel1"
   },
-  "openwheel2": {
-    "hash": "0x4669D038",
+  {
+    "name": "openwheel2",
+    "hash": "4669D038",
     "category": "Open Wheel",
     "label": "Openwheel2"
   },
-  "alkonost": {
-    "hash": "0xEA313705",
+  {
+    "name": "alkonost",
+    "hash": "EA313705",
     "category": "Planes",
     "label": "Alkonost"
   },
-  "alphaz1": {
-    "hash": "0xA52F6866",
+  {
+    "name": "alphaz1",
+    "hash": "A52F6866",
     "category": "Planes",
     "label": "Alphaz1"
   },
-  "avenger": {
-    "hash": "0x81BD2ED0",
+  {
+    "name": "avenger",
+    "hash": "81BD2ED0",
     "category": "Planes",
     "label": "Avenger"
   },
-  "avenger2": {
-    "hash": "0x18606535",
+  {
+    "name": "avenger2",
+    "hash": "18606535",
     "category": "Planes",
     "label": "Avenger2"
   },
-  "besra": {
-    "hash": "0x6CBD1D6D",
+  {
+    "name": "besra",
+    "hash": "6CBD1D6D",
     "category": "Planes",
     "label": "Besra"
   },
-  "blimp": {
-    "hash": "0xF7004C86",
+  {
+    "name": "blimp",
+    "hash": "F7004C86",
     "category": "Planes",
     "label": "Blimp"
   },
-  "blimp2": {
-    "hash": "0xDB6B4924",
+  {
+    "name": "blimp2",
+    "hash": "DB6B4924",
     "category": "Planes",
     "label": "Blimp2"
   },
-  "blimp3": {
-    "hash": "0xEDA4ED97",
+  {
+    "name": "blimp3",
+    "hash": "EDA4ED97",
     "category": "Planes",
     "label": "Blimp3"
   },
-  "bombushka": {
-    "hash": "0xFE0A508C",
+  {
+    "name": "bombushka",
+    "hash": "FE0A508C",
     "category": "Planes",
     "label": "Bombushka"
   },
-  "cargoplane": {
-    "hash": "0x15F27762",
+  {
+    "name": "cargoplane",
+    "hash": "15F27762",
     "category": "Planes",
     "label": "Cargoplane"
   },
-  "cargoplane2": {
-    "hash": "0x8B4864E1",
+  {
+    "name": "cargoplane2",
+    "hash": "8B4864E1",
     "category": "Planes",
     "label": "Cargoplane2"
   },
-  "cuban800": {
-    "hash": "0xD9927FE3",
+  {
+    "name": "cuban800",
+    "hash": "D9927FE3",
     "category": "Planes",
     "label": "Cuban800"
   },
-  "dodo": {
-    "hash": "0xCA495705",
+  {
+    "name": "dodo",
+    "hash": "CA495705",
     "category": "Planes",
     "label": "Dodo"
   },
-  "duster": {
-    "hash": "0x39D6779E",
+  {
+    "name": "duster",
+    "hash": "39D6779E",
     "category": "Planes",
     "label": "Duster"
   },
-  "howard": {
-    "hash": "0xC3F25753",
+  {
+    "name": "howard",
+    "hash": "C3F25753",
     "category": "Planes",
     "label": "Howard"
   },
-  "hydra": {
-    "hash": "0x39D6E83F",
+  {
+    "name": "hydra",
+    "hash": "39D6E83F",
     "category": "Planes",
     "label": "Hydra"
   },
-  "jet": {
-    "hash": "0x3F119114",
+  {
+    "name": "jet",
+    "hash": "3F119114",
     "category": "Planes",
     "label": "Jet"
   },
-  "lazer": {
-    "hash": "0xB39B0AE6",
+  {
+    "name": "lazer",
+    "hash": "B39B0AE6",
     "category": "Planes",
     "label": "Lazer"
   },
-  "luxor": {
-    "hash": "0x250B0C5E",
+  {
+    "name": "luxor",
+    "hash": "250B0C5E",
     "category": "Planes",
     "label": "Luxor"
   },
-  "luxor2": {
-    "hash": "0xB79F589E",
+  {
+    "name": "luxor2",
+    "hash": "B79F589E",
     "category": "Planes",
     "label": "Luxor2"
   },
-  "mammatus": {
-    "hash": "0x97E55D11",
+  {
+    "name": "mammatus",
+    "hash": "97E55D11",
     "category": "Planes",
     "label": "Mammatus"
   },
-  "microlight": {
-    "hash": "0x96E24857",
+  {
+    "name": "microlight",
+    "hash": "96E24857",
     "category": "Planes",
     "label": "Microlight"
   },
-  "miljet": {
-    "hash": "0x09D80F93",
+  {
+    "name": "miljet",
+    "hash": "09D80F93",
     "category": "Planes",
     "label": "Miljet"
   },
-  "mogul": {
-    "hash": "0xD35698EF",
+  {
+    "name": "mogul",
+    "hash": "D35698EF",
     "category": "Planes",
     "label": "Mogul"
   },
-  "molotok": {
-    "hash": "0x5D56F01B",
+  {
+    "name": "molotok",
+    "hash": "5D56F01B",
     "category": "Planes",
     "label": "Molotok"
   },
-  "nimbus": {
-    "hash": "0xB2CF7250",
+  {
+    "name": "nimbus",
+    "hash": "B2CF7250",
     "category": "Planes",
     "label": "Nimbus"
   },
-  "nokota": {
-    "hash": "0x3DC92356",
+  {
+    "name": "nokota",
+    "hash": "3DC92356",
     "category": "Planes",
     "label": "Nokota"
   },
-  "pyro": {
-    "hash": "0xAD6065C0",
+  {
+    "name": "pyro",
+    "hash": "AD6065C0",
     "category": "Planes",
     "label": "Pyro"
   },
-  "rogue": {
-    "hash": "0xC5DD6967",
+  {
+    "name": "rogue",
+    "hash": "C5DD6967",
     "category": "Planes",
     "label": "Rogue"
   },
-  "seabreeze": {
-    "hash": "0xE8983F9F",
+  {
+    "name": "seabreeze",
+    "hash": "E8983F9F",
     "category": "Planes",
     "label": "Seabreeze"
   },
-  "shamal": {
-    "hash": "0xB79C1BF5",
+  {
+    "name": "shamal",
+    "hash": "B79C1BF5",
     "category": "Planes",
     "label": "Shamal"
   },
-  "starling": {
-    "hash": "0x9A9EB7DE",
+  {
+    "name": "starling",
+    "hash": "9A9EB7DE",
     "category": "Planes",
     "label": "Starling"
   },
-  "strikeforce": {
-    "hash": "0x64DE07A1",
+  {
+    "name": "strikeforce",
+    "hash": "64DE07A1",
     "category": "Planes",
     "label": "Strikeforce"
   },
-  "stunt": {
-    "hash": "0x81794C70",
+  {
+    "name": "stunt",
+    "hash": "81794C70",
     "category": "Planes",
     "label": "Stunt"
   },
-  "titan": {
-    "hash": "0x761E2AD3",
+  {
+    "name": "titan",
+    "hash": "761E2AD3",
     "category": "Planes",
     "label": "Titan"
   },
-  "tula": {
-    "hash": "0x3E2E4F8A",
+  {
+    "name": "tula",
+    "hash": "3E2E4F8A",
     "category": "Planes",
     "label": "Tula"
   },
-  "velum": {
-    "hash": "0x9C429B6A",
+  {
+    "name": "velum",
+    "hash": "9C429B6A",
     "category": "Planes",
     "label": "Velum"
   },
-  "velum2": {
-    "hash": "0x403820E8",
+  {
+    "name": "velum2",
+    "hash": "403820E8",
     "category": "Planes",
     "label": "Velum2"
   },
-  "vestra": {
-    "hash": "0x4FF77E37",
+  {
+    "name": "vestra",
+    "hash": "4FF77E37",
     "category": "Planes",
     "label": "Vestra"
   },
-  "volatol": {
-    "hash": "0x1AAD0DED",
+  {
+    "name": "volatol",
+    "hash": "1AAD0DED",
     "category": "Planes",
     "label": "Volatol"
   },
-  "aleutian": {
-    "hash": "0xFDAEBF27",
+  {
+    "name": "aleutian",
+    "hash": "FDAEBF27",
     "category": "SUVs",
     "label": "Aleutian"
   },
-  "astron": {
-    "hash": "0x258C9364",
+  {
+    "name": "astron",
+    "hash": "258C9364",
     "category": "SUVs",
     "label": "Astron"
   },
-  "baller": {
-    "hash": "0xCFCA3668",
+  {
+    "name": "baller",
+    "hash": "CFCA3668",
     "category": "SUVs",
     "label": "Baller"
   },
-  "baller2": {
-    "hash": "0x08852855",
+  {
+    "name": "baller2",
+    "hash": "08852855",
     "category": "SUVs",
     "label": "Baller2"
   },
-  "baller3": {
-    "hash": "0x6FF0F727",
+  {
+    "name": "baller3",
+    "hash": "6FF0F727",
     "category": "SUVs",
     "label": "Baller3"
   },
-  "baller4": {
-    "hash": "0x25CBE2E2",
+  {
+    "name": "baller4",
+    "hash": "25CBE2E2",
     "category": "SUVs",
     "label": "Baller4"
   },
-  "baller5": {
-    "hash": "0x1C09CF5E",
+  {
+    "name": "baller5",
+    "hash": "1C09CF5E",
     "category": "SUVs",
     "label": "Baller5"
   },
-  "baller6": {
-    "hash": "0x27B4E6B0",
+  {
+    "name": "baller6",
+    "hash": "27B4E6B0",
     "category": "SUVs",
     "label": "Baller6"
   },
-  "baller7": {
-    "hash": "0x1573422D",
+  {
+    "name": "baller7",
+    "hash": "1573422D",
     "category": "SUVs",
     "label": "Baller7"
   },
-  "bjxl": {
-    "hash": "0x32B29A4B",
+  {
+    "name": "bjxl",
+    "hash": "32B29A4B",
     "category": "SUVs",
     "label": "Bjxl"
   },
-  "cavalcade": {
-    "hash": "0x779F23AA",
+  {
+    "name": "cavalcade",
+    "hash": "779F23AA",
     "category": "SUVs",
     "label": "Cavalcade"
   },
-  "cavalcade2": {
-    "hash": "0xD0EB2BE5",
+  {
+    "name": "cavalcade2",
+    "hash": "D0EB2BE5",
     "category": "SUVs",
     "label": "Cavalcade2"
   },
-  "contender": {
-    "hash": "0x28B67ACA",
+  {
+    "name": "contender",
+    "hash": "28B67ACA",
     "category": "SUVs",
     "label": "Contender"
   },
-  "dubsta": {
-    "hash": "0x462FE277",
+  {
+    "name": "dubsta",
+    "hash": "462FE277",
     "category": "SUVs",
     "label": "Dubsta"
   },
-  "dubsta2": {
-    "hash": "0xE882E5F6",
+  {
+    "name": "dubsta2",
+    "hash": "E882E5F6",
     "category": "SUVs",
     "label": "Dubsta2"
   },
-  "fq2": {
-    "hash": "0xBC32A33B",
+  {
+    "name": "fq2",
+    "hash": "BC32A33B",
     "category": "SUVs",
     "label": "Fq2"
   },
-  "granger": {
-    "hash": "0x9628879C",
+  {
+    "name": "granger",
+    "hash": "9628879C",
     "category": "SUVs",
     "label": "Granger"
   },
-  "granger2": {
-    "hash": "0xF06C29C7",
+  {
+    "name": "granger2",
+    "hash": "F06C29C7",
     "category": "SUVs",
     "label": "Granger2"
   },
-  "gresley": {
-    "hash": "0xA3FC0F4D",
+  {
+    "name": "gresley",
+    "hash": "A3FC0F4D",
     "category": "SUVs",
     "label": "Gresley"
   },
-  "habanero": {
-    "hash": "0x34B7390F",
+  {
+    "name": "habanero",
+    "hash": "34B7390F",
     "category": "SUVs",
     "label": "Habanero"
   },
-  "huntley": {
-    "hash": "0x1D06D681",
+  {
+    "name": "huntley",
+    "hash": "1D06D681",
     "category": "SUVs",
     "label": "Huntley"
   },
-  "issi8": {
-    "hash": "0x5C6C00B4",
+  {
+    "name": "issi8",
+    "hash": "5C6C00B4",
     "category": "SUVs",
     "label": "Issi8"
   },
-  "iwagen": {
-    "hash": "0x27816B7E",
+  {
+    "name": "iwagen",
+    "hash": "27816B7E",
     "category": "SUVs",
     "label": "Iwagen"
   },
-  "jubilee": {
-    "hash": "0x1B8165D3",
+  {
+    "name": "jubilee",
+    "hash": "1B8165D3",
     "category": "SUVs",
     "label": "Jubilee"
   },
-  "landstalker": {
-    "hash": "0x4BA4E8DC",
+  {
+    "name": "landstalker",
+    "hash": "4BA4E8DC",
     "category": "SUVs",
     "label": "Landstalker"
   },
-  "landstalker2": {
-    "hash": "0xCE0B9F22",
+  {
+    "name": "landstalker2",
+    "hash": "CE0B9F22",
     "category": "SUVs",
     "label": "Landstalker2"
   },
-  "mesa": {
-    "hash": "0x36848602",
+  {
+    "name": "mesa",
+    "hash": "36848602",
     "category": "SUVs",
     "label": "Mesa"
   },
-  "mesa2": {
-    "hash": "0xD36A4B44",
+  {
+    "name": "mesa2",
+    "hash": "D36A4B44",
     "category": "SUVs",
     "label": "Mesa2"
   },
-  "novak": {
-    "hash": "0x92F5024E",
+  {
+    "name": "novak",
+    "hash": "92F5024E",
     "category": "SUVs",
     "label": "Novak"
   },
-  "patriot": {
-    "hash": "0xCFCFEB3B",
+  {
+    "name": "patriot",
+    "hash": "CFCFEB3B",
     "category": "SUVs",
     "label": "Patriot"
   },
-  "patriot2": {
-    "hash": "0xE6E967F8",
+  {
+    "name": "patriot2",
+    "hash": "E6E967F8",
     "category": "SUVs",
     "label": "Patriot2"
   },
-  "radi": {
-    "hash": "0x9D96B45B",
+  {
+    "name": "radi",
+    "hash": "9D96B45B",
     "category": "SUVs",
     "label": "Radi"
   },
-  "rebla": {
-    "hash": "0x04F48FC4",
+  {
+    "name": "rebla",
+    "hash": "04F48FC4",
     "category": "SUVs",
     "label": "Rebla"
   },
-  "rocoto": {
-    "hash": "0x7F5C91F1",
+  {
+    "name": "rocoto",
+    "hash": "7F5C91F1",
     "category": "SUVs",
     "label": "Rocoto"
   },
-  "seminole": {
-    "hash": "0x48CECED3",
+  {
+    "name": "seminole",
+    "hash": "48CECED3",
     "category": "SUVs",
     "label": "Seminole"
   },
-  "seminole2": {
-    "hash": "0x94114926",
+  {
+    "name": "seminole2",
+    "hash": "94114926",
     "category": "SUVs",
     "label": "Seminole2"
   },
-  "serrano": {
-    "hash": "0x4FB1A214",
+  {
+    "name": "serrano",
+    "hash": "4FB1A214",
     "category": "SUVs",
     "label": "Serrano"
   },
-  "squaddie": {
-    "hash": "0xF9E67C05",
+  {
+    "name": "squaddie",
+    "hash": "F9E67C05",
     "category": "SUVs",
     "label": "Squaddie"
   },
-  "toros": {
-    "hash": "0xBA5334AC",
+  {
+    "name": "toros",
+    "hash": "BA5334AC",
     "category": "SUVs",
     "label": "Toros"
   },
-  "xls": {
-    "hash": "0x47BBCF2E",
+  {
+    "name": "xls",
+    "hash": "47BBCF2E",
     "category": "SUVs",
     "label": "Xls"
   },
-  "xls2": {
-    "hash": "0xE6401328",
+  {
+    "name": "xls2",
+    "hash": "E6401328",
     "category": "SUVs",
     "label": "Xls2"
   },
-  "asea": {
-    "hash": "0x94204D89",
+  {
+    "name": "asea",
+    "hash": "94204D89",
     "category": "Sedans",
     "label": "Asea"
   },
-  "asea2": {
-    "hash": "0x9441D8D5",
+  {
+    "name": "asea2",
+    "hash": "9441D8D5",
     "category": "Sedans",
     "label": "Asea2"
   },
-  "asterope": {
-    "hash": "0x8E9254FB",
+  {
+    "name": "asterope",
+    "hash": "8E9254FB",
     "category": "Sedans",
     "label": "Asterope"
   },
-  "asterope2": {
-    "hash": "0xD3D366B1",
+  {
+    "name": "asterope2",
+    "hash": "D3D366B1",
     "category": "Sedans",
     "label": "Asterope2"
   },
-  "cinquemila": {
-    "hash": "0xA4F52C13",
+  {
+    "name": "cinquemila",
+    "hash": "A4F52C13",
     "category": "Sedans",
     "label": "Cinquemila"
   },
-  "cog55": {
-    "hash": "0x360A438E",
+  {
+    "name": "cog55",
+    "hash": "360A438E",
     "category": "Sedans",
     "label": "Cog55"
   },
-  "cog552": {
-    "hash": "0x29FCD3E4",
+  {
+    "name": "cog552",
+    "hash": "29FCD3E4",
     "category": "Sedans",
     "label": "Cog552"
   },
-  "cognoscenti": {
-    "hash": "0x86FE0B60",
+  {
+    "name": "cognoscenti",
+    "hash": "86FE0B60",
     "category": "Sedans",
     "label": "Cognoscenti"
   },
-  "cognoscenti2": {
-    "hash": "0xDBF2D57A",
+  {
+    "name": "cognoscenti2",
+    "hash": "DBF2D57A",
     "category": "Sedans",
     "label": "Cognoscenti2"
   },
-  "deity": {
-    "hash": "0x5B531351",
+  {
+    "name": "deity",
+    "hash": "5B531351",
     "category": "Sedans",
     "label": "Deity"
   },
-  "emperor": {
-    "hash": "0xD7278283",
+  {
+    "name": "emperor",
+    "hash": "D7278283",
     "category": "Sedans",
     "label": "Emperor"
   },
-  "emperor2": {
-    "hash": "0x8FC3AADC",
+  {
+    "name": "emperor2",
+    "hash": "8FC3AADC",
     "category": "Sedans",
     "label": "Emperor2"
   },
-  "emperor3": {
-    "hash": "0xB5FCF74E",
+  {
+    "name": "emperor3",
+    "hash": "B5FCF74E",
     "category": "Sedans",
     "label": "Emperor3"
   },
-  "fugitive": {
-    "hash": "0x71CB2FFB",
+  {
+    "name": "fugitive",
+    "hash": "71CB2FFB",
     "category": "Sedans",
     "label": "Fugitive"
   },
-  "glendale": {
-    "hash": "0x047A6BC1",
+  {
+    "name": "glendale",
+    "hash": "047A6BC1",
     "category": "Sedans",
     "label": "Glendale"
   },
-  "glendale2": {
-    "hash": "0xC98BBAD6",
+  {
+    "name": "glendale2",
+    "hash": "C98BBAD6",
     "category": "Sedans",
     "label": "Glendale2"
   },
-  "ingot": {
-    "hash": "0xB3206692",
+  {
+    "name": "ingot",
+    "hash": "B3206692",
     "category": "Sedans",
     "label": "Ingot"
   },
-  "intruder": {
-    "hash": "0x34DD8AA1",
+  {
+    "name": "intruder",
+    "hash": "34DD8AA1",
     "category": "Sedans",
     "label": "Intruder"
   },
-  "limo2": {
-    "hash": "0xF92AEC4D",
+  {
+    "name": "limo2",
+    "hash": "F92AEC4D",
     "category": "Sedans",
     "label": "Limo2"
   },
-  "premier": {
-    "hash": "0x8FB66F9B",
+  {
+    "name": "premier",
+    "hash": "8FB66F9B",
     "category": "Sedans",
     "label": "Premier"
   },
-  "primo": {
-    "hash": "0xBB6B404F",
+  {
+    "name": "primo",
+    "hash": "BB6B404F",
     "category": "Sedans",
     "label": "Primo"
   },
-  "primo2": {
-    "hash": "0x86618EDA",
+  {
+    "name": "primo2",
+    "hash": "86618EDA",
     "category": "Sedans",
     "label": "Primo2"
   },
-  "regina": {
-    "hash": "0xFF22D208",
+  {
+    "name": "regina",
+    "hash": "FF22D208",
     "category": "Sedans",
     "label": "Regina"
   },
-  "rhinehart": {
-    "hash": "0x91673D0E",
+  {
+    "name": "rhinehart",
+    "hash": "91673D0E",
     "category": "Sedans",
     "label": "Rhinehart"
   },
-  "romero": {
-    "hash": "0x2560B2FC",
+  {
+    "name": "romero",
+    "hash": "2560B2FC",
     "category": "Sedans",
     "label": "Romero"
   },
-  "stafford": {
-    "hash": "0x1324E960",
+  {
+    "name": "stafford",
+    "hash": "1324E960",
     "category": "Sedans",
     "label": "Stafford"
   },
-  "stanier": {
-    "hash": "0xA7EDE74D",
+  {
+    "name": "stanier",
+    "hash": "A7EDE74D",
     "category": "Sedans",
     "label": "Stanier"
   },
-  "stratum": {
-    "hash": "0x66B4FC45",
+  {
+    "name": "stratum",
+    "hash": "66B4FC45",
     "category": "Sedans",
     "label": "Stratum"
   },
-  "stretch": {
-    "hash": "0x8B13F083",
+  {
+    "name": "stretch",
+    "hash": "8B13F083",
     "category": "Sedans",
     "label": "Stretch"
   },
-  "superd": {
-    "hash": "0x42F2ED16",
+  {
+    "name": "superd",
+    "hash": "42F2ED16",
     "category": "Sedans",
     "label": "Superd"
   },
-  "surge": {
-    "hash": "0x8F0E3594",
+  {
+    "name": "surge",
+    "hash": "8F0E3594",
     "category": "Sedans",
     "label": "Surge"
   },
-  "tailgater": {
-    "hash": "0xC3DDFDCE",
+  {
+    "name": "tailgater",
+    "hash": "C3DDFDCE",
     "category": "Sedans",
     "label": "Tailgater"
   },
-  "tailgater2": {
-    "hash": "0xB5D306A4",
+  {
+    "name": "tailgater2",
+    "hash": "B5D306A4",
     "category": "Sedans",
     "label": "Tailgater2"
   },
-  "warrener": {
-    "hash": "0x51D83328",
+  {
+    "name": "warrener",
+    "hash": "51D83328",
     "category": "Sedans",
     "label": "Warrener"
   },
-  "washington": {
-    "hash": "0x69F06B57",
+  {
+    "name": "washington",
+    "hash": "69F06B57",
     "category": "Sedans",
     "label": "Washington"
   },
-  "airbus": {
-    "hash": "0x4C80EB0E",
+  {
+    "name": "airbus",
+    "hash": "4C80EB0E",
     "category": "Service",
     "label": "Airbus"
   },
-  "brickade": {
-    "hash": "0xEDC6F847",
+  {
+    "name": "brickade",
+    "hash": "EDC6F847",
     "category": "Service",
     "label": "Brickade"
   },
-  "bus": {
-    "hash": "0xD577C962",
+  {
+    "name": "bus",
+    "hash": "D577C962",
     "category": "Service",
     "label": "Bus"
   },
-  "coach": {
-    "hash": "0x84718D34",
+  {
+    "name": "coach",
+    "hash": "84718D34",
     "category": "Service",
     "label": "Coach"
   },
-  "pbus2": {
-    "hash": "0x149BD32A",
+  {
+    "name": "pbus2",
+    "hash": "149BD32A",
     "category": "Service",
     "label": "Pbus2"
   },
-  "rallytruck": {
-    "hash": "0x829A3C44",
+  {
+    "name": "rallytruck",
+    "hash": "829A3C44",
     "category": "Service",
     "label": "Rallytruck"
   },
-  "rentalbus": {
-    "hash": "0xBE819C63",
+  {
+    "name": "rentalbus",
+    "hash": "BE819C63",
     "category": "Service",
     "label": "Rentalbus"
   },
-  "taxi": {
-    "hash": "0xC703DB5F",
+  {
+    "name": "taxi",
+    "hash": "C703DB5F",
     "category": "Service",
     "label": "Taxi"
   },
-  "tourbus": {
-    "hash": "0x73B1C3CB",
+  {
+    "name": "tourbus",
+    "hash": "73B1C3CB",
     "category": "Service",
     "label": "Tourbus"
   },
-  "trash": {
-    "hash": "0x72435A19",
+  {
+    "name": "trash",
+    "hash": "72435A19",
     "category": "Service",
     "label": "Trash"
   },
-  "trash2": {
-    "hash": "0xB527915C",
+  {
+    "name": "trash2",
+    "hash": "B527915C",
     "category": "Service",
     "label": "Trash2"
   },
-  "wastelander": {
-    "hash": "0x8E08EC82",
+  {
+    "name": "wastelander",
+    "hash": "8E08EC82",
     "category": "Service",
     "label": "Wastelander"
   },
-  "alpha": {
-    "hash": "0x2DB8D1AA",
+  {
+    "name": "alpha",
+    "hash": "2DB8D1AA",
     "category": "Sports",
     "label": "Alpha"
   },
-  "banshee": {
-    "hash": "0xC1E908D2",
+  {
+    "name": "banshee",
+    "hash": "C1E908D2",
     "category": "Sports",
     "label": "Banshee"
   },
-  "banshee2": {
-    "hash": "0x25C5AF13",
+  {
+    "name": "banshee2",
+    "hash": "25C5AF13",
     "category": "Sports",
     "label": "Banshee2"
   },
-  "bestiagts": {
-    "hash": "0x4BFCF28B",
+  {
+    "name": "bestiagts",
+    "hash": "4BFCF28B",
     "category": "Sports",
     "label": "Bestiagts"
   },
-  "blista2": {
-    "hash": "0x3DEE5EDA",
+  {
+    "name": "blista2",
+    "hash": "3DEE5EDA",
     "category": "Sports",
     "label": "Blista2"
   },
-  "blista3": {
-    "hash": "0xDCBC1C3B",
+  {
+    "name": "blista3",
+    "hash": "DCBC1C3B",
     "category": "Sports",
     "label": "Blista3"
   },
-  "buffalo": {
-    "hash": "0xEDD516C6",
+  {
+    "name": "buffalo",
+    "hash": "EDD516C6",
     "category": "Sports",
     "label": "Buffalo"
   },
-  "buffalo2": {
-    "hash": "0x2BEC3CBE",
+  {
+    "name": "buffalo2",
+    "hash": "2BEC3CBE",
     "category": "Sports",
     "label": "Buffalo2"
   },
-  "buffalo3": {
-    "hash": "0x0E2C013E",
+  {
+    "name": "buffalo3",
+    "hash": "0E2C013E",
     "category": "Sports",
     "label": "Buffalo3"
   },
-  "buffalo4": {
-    "hash": "0xDB0C9B04",
+  {
+    "name": "buffalo4",
+    "hash": "DB0C9B04",
     "category": "Sports",
     "label": "Buffalo4"
   },
-  "calico": {
-    "hash": "0xB8D657AD",
+  {
+    "name": "calico",
+    "hash": "B8D657AD",
     "category": "Sports",
     "label": "Calico"
   },
-  "carbonizzare": {
-    "hash": "0x7B8AB45F",
+  {
+    "name": "carbonizzare",
+    "hash": "7B8AB45F",
     "category": "Sports",
     "label": "Carbonizzare"
   },
-  "comet2": {
-    "hash": "0xC1AE4D16",
+  {
+    "name": "comet2",
+    "hash": "C1AE4D16",
     "category": "Sports",
     "label": "Comet2"
   },
-  "comet3": {
-    "hash": "0x877358AD",
+  {
+    "name": "comet3",
+    "hash": "877358AD",
     "category": "Sports",
     "label": "Comet3"
   },
-  "comet4": {
-    "hash": "0x5D1903F9",
+  {
+    "name": "comet4",
+    "hash": "5D1903F9",
     "category": "Sports",
     "label": "Comet4"
   },
-  "comet5": {
-    "hash": "0x276D98A3",
+  {
+    "name": "comet5",
+    "hash": "276D98A3",
     "category": "Sports",
     "label": "Comet5"
   },
-  "comet6": {
-    "hash": "0x991EFC04",
+  {
+    "name": "comet6",
+    "hash": "991EFC04",
     "category": "Sports",
     "label": "Comet6"
   },
-  "comet7": {
-    "hash": "0x440851D8",
+  {
+    "name": "comet7",
+    "hash": "440851D8",
     "category": "Sports",
     "label": "Comet7"
   },
-  "coquette": {
-    "hash": "0x067BC037",
+  {
+    "name": "coquette",
+    "hash": "067BC037",
     "category": "Sports",
     "label": "Coquette"
   },
-  "coquette4": {
-    "hash": "0x98F65A5E",
+  {
+    "name": "coquette4",
+    "hash": "98F65A5E",
     "category": "Sports",
     "label": "Coquette4"
   },
-  "corsita": {
-    "hash": "0xD3046147",
+  {
+    "name": "corsita",
+    "hash": "D3046147",
     "category": "Sports",
     "label": "Corsita"
   },
-  "cypher": {
-    "hash": "0x68A5D1EF",
+  {
+    "name": "cypher",
+    "hash": "68A5D1EF",
     "category": "Sports",
     "label": "Cypher"
   },
-  "drafter": {
-    "hash": "0x28EAB80F",
+  {
+    "name": "drafter",
+    "hash": "28EAB80F",
     "category": "Sports",
     "label": "Drafter"
   },
-  "deveste": {
-    "hash": "0x5EE005DA",
+  {
+    "name": "deveste",
+    "hash": "5EE005DA",
     "category": "Sports",
     "label": "Deveste"
   },
-  "elegy": {
-    "hash": "0x0BBA2261",
+  {
+    "name": "elegy",
+    "hash": "0BBA2261",
     "category": "Sports",
     "label": "Elegy"
   },
-  "elegy2": {
-    "hash": "0xDE3D9D22",
+  {
+    "name": "elegy2",
+    "hash": "DE3D9D22",
     "category": "Sports",
     "label": "Elegy2"
   },
-  "euros": {
-    "hash": "0x7980BDD5",
+  {
+    "name": "euros",
+    "hash": "7980BDD5",
     "category": "Sports",
     "label": "Euros"
   },
-  "everon2": {
-    "hash": "0xF82BC92E",
+  {
+    "name": "everon2",
+    "hash": "F82BC92E",
     "category": "Sports",
     "label": "Everon2"
   },
-  "feltzer2": {
-    "hash": "0x8911B9F5",
+  {
+    "name": "feltzer2",
+    "hash": "8911B9F5",
     "category": "Sports",
     "label": "Feltzer2"
   },
-  "flashgt": {
-    "hash": "0xB4F32118",
+  {
+    "name": "flashgt",
+    "hash": "B4F32118",
     "category": "Sports",
     "label": "Flashgt"
   },
-  "furoregt": {
-    "hash": "0xBF1691E0",
+  {
+    "name": "furoregt",
+    "hash": "BF1691E0",
     "category": "Sports",
     "label": "Furoregt"
   },
-  "fusilade": {
-    "hash": "0x1DC0BA53",
+  {
+    "name": "fusilade",
+    "hash": "1DC0BA53",
     "category": "Sports",
     "label": "Fusilade"
   },
-  "futo": {
-    "hash": "0x7836CE2F",
+  {
+    "name": "futo",
+    "hash": "7836CE2F",
     "category": "Sports",
     "label": "Futo"
   },
-  "futo2": {
-    "hash": "0xA6297CC8",
+  {
+    "name": "futo2",
+    "hash": "A6297CC8",
     "category": "Sports",
     "label": "Futo2"
   },
-  "gb200": {
-    "hash": "0x71CBEA98",
+  {
+    "name": "gb200",
+    "hash": "71CBEA98",
     "category": "Sports",
     "label": "Gb200"
   },
-  "growler": {
-    "hash": "0x4DC079D7",
+  {
+    "name": "growler",
+    "hash": "4DC079D7",
     "category": "Sports",
     "label": "Growler"
   },
-  "hotring": {
-    "hash": "0x42836BE5",
+  {
+    "name": "hotring",
+    "hash": "42836BE5",
     "category": "Sports",
     "label": "Hotring"
   },
-  "komoda": {
-    "hash": "0xCE44C4B9",
+  {
+    "name": "komoda",
+    "hash": "CE44C4B9",
     "category": "Sports",
     "label": "Komoda"
   },
-  "imorgon": {
-    "hash": "0xBC7C0A00",
+  {
+    "name": "imorgon",
+    "hash": "BC7C0A00",
     "category": "Sports",
     "label": "Imorgon"
   },
-  "issi7": {
-    "hash": "0x6E8DA4F7",
+  {
+    "name": "issi7",
+    "hash": "6E8DA4F7",
     "category": "Sports",
     "label": "Issi7"
   },
-  "italigto": {
-    "hash": "0xEC3E3404",
+  {
+    "name": "italigto",
+    "hash": "EC3E3404",
     "category": "Sports",
     "label": "Italigto"
   },
-  "italirsx": {
-    "hash": "0xBB78956A",
+  {
+    "name": "italirsx",
+    "hash": "BB78956A",
     "category": "Sports",
     "label": "Italirsx"
   },
-  "jugular": {
-    "hash": "0xF38C4245",
+  {
+    "name": "jugular",
+    "hash": "F38C4245",
     "category": "Sports",
     "label": "Jugular"
   },
-  "jester": {
-    "hash": "0xB2A716A3",
+  {
+    "name": "jester",
+    "hash": "B2A716A3",
     "category": "Sports",
     "label": "Jester"
   },
-  "jester2": {
-    "hash": "0xBE0E6126",
+  {
+    "name": "jester2",
+    "hash": "BE0E6126",
     "category": "Sports",
     "label": "Jester2"
   },
-  "jester3": {
-    "hash": "0xF330CB6A",
+  {
+    "name": "jester3",
+    "hash": "F330CB6A",
     "category": "Sports",
     "label": "Jester3"
   },
-  "jester4": {
-    "hash": "0xA1B3A871",
+  {
+    "name": "jester4",
+    "hash": "A1B3A871",
     "category": "Sports",
     "label": "Jester4"
   },
-  "khamelion": {
-    "hash": "0x206D1B68",
+  {
+    "name": "khamelion",
+    "hash": "206D1B68",
     "category": "Sports",
     "label": "Khamelion"
   },
-  "kuruma": {
-    "hash": "0xAE2BFE94",
+  {
+    "name": "kuruma",
+    "hash": "AE2BFE94",
     "category": "Sports",
     "label": "Kuruma"
   },
-  "kuruma2": {
-    "hash": "0x187D938D",
+  {
+    "name": "kuruma2",
+    "hash": "187D938D",
     "category": "Sports",
     "label": "Kuruma2"
   },
-  "locust": {
-    "hash": "0xC7E55211",
+  {
+    "name": "locust",
+    "hash": "C7E55211",
     "category": "Sports",
     "label": "Locust"
   },
-  "lynx": {
-    "hash": "0x1CBDC10B",
+  {
+    "name": "lynx",
+    "hash": "1CBDC10B",
     "category": "Sports",
     "label": "Lynx"
   },
-  "massacro": {
-    "hash": "0xF77ADE32",
+  {
+    "name": "massacro",
+    "hash": "F77ADE32",
     "category": "Sports",
     "label": "Massacro"
   },
-  "massacro2": {
-    "hash": "0xDA5819A3",
+  {
+    "name": "massacro2",
+    "hash": "DA5819A3",
     "category": "Sports",
     "label": "Massacro2"
   },
-  "neo": {
-    "hash": "0x9F6ED5A2",
+  {
+    "name": "neo",
+    "hash": "9F6ED5A2",
     "category": "Sports",
     "label": "Neo"
   },
-  "neon": {
-    "hash": "0x91CA96EE",
+  {
+    "name": "neon",
+    "hash": "91CA96EE",
     "category": "Sports",
     "label": "Neon"
   },
-  "ninef": {
-    "hash": "0x3D8FA25C",
+  {
+    "name": "ninef",
+    "hash": "3D8FA25C",
     "category": "Sports",
     "label": "Ninef"
   },
-  "ninef2": {
-    "hash": "0xA8E38B01",
+  {
+    "name": "ninef2",
+    "hash": "A8E38B01",
     "category": "Sports",
     "label": "Ninef2"
   },
-  "omnis": {
-    "hash": "0xD1AD4937",
+  {
+    "name": "omnis",
+    "hash": "D1AD4937",
     "category": "Sports",
     "label": "Omnis"
   },
-  "omnisegt": {
-    "hash": "0xE1E2E6D7",
+  {
+    "name": "omnisegt",
+    "hash": "E1E2E6D7",
     "category": "Sports",
     "label": "Omnisegt"
   },
-  "paragon": {
-    "hash": "0xE550775B",
+  {
+    "name": "paragon",
+    "hash": "E550775B",
     "category": "Sports",
     "label": "Paragon"
   },
-  "paragon2": {
-    "hash": "0x546D8EEE",
+  {
+    "name": "paragon2",
+    "hash": "546D8EEE",
     "category": "Sports",
     "label": "Paragon2"
   },
-  "pariah": {
-    "hash": "0x33B98FE2",
+  {
+    "name": "pariah",
+    "hash": "33B98FE2",
     "category": "Sports",
     "label": "Pariah"
   },
-  "panthere": {
-    "hash": "0x7D326F04",
+  {
+    "name": "panthere",
+    "hash": "7D326F04",
     "category": "Sports",
     "label": "Panthere"
   },
-  "penumbra": {
-    "hash": "0xE9805550",
+  {
+    "name": "penumbra",
+    "hash": "E9805550",
     "category": "Sports",
     "label": "Penumbra"
   },
-  "penumbra2": {
-    "hash": "0xDA5EC7DA",
+  {
+    "name": "penumbra2",
+    "hash": "DA5EC7DA",
     "category": "Sports",
     "label": "Penumbra2"
   },
-  "r300": {
-    "hash": "0x402586F8",
+  {
+    "name": "r300",
+    "hash": "402586F8",
     "category": "Sports",
     "label": "R300"
   },
-  "raiden": {
-    "hash": "0xA4D99B7D",
+  {
+    "name": "raiden",
+    "hash": "A4D99B7D",
     "category": "Sports",
     "label": "Raiden"
   },
-  "rapidgt": {
-    "hash": "0x8CB29A14",
+  {
+    "name": "rapidgt",
+    "hash": "8CB29A14",
     "category": "Sports",
     "label": "Rapidgt"
   },
-  "rapidgt2": {
-    "hash": "0x679450AF",
+  {
+    "name": "rapidgt2",
+    "hash": "679450AF",
     "category": "Sports",
     "label": "Rapidgt2"
   },
-  "raptor": {
-    "hash": "0xD7C56D39",
+  {
+    "name": "raptor",
+    "hash": "D7C56D39",
     "category": "Sports",
     "label": "Raptor"
   },
-  "remus": {
-    "hash": "0x5216AD5E",
+  {
+    "name": "remus",
+    "hash": "5216AD5E",
     "category": "Sports",
     "label": "Remus"
   },
-  "revolter": {
-    "hash": "0xE78CC3D9",
+  {
+    "name": "revolter",
+    "hash": "E78CC3D9",
     "category": "Sports",
     "label": "Revolter"
   },
-  "ruston": {
-    "hash": "0x2AE524A8",
+  {
+    "name": "ruston",
+    "hash": "2AE524A8",
     "category": "Sports",
     "label": "Ruston"
   },
-  "rt3000": {
-    "hash": "0xE505CF99",
+  {
+    "name": "rt3000",
+    "hash": "E505CF99",
     "category": "Sports",
     "label": "Rt3000"
   },
-  "schafter2": {
-    "hash": "0xB52B5113",
+  {
+    "name": "schafter2",
+    "hash": "B52B5113",
     "category": "Sports",
     "label": "Schafter2"
   },
-  "schafter3": {
-    "hash": "0xA774B5A6",
+  {
+    "name": "schafter3",
+    "hash": "A774B5A6",
     "category": "Sports",
     "label": "Schafter3"
   },
-  "schafter4": {
-    "hash": "0x58CF185C",
+  {
+    "name": "schafter4",
+    "hash": "58CF185C",
     "category": "Sports",
     "label": "Schafter4"
   },
-  "schafter5": {
-    "hash": "0xCB0E7CD9",
+  {
+    "name": "schafter5",
+    "hash": "CB0E7CD9",
     "category": "Sports",
     "label": "Schafter5"
   },
-  "schafter6": {
-    "hash": "0x72934BE4",
+  {
+    "name": "schafter6",
+    "hash": "72934BE4",
     "category": "Sports",
     "label": "Schafter6"
   },
-  "schlagen": {
-    "hash": "0xE1C03AB0",
+  {
+    "name": "schlagen",
+    "hash": "E1C03AB0",
     "category": "Sports",
     "label": "Schlagen"
   },
-  "schwarzer": {
-    "hash": "0xD37B7976",
+  {
+    "name": "schwarzer",
+    "hash": "D37B7976",
     "category": "Sports",
     "label": "Schwarzer"
   },
-  "sentinel3": {
-    "hash": "0x41D149AA",
+  {
+    "name": "sentinel3",
+    "hash": "41D149AA",
     "category": "Sports",
     "label": "Sentinel3"
   },
-  "sentinel4": {
-    "hash": "0xAF1FA439",
+  {
+    "name": "sentinel4",
+    "hash": "AF1FA439",
     "category": "Sports",
     "label": "Sentinel4"
   },
-  "seven70": {
-    "hash": "0x97398A4B",
+  {
+    "name": "seven70",
+    "hash": "97398A4B",
     "category": "Sports",
     "label": "Seven70"
   },
-  "sm722": {
-    "hash": "0x2E3967B0",
+  {
+    "name": "sm722",
+    "hash": "2E3967B0",
     "category": "Sports",
     "label": "Sm722"
   },
-  "specter": {
-    "hash": "0x706E2B40",
+  {
+    "name": "specter",
+    "hash": "706E2B40",
     "category": "Sports",
     "label": "Specter"
   },
-  "specter2": {
-    "hash": "0x400F5147",
+  {
+    "name": "specter2",
+    "hash": "400F5147",
     "category": "Sports",
     "label": "Specter2"
   },
-  "streiter": {
-    "hash": "0x67D2B389",
+  {
+    "name": "streiter",
+    "hash": "67D2B389",
     "category": "Sports",
     "label": "Streiter"
   },
-  "sugoi": {
-    "hash": "0x3ADB9758",
+  {
+    "name": "sugoi",
+    "hash": "3ADB9758",
     "category": "Sports",
     "label": "Sugoi"
   },
-  "sultan": {
-    "hash": "0x39DA2754",
+  {
+    "name": "sultan",
+    "hash": "39DA2754",
     "category": "Sports",
     "label": "Sultan"
   },
-  "sultan2": {
-    "hash": "0x3404691C",
+  {
+    "name": "sultan2",
+    "hash": "3404691C",
     "category": "Sports",
     "label": "Sultan2"
   },
-  "sultan3": {
-    "hash": "0xEEA75E63",
+  {
+    "name": "sultan3",
+    "hash": "EEA75E63",
     "category": "Sports",
     "label": "Sultan3"
   },
-  "surano": {
-    "hash": "0x16E478C1",
+  {
+    "name": "surano",
+    "hash": "16E478C1",
     "category": "Sports",
     "label": "Surano"
   },
-  "tampa2": {
-    "hash": "0xC0240885",
+  {
+    "name": "tampa2",
+    "hash": "C0240885",
     "category": "Sports",
     "label": "Tampa2"
   },
-  "tenf": {
-    "hash": "0xCAB6E261",
+  {
+    "name": "tenf",
+    "hash": "CAB6E261",
     "category": "Sports",
     "label": "Tenf"
   },
-  "tenf2": {
-    "hash": "0x10635A0E",
+  {
+    "name": "tenf2",
+    "hash": "10635A0E",
     "category": "Sports",
     "label": "Tenf2"
   },
-  "tropos": {
-    "hash": "0x707E63A4",
+  {
+    "name": "tropos",
+    "hash": "707E63A4",
     "category": "Sports",
     "label": "Tropos"
   },
-  "vectre": {
-    "hash": "0xA42FC3A5",
+  {
+    "name": "vectre",
+    "hash": "A42FC3A5",
     "category": "Sports",
     "label": "Vectre"
   },
-  "verlierer2": {
-    "hash": "0x41B77FA4",
+  {
+    "name": "verlierer2",
+    "hash": "41B77FA4",
     "category": "Sports",
     "label": "Verlierer2"
   },
-  "veto": {
-    "hash": "0xCCE5C8FA",
+  {
+    "name": "veto",
+    "hash": "CCE5C8FA",
     "category": "Sports",
     "label": "Veto"
   },
-  "veto2": {
-    "hash": "0xA703E4A9",
+  {
+    "name": "veto2",
+    "hash": "A703E4A9",
     "category": "Sports",
     "label": "Veto2"
   },
-  "vstr": {
-    "hash": "0x56CDEE7D",
+  {
+    "name": "vstr",
+    "hash": "56CDEE7D",
     "category": "Sports",
     "label": "Vstr"
   },
-  "zr350": {
-    "hash": "0x91373058",
+  {
+    "name": "zr350",
+    "hash": "91373058",
     "category": "Sports",
     "label": "Zr350"
   },
-  "zr380": {
-    "hash": "0x20314B42",
+  {
+    "name": "zr380",
+    "hash": "20314B42",
     "category": "Sports",
     "label": "Zr380"
   },
-  "zr3802": {
-    "hash": "0xBE11EFC6",
+  {
+    "name": "zr3802",
+    "hash": "BE11EFC6",
     "category": "Sports",
     "label": "Zr3802"
   },
-  "zr3803": {
-    "hash": "0xA7DCC35C",
+  {
+    "name": "zr3803",
+    "hash": "A7DCC35C",
     "category": "Sports",
     "label": "Zr3803"
   },
-  "ardent": {
-    "hash": "0x097E5533",
+  {
+    "name": "ardent",
+    "hash": "097E5533",
     "category": "Sports Classic",
     "label": "Ardent"
   },
-  "btype": {
-    "hash": "0x06FF6914",
+  {
+    "name": "btype",
+    "hash": "06FF6914",
     "category": "Sports Classic",
     "label": "Btype"
   },
-  "btype2": {
-    "hash": "0xCE6B35A4",
+  {
+    "name": "btype2",
+    "hash": "CE6B35A4",
     "category": "Sports Classic",
     "label": "Btype2"
   },
-  "btype3": {
-    "hash": "0xDC19D101",
+  {
+    "name": "btype3",
+    "hash": "DC19D101",
     "category": "Sports Classic",
     "label": "Btype3"
   },
-  "casco": {
-    "hash": "0x3822BDFE",
+  {
+    "name": "casco",
+    "hash": "3822BDFE",
     "category": "Sports Classic",
     "label": "Casco"
   },
-  "cheburek": {
-    "hash": "0xC514AAE0",
+  {
+    "name": "cheburek",
+    "hash": "C514AAE0",
     "category": "Sports Classic",
     "label": "Cheburek"
   },
-  "cheetah2": {
-    "hash": "0x0D4E5F4D",
+  {
+    "name": "cheetah2",
+    "hash": "0D4E5F4D",
     "category": "Sports Classic",
     "label": "Cheetah2"
   },
-  "coquette2": {
-    "hash": "0x3C4E2113",
+  {
+    "name": "coquette2",
+    "hash": "3C4E2113",
     "category": "Sports Classic",
     "label": "Coquette2"
   },
-  "deluxo": {
-    "hash": "0x586765FB",
+  {
+    "name": "deluxo",
+    "hash": "586765FB",
     "category": "Sports Classic",
     "label": "Deluxo"
   },
-  "dynasty": {
-    "hash": "0x127E90D5",
+  {
+    "name": "dynasty",
+    "hash": "127E90D5",
     "category": "Sports Classic",
     "label": "Dynasty"
   },
-  "fagaloa": {
-    "hash": "0x6068AD86",
+  {
+    "name": "fagaloa",
+    "hash": "6068AD86",
     "category": "Sports Classic",
     "label": "Fagaloa"
   },
-  "feltzer3": {
-    "hash": "0xA29D6D10",
+  {
+    "name": "feltzer3",
+    "hash": "A29D6D10",
     "category": "Sports Classic",
     "label": "Feltzer3"
   },
-  "gt500": {
-    "hash": "0x8408F33A",
+  {
+    "name": "gt500",
+    "hash": "8408F33A",
     "category": "Sports Classic",
     "label": "Gt500"
   },
-  "infernus2": {
-    "hash": "0xAC33179C",
+  {
+    "name": "infernus2",
+    "hash": "AC33179C",
     "category": "Sports Classic",
     "label": "Infernus2"
   },
-  "jb700": {
-    "hash": "0x3EAB5555",
+  {
+    "name": "jb700",
+    "hash": "3EAB5555",
     "category": "Sports Classic",
     "label": "Jb700"
   },
-  "jb7002": {
-    "hash": "0x177DA45C",
+  {
+    "name": "jb7002",
+    "hash": "177DA45C",
     "category": "Sports Classic",
     "label": "Jb7002"
   },
-  "mamba": {
-    "hash": "0x9CFFFC56",
+  {
+    "name": "mamba",
+    "hash": "9CFFFC56",
     "category": "Sports Classic",
     "label": "Mamba"
   },
-  "manana": {
-    "hash": "0x81634188",
+  {
+    "name": "manana",
+    "hash": "81634188",
     "category": "Sports Classic",
     "label": "Manana"
   },
-  "manana2": {
-    "hash": "0x665F785D",
+  {
+    "name": "manana2",
+    "hash": "665F785D",
     "category": "Sports Classic",
     "label": "Manana2"
   },
-  "michelli": {
-    "hash": "0x3E5BD8D9",
+  {
+    "name": "michelli",
+    "hash": "3E5BD8D9",
     "category": "Sports Classic",
     "label": "Michelli"
   },
-  "monroe": {
-    "hash": "0xE62B361B",
+  {
+    "name": "monroe",
+    "hash": "E62B361B",
     "category": "Sports Classic",
     "label": "Monroe"
   },
-  "nebula": {
-    "hash": "0xCB642637",
+  {
+    "name": "nebula",
+    "hash": "CB642637",
     "category": "Sports Classic",
     "label": "Nebula"
   },
-  "peyote": {
-    "hash": "0x6D19CCBC",
+  {
+    "name": "peyote",
+    "hash": "6D19CCBC",
     "category": "Sports Classic",
     "label": "Peyote"
   },
-  "peyote3": {
-    "hash": "0x4201A843",
+  {
+    "name": "peyote3",
+    "hash": "4201A843",
     "category": "Sports Classic",
     "label": "Peyote3"
   },
-  "pigalle": {
-    "hash": "0x404B6381",
+  {
+    "name": "pigalle",
+    "hash": "404B6381",
     "category": "Sports Classic",
     "label": "Pigalle"
   },
-  "rapidgt3": {
-    "hash": "0x7A2EF5E4",
+  {
+    "name": "rapidgt3",
+    "hash": "7A2EF5E4",
     "category": "Sports Classic",
     "label": "Rapidgt3"
   },
-  "retinue": {
-    "hash": "0x6DBD6C0A",
+  {
+    "name": "retinue",
+    "hash": "6DBD6C0A",
     "category": "Sports Classic",
     "label": "Retinue"
   },
-  "retinue2": {
-    "hash": "0x79178F0A",
+  {
+    "name": "retinue2",
+    "hash": "79178F0A",
     "category": "Sports Classic",
     "label": "Retinue2"
   },
-  "savestra": {
-    "hash": "0x35DED0DD",
+  {
+    "name": "savestra",
+    "hash": "35DED0DD",
     "category": "Sports Classic",
     "label": "Savestra"
   },
-  "stinger": {
-    "hash": "0x5C23AF9B",
+  {
+    "name": "stinger",
+    "hash": "5C23AF9B",
     "category": "Sports Classic",
     "label": "Stinger"
   },
-  "stingergt": {
-    "hash": "0x82E499FA",
+  {
+    "name": "stingergt",
+    "hash": "82E499FA",
     "category": "Sports Classic",
     "label": "Stingergt"
   },
-  "stromberg": {
-    "hash": "0x34DBA661",
+  {
+    "name": "stromberg",
+    "hash": "34DBA661",
     "category": "Sports Classic",
     "label": "Stromberg"
   },
-  "swinger": {
-    "hash": "0x1DD4C0FF",
+  {
+    "name": "swinger",
+    "hash": "1DD4C0FF",
     "category": "Sports Classic",
     "label": "Swinger"
   },
-  "toreador": {
-    "hash": "0x56C8A5EF",
+  {
+    "name": "toreador",
+    "hash": "56C8A5EF",
     "category": "Sports Classic",
     "label": "Toreador"
   },
-  "torero": {
-    "hash": "0x59A9E570",
+  {
+    "name": "torero",
+    "hash": "59A9E570",
     "category": "Sports Classic",
     "label": "Torero"
   },
-  "tornado": {
-    "hash": "0x1BB290BC",
+  {
+    "name": "tornado",
+    "hash": "1BB290BC",
     "category": "Sports Classic",
     "label": "Tornado"
   },
-  "tornado2": {
-    "hash": "0x5B42A5C4",
+  {
+    "name": "tornado2",
+    "hash": "5B42A5C4",
     "category": "Sports Classic",
     "label": "Tornado2"
   },
-  "tornado3": {
-    "hash": "0x690A4153",
+  {
+    "name": "tornado3",
+    "hash": "690A4153",
     "category": "Sports Classic",
     "label": "Tornado3"
   },
-  "tornado4": {
-    "hash": "0x86CF7CDD",
+  {
+    "name": "tornado4",
+    "hash": "86CF7CDD",
     "category": "Sports Classic",
     "label": "Tornado4"
   },
-  "tornado5": {
-    "hash": "0x94DA98EF",
+  {
+    "name": "tornado5",
+    "hash": "94DA98EF",
     "category": "Sports Classic",
     "label": "Tornado5"
   },
-  "tornado6": {
-    "hash": "0xA31CB573",
+  {
+    "name": "tornado6",
+    "hash": "A31CB573",
     "category": "Sports Classic",
     "label": "Tornado6"
   },
-  "turismo2": {
-    "hash": "0xC575DF11",
+  {
+    "name": "turismo2",
+    "hash": "C575DF11",
     "category": "Sports Classic",
     "label": "Turismo2"
   },
-  "viseris": {
-    "hash": "0xE8A8BA94",
+  {
+    "name": "viseris",
+    "hash": "E8A8BA94",
     "category": "Sports Classic",
     "label": "Viseris"
   },
-  "z190": {
-    "hash": "0x3201DD49",
+  {
+    "name": "z190",
+    "hash": "3201DD49",
     "category": "Sports Classic",
     "label": "Z190"
   },
-  "ztype": {
-    "hash": "0x2D3BD401",
+  {
+    "name": "ztype",
+    "hash": "2D3BD401",
     "category": "Sports Classic",
     "label": "Ztype"
   },
-  "zion3": {
-    "hash": "0x6F039A67",
+  {
+    "name": "zion3",
+    "hash": "6F039A67",
     "category": "Sports Classic",
     "label": "Zion3"
   },
-  "adder": {
-    "hash": "0xB779A091",
+  {
+    "name": "adder",
+    "hash": "B779A091",
     "category": "Super",
     "label": "Adder"
   },
-  "autarch": {
-    "hash": "0xED552C74",
+  {
+    "name": "autarch",
+    "hash": "ED552C74",
     "category": "Super",
     "label": "Autarch"
   },
-  "bullet": {
-    "hash": "0x9AE6DDA1",
+  {
+    "name": "bullet",
+    "hash": "9AE6DDA1",
     "category": "Super",
     "label": "Bullet"
   },
-  "champion": {
-    "hash": "0xC972A155",
+  {
+    "name": "champion",
+    "hash": "C972A155",
     "category": "Super",
     "label": "Champion"
   },
-  "cheetah": {
-    "hash": "0xB1D95DA0",
+  {
+    "name": "cheetah",
+    "hash": "B1D95DA0",
     "category": "Super",
     "label": "Cheetah"
   },
-  "cyclone": {
-    "hash": "0x52FF9437",
+  {
+    "name": "cyclone",
+    "hash": "52FF9437",
     "category": "Super",
     "label": "Cyclone"
   },
-  "entity2": {
-    "hash": "0x8198AEDC",
+  {
+    "name": "entity2",
+    "hash": "8198AEDC",
     "category": "Super",
     "label": "Entity2"
   },
-  "entity3": {
-    "hash": "0x6838FC1D",
+  {
+    "name": "entity3",
+    "hash": "6838FC1D",
     "category": "Super",
     "label": "Entity3"
   },
-  "entityxf": {
-    "hash": "0xB2FE5CF9",
+  {
+    "name": "entityxf",
+    "hash": "B2FE5CF9",
     "category": "Super",
     "label": "Entityxf"
   },
-  "emerus": {
-    "hash": "0x4EE74355",
+  {
+    "name": "emerus",
+    "hash": "4EE74355",
     "category": "Super",
     "label": "Emerus"
   },
-  "fmj": {
-    "hash": "0x5502626C",
+  {
+    "name": "fmj",
+    "hash": "5502626C",
     "category": "Super",
     "label": "Fmj"
   },
-  "furia": {
-    "hash": "0x3944D5A0",
+  {
+    "name": "furia",
+    "hash": "3944D5A0",
     "category": "Super",
     "label": "Furia"
   },
-  "gp1": {
-    "hash": "0x4992196C",
+  {
+    "name": "gp1",
+    "hash": "4992196C",
     "category": "Super",
     "label": "Gp1"
   },
-  "ignus": {
-    "hash": "0xA9EC907B",
+  {
+    "name": "ignus",
+    "hash": "A9EC907B",
     "category": "Super",
     "label": "Ignus"
   },
-  "infernus": {
-    "hash": "0x18F25AC7",
+  {
+    "name": "infernus",
+    "hash": "18F25AC7",
     "category": "Super",
     "label": "Infernus"
   },
-  "italigtb": {
-    "hash": "0x85E8E76B",
+  {
+    "name": "italigtb",
+    "hash": "85E8E76B",
     "category": "Super",
     "label": "Italigtb"
   },
-  "italigtb2": {
-    "hash": "0xE33A477B",
+  {
+    "name": "italigtb2",
+    "hash": "E33A477B",
     "category": "Super",
     "label": "Italigtb2"
   },
-  "krieger": {
-    "hash": "0xD86A0247",
+  {
+    "name": "krieger",
+    "hash": "D86A0247",
     "category": "Super",
     "label": "Krieger"
   },
-  "le7b": {
-    "hash": "0xB6846A55",
+  {
+    "name": "le7b",
+    "hash": "B6846A55",
     "category": "Super",
     "label": "Le7b"
   },
-  "lm87": {
-    "hash": "0xFF5968CD",
+  {
+    "name": "lm87",
+    "hash": "FF5968CD",
     "category": "Super",
     "label": "Lm87"
   },
-  "nero": {
-    "hash": "0x3DA47243",
+  {
+    "name": "nero",
+    "hash": "3DA47243",
     "category": "Super",
     "label": "Nero"
   },
-  "nero2": {
-    "hash": "0x4131F378",
+  {
+    "name": "nero2",
+    "hash": "4131F378",
     "category": "Super",
     "label": "Nero2"
   },
-  "osiris": {
-    "hash": "0x767164D6",
+  {
+    "name": "osiris",
+    "hash": "767164D6",
     "category": "Super",
     "label": "Osiris"
   },
-  "penetrator": {
-    "hash": "0x9734F3EA",
+  {
+    "name": "penetrator",
+    "hash": "9734F3EA",
     "category": "Super",
     "label": "Penetrator"
   },
-  "pfister811": {
-    "hash": "0x92EF6E04",
+  {
+    "name": "pfister811",
+    "hash": "92EF6E04",
     "category": "Super",
     "label": "Pfister811"
   },
-  "prototipo": {
-    "hash": "0x7E8F677F",
+  {
+    "name": "prototipo",
+    "hash": "7E8F677F",
     "category": "Super",
     "label": "Prototipo"
   },
-  "reaper": {
-    "hash": "0x0DF381E5",
+  {
+    "name": "reaper",
+    "hash": "0DF381E5",
     "category": "Super",
     "label": "Reaper"
   },
-  "s80": {
-    "hash": "0xECA6B6A3",
+  {
+    "name": "s80",
+    "hash": "ECA6B6A3",
     "category": "Super",
     "label": "S80"
   },
-  "sc1": {
-    "hash": "0x5097F589",
+  {
+    "name": "sc1",
+    "hash": "5097F589",
     "category": "Super",
     "label": "Sc1"
   },
-  "scramjet": {
-    "hash": "0xD9F0503D",
+  {
+    "name": "scramjet",
+    "hash": "D9F0503D",
     "category": "Super",
     "label": "Scramjet"
   },
-  "sheava": {
-    "hash": "0x30D3F6D8",
+  {
+    "name": "sheava",
+    "hash": "30D3F6D8",
     "category": "Super",
     "label": "Sheava"
   },
-  "sultanrs": {
-    "hash": "0xEE6024BC",
+  {
+    "name": "sultanrs",
+    "hash": "EE6024BC",
     "category": "Super",
     "label": "Sultanrs"
   },
-  "t20": {
-    "hash": "0x6322B39A",
+  {
+    "name": "t20",
+    "hash": "6322B39A",
     "category": "Super",
     "label": "T20"
   },
-  "taipan": {
-    "hash": "0xBC5DC07E",
+  {
+    "name": "taipan",
+    "hash": "BC5DC07E",
     "category": "Super",
     "label": "Taipan"
   },
-  "tempesta": {
-    "hash": "0x1044926F",
+  {
+    "name": "tempesta",
+    "hash": "1044926F",
     "category": "Super",
     "label": "Tempesta"
   },
-  "tezeract": {
-    "hash": "0x3D7C6410",
+  {
+    "name": "tezeract",
+    "hash": "3D7C6410",
     "category": "Super",
     "label": "Tezeract"
   },
-  "thrax": {
-    "hash": "0x3E3D1F59",
+  {
+    "name": "thrax",
+    "hash": "3E3D1F59",
     "category": "Super",
     "label": "Thrax"
   },
-  "tigon": {
-    "hash": "0xAF0B8D48",
+  {
+    "name": "tigon",
+    "hash": "AF0B8D48",
     "category": "Super",
     "label": "Tigon"
   },
-  "torero2": {
-    "hash": "0xF62446BA",
+  {
+    "name": "torero2",
+    "hash": "F62446BA",
     "category": "Super",
     "label": "Torero2"
   },
-  "turismor": {
-    "hash": "0x185484E1",
+  {
+    "name": "turismor",
+    "hash": "185484E1",
     "category": "Super",
     "label": "Turismor"
   },
-  "tyrant": {
-    "hash": "0xE99011C2",
+  {
+    "name": "tyrant",
+    "hash": "E99011C2",
     "category": "Super",
     "label": "Tyrant"
   },
-  "tyrus": {
-    "hash": "0x7B406EFB",
+  {
+    "name": "tyrus",
+    "hash": "7B406EFB",
     "category": "Super",
     "label": "Tyrus"
   },
-  "vacca": {
-    "hash": "0x142E0DC3",
+  {
+    "name": "vacca",
+    "hash": "142E0DC3",
     "category": "Super",
     "label": "Vacca"
   },
-  "vagner": {
-    "hash": "0x7397224C",
+  {
+    "name": "vagner",
+    "hash": "7397224C",
     "category": "Super",
     "label": "Vagner"
   },
-  "vigilante": {
-    "hash": "0xB5EF4C33",
+  {
+    "name": "vigilante",
+    "hash": "B5EF4C33",
     "category": "Super",
     "label": "Vigilante"
   },
-  "virtue": {
-    "hash": "0x27E34161",
+  {
+    "name": "virtue",
+    "hash": "27E34161",
     "category": "Super",
     "label": "Virtue"
   },
-  "visione": {
-    "hash": "0xC4810400",
+  {
+    "name": "visione",
+    "hash": "C4810400",
     "category": "Super",
     "label": "Visione"
   },
-  "voltic": {
-    "hash": "0x9F4B77BE",
+  {
+    "name": "voltic",
+    "hash": "9F4B77BE",
     "category": "Super",
     "label": "Voltic"
   },
-  "voltic2": {
-    "hash": "0x3AF76F4A",
+  {
+    "name": "voltic2",
+    "hash": "3AF76F4A",
     "category": "Super",
     "label": "Voltic2"
   },
-  "xa21": {
-    "hash": "0x36B4A8A9",
+  {
+    "name": "xa21",
+    "hash": "36B4A8A9",
     "category": "Super",
     "label": "Xa21"
   },
-  "zentorno": {
-    "hash": "0xAC5DF515",
+  {
+    "name": "zentorno",
+    "hash": "AC5DF515",
     "category": "Super",
     "label": "Zentorno"
   },
-  "zeno": {
-    "hash": "0x2714AA93",
+  {
+    "name": "zeno",
+    "hash": "2714AA93",
     "category": "Super",
     "label": "Zeno"
   },
-  "zorrusso": {
-    "hash": "0xD757D97D",
+  {
+    "name": "zorrusso",
+    "hash": "D757D97D",
     "category": "Super",
     "label": "Zorrusso"
   },
-  "armytanker": {
-    "hash": "0xB8081009",
+  {
+    "name": "armytanker",
+    "hash": "B8081009",
     "category": "Trailer",
     "label": "Armytanker"
   },
-  "armytrailer": {
-    "hash": "0xA7FF33F5",
+  {
+    "name": "armytrailer",
+    "hash": "A7FF33F5",
     "category": "Trailer",
     "label": "Armytrailer"
   },
-  "armytrailer2": {
-    "hash": "0x9E6B14D6",
+  {
+    "name": "armytrailer2",
+    "hash": "9E6B14D6",
     "category": "Trailer",
     "label": "Armytrailer2"
   },
-  "baletrailer": {
-    "hash": "0xE82AE656",
+  {
+    "name": "baletrailer",
+    "hash": "E82AE656",
     "category": "Trailer",
     "label": "Baletrailer"
   },
-  "boattrailer": {
-    "hash": "0x1F3D44B5",
+  {
+    "name": "boattrailer",
+    "hash": "1F3D44B5",
     "category": "Trailer",
     "label": "Boattrailer"
   },
-  "docktrailer": {
-    "hash": "0x806EFBEE",
+  {
+    "name": "docktrailer",
+    "hash": "806EFBEE",
     "category": "Trailer",
     "label": "Docktrailer"
   },
-  "freighttrailer": {
-    "hash": "0xD1ABB666",
+  {
+    "name": "freighttrailer",
+    "hash": "D1ABB666",
     "category": "Trailer",
     "label": "Freighttrailer"
   },
-  "graintrailer": {
-    "hash": "0x3CC7F596",
+  {
+    "name": "graintrailer",
+    "hash": "3CC7F596",
     "category": "Trailer",
     "label": "Graintrailer"
   },
-  "proptrailer": {
-    "hash": "0x153E1B0A",
+  {
+    "name": "proptrailer",
+    "hash": "153E1B0A",
     "category": "Trailer",
     "label": "Proptrailer"
   },
-  "raketrailer": {
-    "hash": "0x174CB172",
+  {
+    "name": "raketrailer",
+    "hash": "174CB172",
     "category": "Trailer",
     "label": "Raketrailer"
   },
-  "tr2": {
-    "hash": "0x7BE032C6",
+  {
+    "name": "tr2",
+    "hash": "7BE032C6",
     "category": "Trailer",
     "label": "Tr2"
   },
-  "tr3": {
-    "hash": "0x6A59902D",
+  {
+    "name": "tr3",
+    "hash": "6A59902D",
     "category": "Trailer",
     "label": "Tr3"
   },
-  "tr4": {
-    "hash": "0x7CAB34D0",
+  {
+    "name": "tr4",
+    "hash": "7CAB34D0",
     "category": "Trailer",
     "label": "Tr4"
   },
-  "trflat": {
-    "hash": "0xAF62F6B2",
+  {
+    "name": "trflat",
+    "hash": "AF62F6B2",
     "category": "Trailer",
     "label": "Trflat"
   },
-  "tvtrailer": {
-    "hash": "0x967620BE",
+  {
+    "name": "tvtrailer",
+    "hash": "967620BE",
     "category": "Trailer",
     "label": "Tvtrailer"
   },
-  "tanker": {
-    "hash": "0xD46F4737",
+  {
+    "name": "tanker",
+    "hash": "D46F4737",
     "category": "Trailer",
     "label": "Tanker"
   },
-  "tanker2": {
-    "hash": "0x74998082",
+  {
+    "name": "tanker2",
+    "hash": "74998082",
     "category": "Trailer",
     "label": "Tanker2"
   },
-  "trailerlarge": {
-    "hash": "0x5993F939",
+  {
+    "name": "trailerlarge",
+    "hash": "5993F939",
     "category": "Trailer",
     "label": "Trailerlarge"
   },
-  "trailerlogs": {
-    "hash": "0x782A236D",
+  {
+    "name": "trailerlogs",
+    "hash": "782A236D",
     "category": "Trailer",
     "label": "Trailerlogs"
   },
-  "trailersmall": {
-    "hash": "0x2A72BEAB",
+  {
+    "name": "trailersmall",
+    "hash": "2A72BEAB",
     "category": "Trailer",
     "label": "Trailersmall"
   },
-  "trailers": {
-    "hash": "0xCBB2BE0E",
+  {
+    "name": "trailers",
+    "hash": "CBB2BE0E",
     "category": "Trailer",
     "label": "Trailers"
   },
-  "trailers2": {
-    "hash": "0xA1DA3C91",
+  {
+    "name": "trailers2",
+    "hash": "A1DA3C91",
     "category": "Trailer",
     "label": "Trailers2"
   },
-  "trailers3": {
-    "hash": "0x8548036D",
+  {
+    "name": "trailers3",
+    "hash": "8548036D",
     "category": "Trailer",
     "label": "Trailers3"
   },
-  "trailers4": {
-    "hash": "0xBE66F5AA",
+  {
+    "name": "trailers4",
+    "hash": "BE66F5AA",
     "category": "Trailer",
     "label": "Trailers4"
   },
-  "cablecar": {
-    "hash": "0xC6C3242D",
+  {
+    "name": "cablecar",
+    "hash": "C6C3242D",
     "category": "Trains",
     "label": "Cablecar"
   },
-  "freight": {
-    "hash": "0x3D6AAA9B",
+  {
+    "name": "freight",
+    "hash": "3D6AAA9B",
     "category": "Trains",
     "label": "Freight"
   },
-  "freight2": {
-    "hash": "0xE5A41E08",
+  {
+    "name": "freight2",
+    "hash": "E5A41E08",
     "category": "Trains",
     "label": "Freight2"
   },
-  "freightcar": {
-    "hash": "0x0AFD22A6",
+  {
+    "name": "freightcar",
+    "hash": "0AFD22A6",
     "category": "Trains",
     "label": "Freightcar"
   },
-  "freightcar3": {
-    "hash": "0x904CE25B",
+  {
+    "name": "freightcar3",
+    "hash": "904CE25B",
     "category": "Trains",
     "label": "Freightcar3"
   },
-  "freightcont1": {
-    "hash": "0x36DCFF98",
+  {
+    "name": "freightcont1",
+    "hash": "36DCFF98",
     "category": "Trains",
     "label": "Freightcont1"
   },
-  "freightcont2": {
-    "hash": "0x0E512E79",
+  {
+    "name": "freightcont2",
+    "hash": "0E512E79",
     "category": "Trains",
     "label": "Freightcont2"
   },
-  "freightgrain": {
-    "hash": "0x264D9262",
+  {
+    "name": "freightgrain",
+    "hash": "264D9262",
     "category": "Trains",
     "label": "Freightgrain"
   },
-  "metrotrain": {
-    "hash": "0x33C9E158",
+  {
+    "name": "metrotrain",
+    "hash": "33C9E158",
     "category": "Trains",
     "label": "Metrotrain"
   },
-  "tankercar": {
-    "hash": "0x22EDDC30",
+  {
+    "name": "tankercar",
+    "hash": "22EDDC30",
     "category": "Trains",
     "label": "Tankercar"
   },
-  "airtug": {
-    "hash": "0x5D0AAC8F",
+  {
+    "name": "airtug",
+    "hash": "5D0AAC8F",
     "category": "Utility",
     "label": "Airtug"
   },
-  "caddy": {
-    "hash": "0x44623884",
+  {
+    "name": "caddy",
+    "hash": "44623884",
     "category": "Utility",
     "label": "Caddy"
   },
-  "caddy2": {
-    "hash": "0xDFF0594C",
+  {
+    "name": "caddy2",
+    "hash": "DFF0594C",
     "category": "Utility",
     "label": "Caddy2"
   },
-  "caddy3": {
-    "hash": "0xD227BDBB",
+  {
+    "name": "caddy3",
+    "hash": "D227BDBB",
     "category": "Utility",
     "label": "Caddy3"
   },
-  "docktug": {
-    "hash": "0xCB44B1CA",
+  {
+    "name": "docktug",
+    "hash": "CB44B1CA",
     "category": "Utility",
     "label": "Docktug"
   },
-  "forklift": {
-    "hash": "0x58E49664",
+  {
+    "name": "forklift",
+    "hash": "58E49664",
     "category": "Utility",
     "label": "Forklift"
   },
-  "mower": {
-    "hash": "0x6A4BD8F6",
+  {
+    "name": "mower",
+    "hash": "6A4BD8F6",
     "category": "Utility",
     "label": "Mower"
   },
-  "ripley": {
-    "hash": "0xCD935EF9",
+  {
+    "name": "ripley",
+    "hash": "CD935EF9",
     "category": "Utility",
     "label": "Ripley"
   },
-  "sadler": {
-    "hash": "0xDC434E51",
+  {
+    "name": "sadler",
+    "hash": "DC434E51",
     "category": "Utility",
     "label": "Sadler"
   },
-  "sadler2": {
-    "hash": "0x2BC345D1",
+  {
+    "name": "sadler2",
+    "hash": "2BC345D1",
     "category": "Utility",
     "label": "Sadler2"
   },
-  "scrap": {
-    "hash": "0x9A9FD3DF",
+  {
+    "name": "scrap",
+    "hash": "9A9FD3DF",
     "category": "Utility",
     "label": "Scrap"
   },
-  "slamtruck": {
-    "hash": "0xC1A8A914",
+  {
+    "name": "slamtruck",
+    "hash": "C1A8A914",
     "category": "Utility",
     "label": "Slamtruck"
   },
-  "towtruck": {
-    "hash": "0xB12314E0",
+  {
+    "name": "towtruck",
+    "hash": "B12314E0",
     "category": "Utility",
     "label": "Towtruck"
   },
-  "towtruck2": {
-    "hash": "0xE5A2D6C6",
+  {
+    "name": "towtruck2",
+    "hash": "E5A2D6C6",
     "category": "Utility",
     "label": "Towtruck2"
   },
-  "tractor": {
-    "hash": "0x61D6BA8C",
+  {
+    "name": "tractor",
+    "hash": "61D6BA8C",
     "category": "Utility",
     "label": "Tractor"
   },
-  "tractor2": {
-    "hash": "0x843B73DE",
+  {
+    "name": "tractor2",
+    "hash": "843B73DE",
     "category": "Utility",
     "label": "Tractor2"
   },
-  "tractor3": {
-    "hash": "0x562A97BD",
+  {
+    "name": "tractor3",
+    "hash": "562A97BD",
     "category": "Utility",
     "label": "Tractor3"
   },
-  "utillitruck": {
-    "hash": "0x1ED0A534",
+  {
+    "name": "utillitruck",
+    "hash": "1ED0A534",
     "category": "Utility",
     "label": "Utillitruck"
   },
-  "utillitruck2": {
-    "hash": "0x34E6BF6B",
+  {
+    "name": "utillitruck2",
+    "hash": "34E6BF6B",
     "category": "Utility",
     "label": "Utillitruck2"
   },
-  "utillitruck3": {
-    "hash": "0x7F2153DF",
+  {
+    "name": "utillitruck3",
+    "hash": "7F2153DF",
     "category": "Utility",
     "label": "Utillitruck3"
   },
-  "bison": {
-    "hash": "0xFEFD644F",
+  {
+    "name": "bison",
+    "hash": "FEFD644F",
     "category": "Vans",
     "label": "Bison"
   },
-  "bison2": {
-    "hash": "0x7B8297C5",
+  {
+    "name": "bison2",
+    "hash": "7B8297C5",
     "category": "Vans",
     "label": "Bison2"
   },
-  "bison3": {
-    "hash": "0x67B3F020",
+  {
+    "name": "bison3",
+    "hash": "67B3F020",
     "category": "Vans",
     "label": "Bison3"
   },
-  "bobcatxl": {
-    "hash": "0x3FC5D440",
+  {
+    "name": "bobcatxl",
+    "hash": "3FC5D440",
     "category": "Vans",
     "label": "Bobcatxl"
   },
-  "boxville": {
-    "hash": "0x898ECCEA",
+  {
+    "name": "boxville",
+    "hash": "898ECCEA",
     "category": "Vans",
     "label": "Boxville"
   },
-  "boxville2": {
-    "hash": "0xF21B33BE",
+  {
+    "name": "boxville2",
+    "hash": "F21B33BE",
     "category": "Vans",
     "label": "Boxville2"
   },
-  "boxville3": {
-    "hash": "0x07405E08",
+  {
+    "name": "boxville3",
+    "hash": "07405E08",
     "category": "Vans",
     "label": "Boxville3"
   },
-  "boxville4": {
-    "hash": "0x1A79847A",
+  {
+    "name": "boxville4",
+    "hash": "1A79847A",
     "category": "Vans",
     "label": "Boxville4"
   },
-  "boxville5": {
-    "hash": "0x28AD20E1",
+  {
+    "name": "boxville5",
+    "hash": "28AD20E1",
     "category": "Vans",
     "label": "Boxville5"
   },
-  "burrito": {
-    "hash": "0xAFBB2CA4",
+  {
+    "name": "burrito",
+    "hash": "AFBB2CA4",
     "category": "Vans",
     "label": "Burrito"
   },
-  "burrito2": {
-    "hash": "0xC9E8FF76",
+  {
+    "name": "burrito2",
+    "hash": "C9E8FF76",
     "category": "Vans",
     "label": "Burrito2"
   },
-  "burrito3": {
-    "hash": "0x98171BD3",
+  {
+    "name": "burrito3",
+    "hash": "98171BD3",
     "category": "Vans",
     "label": "Burrito3"
   },
-  "burrito4": {
-    "hash": "0x353B561D",
+  {
+    "name": "burrito4",
+    "hash": "353B561D",
     "category": "Vans",
     "label": "Burrito4"
   },
-  "burrito5": {
-    "hash": "0x437CF2A0",
+  {
+    "name": "burrito5",
+    "hash": "437CF2A0",
     "category": "Vans",
     "label": "Burrito5"
   },
-  "camper": {
-    "hash": "0x6FD95F68",
+  {
+    "name": "camper",
+    "hash": "6FD95F68",
     "category": "Vans",
     "label": "Camper"
   },
-  "gburrito": {
-    "hash": "0x97FA4F36",
+  {
+    "name": "gburrito",
+    "hash": "97FA4F36",
     "category": "Vans",
     "label": "Gburrito"
   },
-  "gburrito2": {
-    "hash": "0x11AA0E14",
+  {
+    "name": "gburrito2",
+    "hash": "11AA0E14",
     "category": "Vans",
     "label": "Gburrito2"
   },
-  "journey": {
-    "hash": "0xF8D48E7A",
+  {
+    "name": "journey",
+    "hash": "F8D48E7A",
     "category": "Vans",
     "label": "Journey"
   },
-  "journey2": {
-    "hash": "0x9F04C481",
+  {
+    "name": "journey2",
+    "hash": "9F04C481",
     "category": "Vans",
     "label": "Journey2"
   },
-  "minivan": {
-    "hash": "0xED7EADA4",
+  {
+    "name": "minivan",
+    "hash": "ED7EADA4",
     "category": "Vans",
     "label": "Minivan"
   },
-  "minivan2": {
-    "hash": "0xBCDE91F0",
+  {
+    "name": "minivan2",
+    "hash": "BCDE91F0",
     "category": "Vans",
     "label": "Minivan2"
   },
-  "paradise": {
-    "hash": "0x58B3979C",
+  {
+    "name": "paradise",
+    "hash": "58B3979C",
     "category": "Vans",
     "label": "Paradise"
   },
-  "pony": {
-    "hash": "0xF8DE29A8",
+  {
+    "name": "pony",
+    "hash": "F8DE29A8",
     "category": "Vans",
     "label": "Pony"
   },
-  "pony2": {
-    "hash": "0x38408341",
+  {
+    "name": "pony2",
+    "hash": "38408341",
     "category": "Vans",
     "label": "Pony2"
   },
-  "rumpo": {
-    "hash": "0x4543B74D",
+  {
+    "name": "rumpo",
+    "hash": "4543B74D",
     "category": "Vans",
     "label": "Rumpo"
   },
-  "rumpo2": {
-    "hash": "0x961AFEF7",
+  {
+    "name": "rumpo2",
+    "hash": "961AFEF7",
     "category": "Vans",
     "label": "Rumpo2"
   },
-  "rumpo3": {
-    "hash": "0x57F682AF",
+  {
+    "name": "rumpo3",
+    "hash": "57F682AF",
     "category": "Vans",
     "label": "Rumpo3"
   },
-  "speedo": {
-    "hash": "0xCFB3870C",
+  {
+    "name": "speedo",
+    "hash": "CFB3870C",
     "category": "Vans",
     "label": "Speedo"
   },
-  "speedo2": {
-    "hash": "0x2B6DC64A",
+  {
+    "name": "speedo2",
+    "hash": "2B6DC64A",
     "category": "Vans",
     "label": "Speedo2"
   },
-  "speedo4": {
-    "hash": "0x0D17099D",
+  {
+    "name": "speedo4",
+    "hash": "0D17099D",
     "category": "Vans",
     "label": "Speedo4"
   },
-  "surfer": {
-    "hash": "0x29B0DA97",
+  {
+    "name": "surfer",
+    "hash": "29B0DA97",
     "category": "Vans",
     "label": "Surfer"
   },
-  "surfer2": {
-    "hash": "0xB1D80E06",
+  {
+    "name": "surfer2",
+    "hash": "B1D80E06",
     "category": "Vans",
     "label": "Surfer2"
   },
-  "surfer3": {
-    "hash": "0xC247AEE5",
+  {
+    "name": "surfer3",
+    "hash": "C247AEE5",
     "category": "Vans",
     "label": "Surfer3"
   },
-  "taco": {
-    "hash": "0x744CA80D",
+  {
+    "name": "taco",
+    "hash": "744CA80D",
     "category": "Vans",
     "label": "Taco"
   },
-  "youga": {
-    "hash": "0x03E5F6B8",
+  {
+    "name": "youga",
+    "hash": "03E5F6B8",
     "category": "Vans",
     "label": "Youga"
   },
-  "youga2": {
-    "hash": "0x3D29CD2B",
+  {
+    "name": "youga2",
+    "hash": "3D29CD2B",
     "category": "Vans",
     "label": "Youga2"
   },
-  "youga3": {
-    "hash": "0x6B73A9BE",
+  {
+    "name": "youga3",
+    "hash": "6B73A9BE",
     "category": "Vans",
     "label": "Youga3"
   },
-  "youga4": {
-    "hash": "0x589A840C",
+  {
+    "name": "youga4",
+    "hash": "589A840C",
     "category": "Vans",
     "label": "Youga4"
   },
-  "weapon_dagger": {
-    "hash": "0x92A27487",
+  {
+    "name": "weapon_dagger",
+    "hash": "92A27487",
     "category": "Melee",
     "label": "Dagger"
   },
-  "weapon_bat": {
-    "hash": "0x958A4A8F",
+  {
+    "name": "weapon_bat",
+    "hash": "958A4A8F",
     "category": "Melee",
     "label": "Bat"
   },
-  "weapon_bottle": {
-    "hash": "0xF9E6AA4B",
+  {
+    "name": "weapon_bottle",
+    "hash": "F9E6AA4B",
     "category": "Melee",
     "label": "Bottle"
   },
-  "weapon_crowbar": {
-    "hash": "0x84BD7BFD",
+  {
+    "name": "weapon_crowbar",
+    "hash": "84BD7BFD",
     "category": "Melee",
     "label": "Crowbar"
   },
-  "weapon_unarmed": {
-    "hash": "0xA2719263",
+  {
+    "name": "weapon_unarmed",
+    "hash": "A2719263",
     "category": "Melee",
     "label": "Unarmed"
   },
-  "weapon_flashlight": {
-    "hash": "0x8BB05FD7",
+  {
+    "name": "weapon_flashlight",
+    "hash": "8BB05FD7",
     "category": "Melee",
     "label": "Flashlight"
   },
-  "weapon_golfclub": {
-    "hash": "0x440E4788",
+  {
+    "name": "weapon_golfclub",
+    "hash": "440E4788",
     "category": "Melee",
     "label": "Golf Club"
   },
-  "weapon_hammer": {
-    "hash": "0x4E875F73",
+  {
+    "name": "weapon_hammer",
+    "hash": "4E875F73",
     "category": "Melee",
     "label": "Hammer"
   },
-  "weapon_hatchet": {
-    "hash": "0xF9DCBF2D",
+  {
+    "name": "weapon_hatchet",
+    "hash": "F9DCBF2D",
     "category": "Melee",
     "label": "Hatchet"
   },
-  "weapon_knuckle": {
-    "hash": "0xD8DF3C3C",
+  {
+    "name": "weapon_knuckle",
+    "hash": "D8DF3C3C",
     "category": "Melee",
     "label": "Knuckle Duster"
   },
-  "weapon_knife": {
-    "hash": "0x99B507EA",
+  {
+    "name": "weapon_knife",
+    "hash": "99B507EA",
     "category": "Melee",
     "label": "Knife"
   },
-  "weapon_machete": {
-    "hash": "0xDD5DF8D9",
+  {
+    "name": "weapon_machete",
+    "hash": "DD5DF8D9",
     "category": "Melee",
     "label": "Machete"
   },
-  "weapon_switchblade": {
-    "hash": "0xDFE37640",
+  {
+    "name": "weapon_switchblade",
+    "hash": "DFE37640",
     "category": "Melee",
     "label": "Switchblade"
   },
-  "weapon_nightstick": {
-    "hash": "0x678B81B1",
+  {
+    "name": "weapon_nightstick",
+    "hash": "678B81B1",
     "category": "Melee",
     "label": "Nightstick"
   },
-  "weapon_wrench": {
-    "hash": "0x19044EE0",
+  {
+    "name": "weapon_wrench",
+    "hash": "19044EE0",
     "category": "Melee",
     "label": "Wrench"
   },
-  "weapon_battleaxe": {
-    "hash": "0xCD274149",
+  {
+    "name": "weapon_battleaxe",
+    "hash": "CD274149",
     "category": "Melee",
     "label": "Battle Axe"
   },
-  "weapon_poolcue": {
-    "hash": "0x94117305",
+  {
+    "name": "weapon_poolcue",
+    "hash": "94117305",
     "category": "Melee",
     "label": "Pool Cue"
   },
-  "weapon_stone_hatchet": {
-    "hash": "0x3813FC08",
+  {
+    "name": "weapon_stone_hatchet",
+    "hash": "3813FC08",
     "category": "Melee",
     "label": "Stone Hatchet"
   },
-  "weapon_candycane": {
-    "hash": "0x6589186A",
+  {
+    "name": "weapon_candycane",
+    "hash": "6589186A",
     "category": "Melee",
     "label": "Candy Cane"
   },
-  "weapon_stunrod": {
-    "hash": "0xDAC00025",
+  {
+    "name": "weapon_stunrod",
+    "hash": "DAC00025",
     "category": "Melee",
     "label": "Stun Rod"
   },
-  "weapon_pistol": {
-    "hash": "0x1B06D571",
+  {
+    "name": "weapon_pistol",
+    "hash": "1B06D571",
     "category": "Handguns",
     "label": "Pistol"
   },
-  "weapon_pistol_mk2": {
-    "hash": "0xBFE256D4",
+  {
+    "name": "weapon_pistol_mk2",
+    "hash": "BFE256D4",
     "category": "Handguns",
     "label": "Pistol Mk II"
   },
-  "weapon_combatpistol": {
-    "hash": "0x5EF9FEC4",
+  {
+    "name": "weapon_combatpistol",
+    "hash": "5EF9FEC4",
     "category": "Handguns",
     "label": "Combat Pistol"
   },
-  "weapon_appistol": {
-    "hash": "0x22D8FE39",
+  {
+    "name": "weapon_appistol",
+    "hash": "22D8FE39",
     "category": "Handguns",
     "label": "AP Pistol"
   },
-  "weapon_stungun": {
-    "hash": "0x3656C8C1",
+  {
+    "name": "weapon_stungun",
+    "hash": "3656C8C1",
     "category": "Handguns",
     "label": "Stun Gun"
   },
-  "weapon_pistol50": {
-    "hash": "0x99AEEB3B",
+  {
+    "name": "weapon_pistol50",
+    "hash": "99AEEB3B",
     "category": "Handguns",
     "label": "Pistol .50"
   },
-  "weapon_snspistol": {
-    "hash": "0xBFD21232",
+  {
+    "name": "weapon_snspistol",
+    "hash": "BFD21232",
     "category": "Handguns",
     "label": "SNS Pistol"
   },
-  "weapon_snspistol_mk2": {
-    "hash": "0x88374054",
+  {
+    "name": "weapon_snspistol_mk2",
+    "hash": "88374054",
     "category": "Handguns",
     "label": "SNS Pistol Mk II"
   },
-  "weapon_heavypistol": {
-    "hash": "0xD205520E",
+  {
+    "name": "weapon_heavypistol",
+    "hash": "D205520E",
     "category": "Handguns",
     "label": "Heavy Pistol"
   },
-  "weapon_vintagepistol": {
-    "hash": "0x083839C4",
+  {
+    "name": "weapon_vintagepistol",
+    "hash": "083839C4",
     "category": "Handguns",
     "label": "Vintage Pistol"
   },
-  "weapon_flaregun": {
-    "hash": "0x47757124",
+  {
+    "name": "weapon_flaregun",
+    "hash": "47757124",
     "category": "Handguns",
     "label": "Flare Gun"
   },
-  "weapon_marksmanpistol": {
-    "hash": "0xDC4DB296",
+  {
+    "name": "weapon_marksmanpistol",
+    "hash": "DC4DB296",
     "category": "Handguns",
     "label": "Marksman Pistol"
   },
-  "weapon_revolver": {
-    "hash": "0xC1B3C3D1",
+  {
+    "name": "weapon_revolver",
+    "hash": "C1B3C3D1",
     "category": "Handguns",
     "label": "Revolver"
   },
-  "weapon_revolver_mk2": {
-    "hash": "0xCB96392F",
+  {
+    "name": "weapon_revolver_mk2",
+    "hash": "CB96392F",
     "category": "Handguns",
     "label": "Revolver Mk II"
   },
-  "weapon_doubleaction": {
-    "hash": "0x97EA20B8",
+  {
+    "name": "weapon_doubleaction",
+    "hash": "97EA20B8",
     "category": "Handguns",
     "label": "Double-Action Revolver"
   },
-  "weapon_raypistol": {
-    "hash": "0xAF3696A1",
+  {
+    "name": "weapon_raypistol",
+    "hash": "AF3696A1",
     "category": "Handguns",
     "label": "Up-n-Atomizer"
   },
-  "weapon_ceramicpistol": {
-    "hash": "0x2B5EF5EC",
+  {
+    "name": "weapon_ceramicpistol",
+    "hash": "2B5EF5EC",
     "category": "Handguns",
     "label": "Ceramic Pistol"
   },
-  "weapon_navyrevolver": {
-    "hash": "0x917F6C8C",
+  {
+    "name": "weapon_navyrevolver",
+    "hash": "917F6C8C",
     "category": "Handguns",
     "label": "Navy Revolver"
   },
-  "weapon_gadgetpistol": {
-    "hash": "0x57A4368C",
+  {
+    "name": "weapon_gadgetpistol",
+    "hash": "57A4368C",
     "category": "Handguns",
     "label": "Perico Pistol"
   },
-  "weapon_stungun_mp": {
-    "hash": "0x45CD9CF3",
+  {
+    "name": "weapon_stungun_mp",
+    "hash": "45CD9CF3",
     "category": "Handguns",
     "label": "Stun Gun MP"
   },
-  "weapon_pistolxm3": {
-    "hash": "0x1BC4FDB9",
+  {
+    "name": "weapon_pistolxm3",
+    "hash": "1BC4FDB9",
     "category": "Handguns",
     "label": "Pistol XM3"
   },
-  "weapon_microsmg": {
-    "hash": "0x13532244",
+  {
+    "name": "weapon_microsmg",
+    "hash": "13532244",
     "category": "SubmachineGuns",
     "label": "Micro SMG"
   },
-  "weapon_smg": {
-    "hash": "0x2BE6766B",
+  {
+    "name": "weapon_smg",
+    "hash": "2BE6766B",
     "category": "SubmachineGuns",
     "label": "SMG"
   },
-  "weapon_smg_mk2": {
-    "hash": "0x78A97CD0",
+  {
+    "name": "weapon_smg_mk2",
+    "hash": "78A97CD0",
     "category": "SubmachineGuns",
     "label": "SMG Mk II"
   },
-  "weapon_assaultsmg": {
-    "hash": "0xEFE7E2DF",
+  {
+    "name": "weapon_assaultsmg",
+    "hash": "EFE7E2DF",
     "category": "SubmachineGuns",
     "label": "Assault SMG"
   },
-  "weapon_combatpdw": {
-    "hash": "0x0A3D4D34",
+  {
+    "name": "weapon_combatpdw",
+    "hash": "0A3D4D34",
     "category": "SubmachineGuns",
     "label": "Combat PDW"
   },
-  "weapon_machinepistol": {
-    "hash": "0xDB1AA450",
+  {
+    "name": "weapon_machinepistol",
+    "hash": "DB1AA450",
     "category": "SubmachineGuns",
     "label": "Machine Pistol"
   },
-  "weapon_minismg": {
-    "hash": "0xBD248B55",
+  {
+    "name": "weapon_minismg",
+    "hash": "BD248B55",
     "category": "SubmachineGuns",
     "label": "Mini SMG"
   },
-  "weapon_raycarbine": {
-    "hash": "0x476BF155",
+  {
+    "name": "weapon_raycarbine",
+    "hash": "476BF155",
     "category": "SubmachineGuns",
     "label": "Unholy Hellbringer"
   },
-  "weapon_tecpistol": {
-    "hash": "0x14E5AFD5",
+  {
+    "name": "weapon_tecpistol",
+    "hash": "14E5AFD5",
     "category": "SubmachineGuns",
     "label": "TEC Pistol"
   },
-  "weapon_pumpshotgun": {
-    "hash": "0x1D073A89",
+  {
+    "name": "weapon_pumpshotgun",
+    "hash": "1D073A89",
     "category": "Shotguns",
     "label": "Pump Shotgun"
   },
-  "weapon_pumpshotgun_mk2": {
-    "hash": "0x555AF99A",
+  {
+    "name": "weapon_pumpshotgun_mk2",
+    "hash": "555AF99A",
     "category": "Shotguns",
     "label": "Pump Shotgun Mk II"
   },
-  "weapon_sawnoffshotgun": {
-    "hash": "0x7846A318",
+  {
+    "name": "weapon_sawnoffshotgun",
+    "hash": "7846A318",
     "category": "Shotguns",
     "label": "Sawed-Off Shotgun"
   },
-  "weapon_assaultshotgun": {
-    "hash": "0xE284C527",
+  {
+    "name": "weapon_assaultshotgun",
+    "hash": "E284C527",
     "category": "Shotguns",
     "label": "Assault Shotgun"
   },
-  "weapon_bullpupshotgun": {
-    "hash": "0x9D61E50F",
+  {
+    "name": "weapon_bullpupshotgun",
+    "hash": "9D61E50F",
     "category": "Shotguns",
     "label": "Bullpup Shotgun"
   },
-  "weapon_heavyshotgun": {
-    "hash": "0x3AABBBAA",
+  {
+    "name": "weapon_heavyshotgun",
+    "hash": "3AABBBAA",
     "category": "Shotguns",
     "label": "Heavy Shotgun"
   },
-  "weapon_dbshotgun": {
-    "hash": "0xEF951FBB",
+  {
+    "name": "weapon_dbshotgun",
+    "hash": "EF951FBB",
     "category": "Shotguns",
     "label": "Double Barrel Shotgun"
   },
-  "weapon_autoshotgun": {
-    "hash": "0x12E82D3D",
+  {
+    "name": "weapon_autoshotgun",
+    "hash": "12E82D3D",
     "category": "Shotguns",
     "label": "Automatic Shotgun"
   },
-  "weapon_combatshotgun": {
-    "hash": "0x05A96BA4",
+  {
+    "name": "weapon_combatshotgun",
+    "hash": "05A96BA4",
     "category": "Shotguns",
     "label": "Combat Shotgun"
   },
-  "weapon_assaultrifle": {
-    "hash": "0xBFEFFF6D",
+  {
+    "name": "weapon_assaultrifle",
+    "hash": "BFEFFF6D",
     "category": "AssaultRifles",
     "label": "Assault Rifle"
   },
-  "weapon_assaultrifle_mk2": {
-    "hash": "0x394F415C",
+  {
+    "name": "weapon_assaultrifle_mk2",
+    "hash": "394F415C",
     "category": "AssaultRifles",
     "label": "Assault Rifle Mk II"
   },
-  "weapon_carbinerifle": {
-    "hash": "0x83BF0278",
+  {
+    "name": "weapon_carbinerifle",
+    "hash": "83BF0278",
     "category": "AssaultRifles",
     "label": "Carbine Rifle"
   },
-  "weapon_carbinerifle_mk2": {
-    "hash": "0xFAD1F1C9",
+  {
+    "name": "weapon_carbinerifle_mk2",
+    "hash": "FAD1F1C9",
     "category": "AssaultRifles",
     "label": "Carbine Rifle Mk II"
   },
-  "weapon_advancedrifle": {
-    "hash": "0xAF113F99",
+  {
+    "name": "weapon_advancedrifle",
+    "hash": "AF113F99",
     "category": "AssaultRifles",
     "label": "Advanced Rifle"
   },
-  "weapon_specialcarbine": {
-    "hash": "0xC0A3098D",
+  {
+    "name": "weapon_specialcarbine",
+    "hash": "C0A3098D",
     "category": "AssaultRifles",
     "label": "Special Carbine"
   },
-  "weapon_specialcarbine_mk2": {
-    "hash": "0x969C3D67",
+  {
+    "name": "weapon_specialcarbine_mk2",
+    "hash": "969C3D67",
     "category": "AssaultRifles",
     "label": "Special Carbine Mk II"
   },
-  "weapon_bullpuprifle": {
-    "hash": "0x7F229F94",
+  {
+    "name": "weapon_bullpuprifle",
+    "hash": "7F229F94",
     "category": "AssaultRifles",
     "label": "Bullpup Rifle"
   },
-  "weapon_bullpuprifle_mk2": {
-    "hash": "0x84D6FAFD",
+  {
+    "name": "weapon_bullpuprifle_mk2",
+    "hash": "84D6FAFD",
     "category": "AssaultRifles",
     "label": "Bullpup Rifle Mk II"
   },
-  "weapon_compactrifle": {
-    "hash": "0x624FE830",
+  {
+    "name": "weapon_compactrifle",
+    "hash": "624FE830",
     "category": "AssaultRifles",
     "label": "Compact Rifle"
   },
-  "weapon_militaryrifle": {
-    "hash": "0x9D1F17E6",
+  {
+    "name": "weapon_militaryrifle",
+    "hash": "9D1F17E6",
     "category": "AssaultRifles",
     "label": "Military Rifle"
   },
-  "weapon_heavyrifle": {
-    "hash": "0xC78D71B4",
+  {
+    "name": "weapon_heavyrifle",
+    "hash": "C78D71B4",
     "category": "AssaultRifles",
     "label": "Heavy Rifle"
   },
-  "weapon_tacticalrifle": {
-    "hash": "0xD1D5F52B",
+  {
+    "name": "weapon_tacticalrifle",
+    "hash": "D1D5F52B",
     "category": "AssaultRifles",
     "label": "Tactical Rifle"
   },
-  "weapon_mg": {
-    "hash": "0x9D07F764",
+  {
+    "name": "weapon_mg",
+    "hash": "9D07F764",
     "category": "LightMachineGuns",
     "label": "MG"
   },
-  "weapon_combatmg": {
-    "hash": "0x7FD62962",
+  {
+    "name": "weapon_combatmg",
+    "hash": "7FD62962",
     "category": "LightMachineGuns",
     "label": "Combat MG"
   },
-  "weapon_combatmg_mk2": {
-    "hash": "0xDBBD7280",
+  {
+    "name": "weapon_combatmg_mk2",
+    "hash": "DBBD7280",
     "category": "LightMachineGuns",
     "label": "Combat MG Mk II"
   },
-  "weapon_gusenberg": {
-    "hash": "0x61012683",
+  {
+    "name": "weapon_gusenberg",
+    "hash": "61012683",
     "category": "LightMachineGuns",
     "label": "Gusenberg Sweeper"
   },
-  "weapon_sniperrifle": {
-    "hash": "0x05FC3C11",
+  {
+    "name": "weapon_sniperrifle",
+    "hash": "05FC3C11",
     "category": "SniperRifles",
     "label": "Sniper Rifle"
   },
-  "weapon_heavysniper": {
-    "hash": "0x0C472FE2",
+  {
+    "name": "weapon_heavysniper",
+    "hash": "0C472FE2",
     "category": "SniperRifles",
     "label": "Heavy Sniper"
   },
-  "weapon_heavysniper_mk2": {
-    "hash": "0x0A914799",
+  {
+    "name": "weapon_heavysniper_mk2",
+    "hash": "0A914799",
     "category": "SniperRifles",
     "label": "Heavy Sniper Mk II"
   },
-  "weapon_marksmanrifle": {
-    "hash": "0xC734385A",
+  {
+    "name": "weapon_marksmanrifle",
+    "hash": "C734385A",
     "category": "SniperRifles",
     "label": "Marksman Rifle"
   },
-  "weapon_marksmanrifle_mk2": {
-    "hash": "0x6A6C02E0",
+  {
+    "name": "weapon_marksmanrifle_mk2",
+    "hash": "6A6C02E0",
     "category": "SniperRifles",
     "label": "Marksman Rifle Mk II"
   },
-  "weapon_precisionrifle": {
-    "hash": "0x6E7DDDEC",
+  {
+    "name": "weapon_precisionrifle",
+    "hash": "6E7DDDEC",
     "category": "SniperRifles",
     "label": "Precision Rifle"
   },
-  "weapon_musket": {
-    "hash": "0xA89CB99E",
+  {
+    "name": "weapon_musket",
+    "hash": "A89CB99E",
     "category": "SniperRifles",
     "label": "Musket"
   },
-  "weapon_rpg": {
-    "hash": "0xB1CA77B1",
+  {
+    "name": "weapon_rpg",
+    "hash": "B1CA77B1",
     "category": "Heavyweapons",
     "label": "RPG"
   },
-  "weapon_grenadelauncher": {
-    "hash": "0xA284510B",
+  {
+    "name": "weapon_grenadelauncher",
+    "hash": "A284510B",
     "category": "Heavyweapons",
     "label": "Grenade Launcher"
   },
-  "weapon_grenadelauncher_smoke": {
-    "hash": "0x4DD2DC56",
+  {
+    "name": "weapon_grenadelauncher_smoke",
+    "hash": "4DD2DC56",
     "category": "Heavyweapons",
     "label": "Grenade Launcher Smoke"
   },
-  "weapon_minigun": {
-    "hash": "0x42BF8A85",
+  {
+    "name": "weapon_minigun",
+    "hash": "42BF8A85",
     "category": "Heavyweapons",
     "label": "Minigun"
   },
-  "weapon_firework": {
-    "hash": "0x7F7497E5",
+  {
+    "name": "weapon_firework",
+    "hash": "7F7497E5",
     "category": "Heavyweapons",
     "label": "Firework Launcher"
   },
-  "weapon_railgun": {
-    "hash": "0x6D544C99",
+  {
+    "name": "weapon_railgun",
+    "hash": "6D544C99",
     "category": "Heavyweapons",
     "label": "Railgun"
   },
-  "weapon_hominglauncher": {
-    "hash": "0x63AB0442",
+  {
+    "name": "weapon_hominglauncher",
+    "hash": "63AB0442",
     "category": "Heavyweapons",
     "label": "Homing Launcher"
   },
-  "weapon_compactlauncher": {
-    "hash": "0x0781FE4A",
+  {
+    "name": "weapon_compactlauncher",
+    "hash": "0781FE4A",
     "category": "Heavyweapons",
     "label": "Compact Grenade Launcher"
   },
-  "weapon_rayminigun": {
-    "hash": "0xB62D1F67",
+  {
+    "name": "weapon_rayminigun",
+    "hash": "B62D1F67",
     "category": "Heavyweapons",
     "label": "Widowmaker"
   },
-  "weapon_emplauncher": {
-    "hash": "0xDB26713A",
+  {
+    "name": "weapon_emplauncher",
+    "hash": "DB26713A",
     "category": "Heavyweapons",
     "label": "EMP Launcher"
   },
-  "weapon_railgunxm3": {
-    "hash": "0xFEA23564",
+  {
+    "name": "weapon_railgunxm3",
+    "hash": "FEA23564",
     "category": "Heavyweapons",
     "label": "Railgun XM3"
   },
-  "weapon_grenade": {
-    "hash": "0x93E220BD",
+  {
+    "name": "weapon_grenade",
+    "hash": "93E220BD",
     "category": "Throwables",
     "label": "Grenade"
   },
-  "weapon_bzgas": {
-    "hash": "0xA0973D5E",
+  {
+    "name": "weapon_bzgas",
+    "hash": "A0973D5E",
     "category": "Throwables",
     "label": "BZ Gas"
   },
-  "weapon_molotov": {
-    "hash": "0x24B17070",
+  {
+    "name": "weapon_molotov",
+    "hash": "24B17070",
     "category": "Throwables",
     "label": "Molotov"
   },
-  "weapon_stickybomb": {
-    "hash": "0x2C3731D9",
+  {
+    "name": "weapon_stickybomb",
+    "hash": "2C3731D9",
     "category": "Throwables",
     "label": "Sticky Bomb"
   },
-  "weapon_proxmine": {
-    "hash": "0xAB564B93",
+  {
+    "name": "weapon_proxmine",
+    "hash": "AB564B93",
     "category": "Throwables",
     "label": "Proximity Mine"
   },
-  "weapon_snowball": {
-    "hash": "0x0787F0BB",
+  {
+    "name": "weapon_snowball",
+    "hash": "0787F0BB",
     "category": "Throwables",
     "label": "Snowball"
   },
-  "weapon_pipebomb": {
-    "hash": "0xBA45E8B8",
+  {
+    "name": "weapon_pipebomb",
+    "hash": "BA45E8B8",
     "category": "Throwables",
     "label": "Pipe Bomb"
   },
-  "weapon_ball": {
-    "hash": "0x23C9F95C",
+  {
+    "name": "weapon_ball",
+    "hash": "23C9F95C",
     "category": "Throwables",
     "label": "Ball"
   },
-  "weapon_smokegrenade": {
-    "hash": "0xFDBC8A50",
+  {
+    "name": "weapon_smokegrenade",
+    "hash": "FDBC8A50",
     "category": "Throwables",
     "label": "Smoke Grenade"
   },
-  "weapon_flare": {
-    "hash": "0x497FACC3",
+  {
+    "name": "weapon_flare",
+    "hash": "497FACC3",
     "category": "Throwables",
     "label": "Flare"
   },
-  "weapon_acidpackage": {
-    "hash": "0xF7F1E25E",
+  {
+    "name": "weapon_acidpackage",
+    "hash": "F7F1E25E",
     "category": "Throwables",
     "label": "Acid Package"
   },
-  "weapon_petrolcan": {
-    "hash": "0x34A67B97",
+  {
+    "name": "weapon_petrolcan",
+    "hash": "34A67B97",
     "category": "Miscellaneous",
     "label": "Jerry Can"
   },
-  "weapon_fireextinguisher": {
-    "hash": "0x060EC506",
+  {
+    "name": "weapon_fireextinguisher",
+    "hash": "060EC506",
     "category": "Miscellaneous",
     "label": "Fire Extinguisher"
   },
-  "weapon_hazardcan": {
-    "hash": "0xBA536372",
+  {
+    "name": "weapon_hazardcan",
+    "hash": "BA536372",
     "category": "Miscellaneous",
     "label": "Hazard Can"
   },
-  "weapon_fertilizercan": {
-    "hash": "0x184140A1",
+  {
+    "name": "weapon_fertilizercan",
+    "hash": "184140A1",
     "category": "Miscellaneous",
     "label": "Fertilizer Can"
   }
-}
+]
