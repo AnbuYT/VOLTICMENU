@@ -1,0 +1,771 @@
+[
+	{
+		"name": "weapon_dagger",
+		"hash": "92A27487",
+		"category": "Melee",
+		"label": "Dagger",
+		"components": {}
+	},
+	{
+		"name": "weapon_bat",
+		"hash": "958A4A8F",
+		"category": "Melee",
+		"label": "Bat",
+		"components": {}
+	},
+	{
+		"name": "weapon_bottle",
+		"hash": "F9E6AA4B",
+		"category": "Melee",
+		"label": "Bottle",
+		"components": {}
+	},
+	{
+		"name": "weapon_crowbar",
+		"hash": "84BD7BFD",
+		"category": "Melee",
+		"label": "Crowbar",
+		"components": {}
+	},
+	{
+		"name": "weapon_unarmed",
+		"hash": "A2719263",
+		"category": "Melee",
+		"label": "Unarmed",
+		"components": {}
+	},
+	{
+		"name": "weapon_flashlight",
+		"hash": "8BB05FD7",
+		"category": "Melee",
+		"label": "Flashlight",
+		"components": {}
+	},
+	{
+		"name": "weapon_golfclub",
+		"hash": "440E4788",
+		"category": "Melee",
+		"label": "Golf Club",
+		"components": {}
+	},
+	{
+		"name": "weapon_hammer",
+		"hash": "4E875F73",
+		"category": "Melee",
+		"label": "Hammer",
+		"components": {}
+	},
+	{
+		"name": "weapon_hatchet",
+		"hash": "F9DCBF2D",
+		"category": "Melee",
+		"label": "Hatchet",
+		"components": {}
+	},
+	{
+		"name": "weapon_knuckle",
+		"hash": "D8DF3C3C",
+		"category": "Melee",
+		"label": "Knuckle Duster",
+		"components": {}
+	},
+	{
+		"name": "weapon_knife",
+		"hash": "99B507EA",
+		"category": "Melee",
+		"label": "Knife",
+		"components": {}
+	},
+	{
+		"name": "weapon_machete",
+		"hash": "DD5DF8D9",
+		"category": "Melee",
+		"label": "Machete",
+		"components": {}
+	},
+	{
+		"name": "weapon_switchblade",
+		"hash": "DFE37640",
+		"category": "Melee",
+		"label": "Switchblade",
+		"components": {}
+	},
+	{
+		"name": "weapon_nightstick",
+		"hash": "678B81B1",
+		"category": "Melee",
+		"label": "Nightstick",
+		"components": {}
+	},
+	{
+		"name": "weapon_wrench",
+		"hash": "19044EE0",
+		"category": "Melee",
+		"label": "Wrench",
+		"components": {}
+	},
+	{
+		"name": "weapon_battleaxe",
+		"hash": "CD274149",
+		"category": "Melee",
+		"label": "Battle Axe",
+		"components": {}
+	},
+	{
+		"name": "weapon_poolcue",
+		"hash": "94117305",
+		"category": "Melee",
+		"label": "Pool Cue",
+		"components": {}
+	},
+	{
+		"name": "weapon_stone_hatchet",
+		"hash": "3813FC08",
+		"category": "Melee",
+		"label": "Stone Hatchet",
+		"components": {}
+	},
+	{
+		"name": "weapon_candycane",
+		"hash": "6589186A",
+		"category": "Melee",
+		"label": "Candy Cane",
+		"components": {}
+	},
+	{
+		"name": "weapon_stunrod",
+		"hash": "DAC00025",
+		"category": "Melee",
+		"label": "Stun Rod",
+		"components": {}
+	},
+	{
+		"name": "weapon_pistol",
+		"hash": "1B06D571",
+		"category": "Handguns",
+		"label": "Pistol",
+		"components": [
+			{ "name": "clip_default", "label": "default Grip", "hash": "FED0FD71" },
+			{ "name": "clip_extended", "label": "extended Grip", "hash": "ED265A1C" },
+			{ "name": "flashlight", "label": "flashlight", "hash": "359B7AAE" },
+			{ "name": "suppressor", "label": "suppressor", "hash": "65EA7EBB" },
+			{ "name": "luxary_finish", "label": "luxary Weapon Finish", "hash": "D7391086" }
+		]
+	},
+	{
+		"name": "weapon_pistol_mk2",
+		"hash": "BFE256D4",
+		"category": "Handguns",
+		"label": "Pistol Mk II",
+		"components": {}
+	},
+	{
+		"name": "weapon_combatpistol",
+		"hash": "5EF9FEC4",
+		"category": "Handguns",
+		"label": "Combat Pistol",
+		"components": {}
+	},
+	{
+		"name": "weapon_appistol",
+		"hash": "22D8FE39",
+		"category": "Handguns",
+		"label": "AP Pistol",
+		"components": {}
+	},
+	{
+		"name": "weapon_stungun",
+		"hash": "3656C8C1",
+		"category": "Handguns",
+		"label": "Stun Gun",
+		"components": {}
+	},
+	{
+		"name": "weapon_pistol50",
+		"hash": "99AEEB3B",
+		"category": "Handguns",
+		"label": "Pistol .50",
+		"components": {}
+	},
+	{
+		"name": "weapon_snspistol",
+		"hash": "BFD21232",
+		"category": "Handguns",
+		"label": "SNS Pistol",
+		"components": {}
+	},
+	{
+		"name": "weapon_snspistol_mk2",
+		"hash": "88374054",
+		"category": "Handguns",
+		"label": "SNS Pistol Mk II",
+		"components": {}
+	},
+	{
+		"name": "weapon_heavypistol",
+		"hash": "D205520E",
+		"category": "Handguns",
+		"label": "Heavy Pistol",
+		"components": {}
+	},
+	{
+		"name": "weapon_vintagepistol",
+		"hash": "083839C4",
+		"category": "Handguns",
+		"label": "Vintage Pistol",
+		"components": {}
+	},
+	{
+		"name": "weapon_flaregun",
+		"hash": "47757124",
+		"category": "Handguns",
+		"label": "Flare Gun",
+		"components": {}
+	},
+	{
+		"name": "weapon_marksmanpistol",
+		"hash": "DC4DB296",
+		"category": "Handguns",
+		"label": "Marksman Pistol",
+		"components": {}
+	},
+	{
+		"name": "weapon_revolver",
+		"hash": "C1B3C3D1",
+		"category": "Handguns",
+		"label": "Revolver",
+		"components": {}
+	},
+	{
+		"name": "weapon_revolver_mk2",
+		"hash": "CB96392F",
+		"category": "Handguns",
+		"label": "Revolver Mk II",
+		"components": {}
+	},
+	{
+		"name": "weapon_doubleaction",
+		"hash": "97EA20B8",
+		"category": "Handguns",
+		"label": "Double-Action Revolver",
+		"components": {}
+	},
+	{
+		"name": "weapon_raypistol",
+		"hash": "AF3696A1",
+		"category": "Handguns",
+		"label": "Up-n-Atomizer",
+		"components": {}
+	},
+	{
+		"name": "weapon_ceramicpistol",
+		"hash": "2B5EF5EC",
+		"category": "Handguns",
+		"label": "Ceramic Pistol",
+		"components": {}
+	},
+	{
+		"name": "weapon_navyrevolver",
+		"hash": "917F6C8C",
+		"category": "Handguns",
+		"label": "Navy Revolver",
+		"components": {}
+	},
+	{
+		"name": "weapon_gadgetpistol",
+		"hash": "57A4368C",
+		"category": "Handguns",
+		"label": "Perico Pistol",
+		"components": {}
+	},
+	{
+		"name": "weapon_stungun_mp",
+		"hash": "45CD9CF3",
+		"category": "Handguns",
+		"label": "Stun Gun MP",
+		"components": {}
+	},
+	{
+		"name": "weapon_pistolxm3",
+		"hash": "1BC4FDB9",
+		"category": "Handguns",
+		"label": "Pistol XM3",
+		"components": {}
+	},
+	{
+		"name": "weapon_microsmg",
+		"hash": "13532244",
+		"category": "SubmachineGuns",
+		"label": "Micro SMG",
+		"components": {}
+	},
+	{
+		"name": "weapon_smg",
+		"hash": "2BE6766B",
+		"category": "SubmachineGuns",
+		"label": "SMG",
+		"components": {}
+	},
+	{
+		"name": "weapon_smg_mk2",
+		"hash": "78A97CD0",
+		"category": "SubmachineGuns",
+		"label": "SMG Mk II",
+		"components": {}
+	},
+	{
+		"name": "weapon_assaultsmg",
+		"hash": "EFE7E2DF",
+		"category": "SubmachineGuns",
+		"label": "Assault SMG",
+		"components": {}
+	},
+	{
+		"name": "weapon_combatpdw",
+		"hash": "0A3D4D34",
+		"category": "SubmachineGuns",
+		"label": "Combat PDW",
+		"components": {}
+	},
+	{
+		"name": "weapon_machinepistol",
+		"hash": "DB1AA450",
+		"category": "SubmachineGuns",
+		"label": "Machine Pistol",
+		"components": {}
+	},
+	{
+		"name": "weapon_minismg",
+		"hash": "BD248B55",
+		"category": "SubmachineGuns",
+		"label": "Mini SMG",
+		"components": {}
+	},
+	{
+		"name": "weapon_raycarbine",
+		"hash": "476BF155",
+		"category": "SubmachineGuns",
+		"label": "Unholy Hellbringer",
+		"components": {}
+	},
+	{
+		"name": "weapon_tecpistol",
+		"hash": "14E5AFD5",
+		"category": "SubmachineGuns",
+		"label": "TEC Pistol",
+		"components": {}
+	},
+	{
+		"name": "weapon_pumpshotgun",
+		"hash": "1D073A89",
+		"category": "Shotguns",
+		"label": "Pump Shotgun",
+		"components": {}
+	},
+	{
+		"name": "weapon_pumpshotgun_mk2",
+		"hash": "555AF99A",
+		"category": "Shotguns",
+		"label": "Pump Shotgun Mk II",
+		"components": {}
+	},
+	{
+		"name": "weapon_sawnoffshotgun",
+		"hash": "7846A318",
+		"category": "Shotguns",
+		"label": "Sawed-Off Shotgun",
+		"components": {}
+	},
+	{
+		"name": "weapon_assaultshotgun",
+		"hash": "E284C527",
+		"category": "Shotguns",
+		"label": "Assault Shotgun",
+		"components": {}
+	},
+	{
+		"name": "weapon_bullpupshotgun",
+		"hash": "9D61E50F",
+		"category": "Shotguns",
+		"label": "Bullpup Shotgun",
+		"components": {}
+	},
+	{
+		"name": "weapon_heavyshotgun",
+		"hash": "3AABBBAA",
+		"category": "Shotguns",
+		"label": "Heavy Shotgun",
+		"components": {}
+	},
+	{
+		"name": "weapon_dbshotgun",
+		"hash": "EF951FBB",
+		"category": "Shotguns",
+		"label": "Double Barrel Shotgun",
+		"components": {}
+	},
+	{
+		"name": "weapon_autoshotgun",
+		"hash": "12E82D3D",
+		"category": "Shotguns",
+		"label": "Automatic Shotgun",
+		"components": {}
+	},
+	{
+		"name": "weapon_combatshotgun",
+		"hash": "05A96BA4",
+		"category": "Shotguns",
+		"label": "Combat Shotgun",
+		"components": {}
+	},
+	{
+		"name": "weapon_assaultrifle",
+		"hash": "BFEFFF6D",
+		"category": "AssaultRifles",
+		"label": "Assault Rifle",
+		"components": {}
+	},
+	{
+		"name": "weapon_assaultrifle_mk2",
+		"hash": "394F415C",
+		"category": "AssaultRifles",
+		"label": "Assault Rifle Mk II",
+		"components": {}
+	},
+	{
+		"name": "weapon_carbinerifle",
+		"hash": "83BF0278",
+		"category": "AssaultRifles",
+		"label": "Carbine Rifle",
+		"components": {}
+	},
+	{
+		"name": "weapon_carbinerifle_mk2",
+		"hash": "FAD1F1C9",
+		"category": "AssaultRifles",
+		"label": "Carbine Rifle Mk II",
+		"components": {}
+	},
+	{
+		"name": "weapon_advancedrifle",
+		"hash": "AF113F99",
+		"category": "AssaultRifles",
+		"label": "Advanced Rifle",
+		"components": {}
+	},
+	{
+		"name": "weapon_specialcarbine",
+		"hash": "C0A3098D",
+		"category": "AssaultRifles",
+		"label": "Special Carbine",
+		"components": {}
+	},
+	{
+		"name": "weapon_specialcarbine_mk2",
+		"hash": "969C3D67",
+		"category": "AssaultRifles",
+		"label": "Special Carbine Mk II",
+		"components": {}
+	},
+	{
+		"name": "weapon_bullpuprifle",
+		"hash": "7F229F94",
+		"category": "AssaultRifles",
+		"label": "Bullpup Rifle",
+		"components": {}
+	},
+	{
+		"name": "weapon_bullpuprifle_mk2",
+		"hash": "84D6FAFD",
+		"category": "AssaultRifles",
+		"label": "Bullpup Rifle Mk II",
+		"components": {}
+	},
+	{
+		"name": "weapon_compactrifle",
+		"hash": "624FE830",
+		"category": "AssaultRifles",
+		"label": "Compact Rifle",
+		"components": {}
+	},
+	{
+		"name": "weapon_militaryrifle",
+		"hash": "9D1F17E6",
+		"category": "AssaultRifles",
+		"label": "Military Rifle",
+		"components": {}
+	},
+	{
+		"name": "weapon_heavyrifle",
+		"hash": "C78D71B4",
+		"category": "AssaultRifles",
+		"label": "Heavy Rifle",
+		"components": {}
+	},
+	{
+		"name": "weapon_tacticalrifle",
+		"hash": "D1D5F52B",
+		"category": "AssaultRifles",
+		"label": "Tactical Rifle",
+		"components": {}
+	},
+	{
+		"name": "weapon_mg",
+		"hash": "9D07F764",
+		"category": "LightMachineGuns",
+		"label": "MG",
+		"components": {}
+	},
+	{
+		"name": "weapon_combatmg",
+		"hash": "7FD62962",
+		"category": "LightMachineGuns",
+		"label": "Combat MG",
+		"components": {}
+	},
+	{
+		"name": "weapon_combatmg_mk2",
+		"hash": "DBBD7280",
+		"category": "LightMachineGuns",
+		"label": "Combat MG Mk II",
+		"components": {}
+	},
+	{
+		"name": "weapon_gusenberg",
+		"hash": "61012683",
+		"category": "LightMachineGuns",
+		"label": "Gusenberg Sweeper",
+		"components": {}
+	},
+	{
+		"name": "weapon_sniperrifle",
+		"hash": "05FC3C11",
+		"category": "SniperRifles",
+		"label": "Sniper Rifle",
+		"components": {}
+	},
+	{
+		"name": "weapon_heavysniper",
+		"hash": "0C472FE2",
+		"category": "SniperRifles",
+		"label": "Heavy Sniper",
+		"components": {}
+	},
+	{
+		"name": "weapon_heavysniper_mk2",
+		"hash": "0A914799",
+		"category": "SniperRifles",
+		"label": "Heavy Sniper Mk II",
+		"components": {}
+	},
+	{
+		"name": "weapon_marksmanrifle",
+		"hash": "C734385A",
+		"category": "SniperRifles",
+		"label": "Marksman Rifle",
+		"components": {}
+	},
+	{
+		"name": "weapon_marksmanrifle_mk2",
+		"hash": "6A6C02E0",
+		"category": "SniperRifles",
+		"label": "Marksman Rifle Mk II",
+		"components": {}
+	},
+	{
+		"name": "weapon_precisionrifle",
+		"hash": "6E7DDDEC",
+		"category": "SniperRifles",
+		"label": "Precision Rifle",
+		"components": {}
+	},
+	{
+		"name": "weapon_musket",
+		"hash": "A89CB99E",
+		"category": "SniperRifles",
+		"label": "Musket",
+		"components": {}
+	},
+	{
+		"name": "weapon_rpg",
+		"hash": "B1CA77B1",
+		"category": "Heavyweapons",
+		"label": "RPG",
+		"components": {}
+	},
+	{
+		"name": "weapon_grenadelauncher",
+		"hash": "A284510B",
+		"category": "Heavyweapons",
+		"label": "Grenade Launcher",
+		"components": {}
+	},
+	{
+		"name": "weapon_grenadelauncher_smoke",
+		"hash": "4DD2DC56",
+		"category": "Heavyweapons",
+		"label": "Grenade Launcher Smoke",
+		"components": {}
+	},
+	{
+		"name": "weapon_minigun",
+		"hash": "42BF8A85",
+		"category": "Heavyweapons",
+		"label": "Minigun",
+		"components": {}
+	},
+	{
+		"name": "weapon_firework",
+		"hash": "7F7497E5",
+		"category": "Heavyweapons",
+		"label": "Firework Launcher",
+		"components": {}
+	},
+	{
+		"name": "weapon_railgun",
+		"hash": "6D544C99",
+		"category": "Heavyweapons",
+		"label": "Railgun",
+		"components": {}
+	},
+	{
+		"name": "weapon_hominglauncher",
+		"hash": "63AB0442",
+		"category": "Heavyweapons",
+		"label": "Homing Launcher",
+		"components": {}
+	},
+	{
+		"name": "weapon_compactlauncher",
+		"hash": "0781FE4A",
+		"category": "Heavyweapons",
+		"label": "Compact Grenade Launcher",
+		"components": {}
+	},
+	{
+		"name": "weapon_rayminigun",
+		"hash": "B62D1F67",
+		"category": "Heavyweapons",
+		"label": "Widowmaker",
+		"components": {}
+	},
+	{
+		"name": "weapon_emplauncher",
+		"hash": "DB26713A",
+		"category": "Heavyweapons",
+		"label": "EMP Launcher",
+		"components": {}
+	},
+	{
+		"name": "weapon_railgunxm3",
+		"hash": "FEA23564",
+		"category": "Heavyweapons",
+		"label": "Railgun XM3",
+		"components": {}
+	},
+	{
+		"name": "weapon_grenade",
+		"hash": "93E220BD",
+		"category": "Throwables",
+		"label": "Grenade",
+		"components": {}
+	},
+	{
+		"name": "weapon_bzgas",
+		"hash": "A0973D5E",
+		"category": "Throwables",
+		"label": "BZ Gas",
+		"components": {}
+	},
+	{
+		"name": "weapon_molotov",
+		"hash": "24B17070",
+		"category": "Throwables",
+		"label": "Molotov",
+		"components": {}
+	},
+	{
+		"name": "weapon_stickybomb",
+		"hash": "2C3731D9",
+		"category": "Throwables",
+		"label": "Sticky Bomb",
+		"components": {}
+	},
+	{
+		"name": "weapon_proxmine",
+		"hash": "AB564B93",
+		"category": "Throwables",
+		"label": "Proximity Mine",
+		"components": {}
+	},
+	{
+		"name": "weapon_snowball",
+		"hash": "0787F0BB",
+		"category": "Throwables",
+		"label": "Snowball",
+		"components": {}
+	},
+	{
+		"name": "weapon_pipebomb",
+		"hash": "BA45E8B8",
+		"category": "Throwables",
+		"label": "Pipe Bomb",
+		"components": {}
+	},
+	{
+		"name": "weapon_ball",
+		"hash": "23C9F95C",
+		"category": "Throwables",
+		"label": "Ball",
+		"components": {}
+	},
+	{
+		"name": "weapon_smokegrenade",
+		"hash": "FDBC8A50",
+		"category": "Throwables",
+		"label": "Smoke Grenade",
+		"components": {}
+	},
+	{
+		"name": "weapon_flare",
+		"hash": "497FACC3",
+		"category": "Throwables",
+		"label": "Flare",
+		"components": {}
+	},
+	{
+		"name": "weapon_acidpackage",
+		"hash": "F7F1E25E",
+		"category": "Throwables",
+		"label": "Acid Package",
+		"components": {}
+	},
+	{
+		"name": "weapon_petrolcan",
+		"hash": "34A67B97",
+		"category": "Miscellaneous",
+		"label": "Jerry Can",
+		"components": {}
+	},
+	{
+		"name": "weapon_fireextinguisher",
+		"hash": "060EC506",
+		"category": "Miscellaneous",
+		"label": "Fire Extinguisher",
+		"components": {}
+	},
+	{
+		"name": "weapon_hazardcan",
+		"hash": "BA536372",
+		"category": "Miscellaneous",
+		"label": "Hazard Can",
+		"components": {}
+	},
+	{
+		"name": "weapon_fertilizercan",
+		"hash": "184140A1",
+		"category": "Miscellaneous",
+		"label": "Fertilizer Can",
+		"components": {}
+	}
+]
