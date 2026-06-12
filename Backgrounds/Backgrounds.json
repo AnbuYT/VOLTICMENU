@@ -2,7 +2,7 @@
   "VolticDesign1": {
     "Name": "VolticDesign1",
     "Description": "Made by Anbu",
-    "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/VolticBanner1Rounded.png?raw=true",
+    "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Backgrounds/Normal/VolticBanner1Rounded.png?raw=true",
     "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/VolticLogoTransparent.png?raw=true",
     "Background": [25, 0, 46, 255],
     "Item": {
