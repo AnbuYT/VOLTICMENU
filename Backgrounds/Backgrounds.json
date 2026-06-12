@@ -355,5 +355,26 @@
       "Background": [25, 25, 25, 255],
       "Inner": [160, 160, 160, 255]
     }
+  },
+  "MadaraDesign": {
+    "Name": "Madara Design",
+    "Description": "Made by Back",
+    "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Backgrounds/Custom/Background13Rounded.png?raw=true",
+    "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Backgrounds/Logo/VolticLogoTransparent5.png?raw=true",
+    "Background": [25, 0, 0, 255],
+    "Item": {
+      "Normal": [90, 0, 0, 255],
+      "Selected": [140, 0, 0, 255],
+      "Disable": [50, 0, 0, 255],
+      "DisableSelected": [80, 0, 0, 255]
+    },
+    "Toggle": {
+      "On": [220, 30, 30, 255],
+      "Off": [25, 0, 0, 255]
+    },
+    "Slider": {
+      "Background": [25, 0, 0, 255],
+      "Inner": [255, 80, 80, 255]
+    }
   }
 }
