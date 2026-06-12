@@ -1,382 +1,380 @@
 {
-  "Designs": {
-    "VolticDesign1": {
-      "Name": "VolticDesign1",
-      "Description": "Made by Anbu",
-      "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/VolticBanner1Rounded.png?raw=true",
-      "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/VolticLogoTransparent.png?raw=true",
+  "VolticDesign1": {
+    "Name": "VolticDesign1",
+    "Description": "Made by Anbu",
+    "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/VolticBanner1Rounded.png?raw=true",
+    "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/VolticLogoTransparent.png?raw=true",
+    "Background": [25, 0, 46, 255],
+    "Item": {
+      "Normal": [46, 0, 82, 255],
+      "Selected": [76, 20, 112, 255],
+      "Disable": [27, 0, 48, 255],
+      "DisableSelected": [56, 20, 84, 255]
+    },
+    "Toggle": {
+      "On": [85, 0, 151, 255],
+      "Off": [25, 0, 46, 255]
+    },
+    "Slider": {
       "Background": [25, 0, 46, 255],
-      "Item": {
-        "Normal": [46, 0, 82, 255],
-        "Selected": [76, 20, 112, 255],
-        "Disable": [27, 0, 48, 255],
-        "DisableSelected": [56, 20, 84, 255]
-      },
-      "Toggle": {
-        "On": [85, 0, 151, 255],
-        "Off": [25, 0, 46, 255]
-      },
-      "Slider": {
-        "Background": [25, 0, 46, 255],
-        "Inner": [110, 0, 201, 255]
-      }
+      "Inner": [110, 0, 201, 255]
+    }
+  },
+  "VolticDesign2": {
+    "Name": "VolticDesign2",
+    "Description": "Made by Hiko",
+    "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/VolticBanner2Rounded.png?raw=true",
+    "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/VolticLogoTransparent.png?raw=true",
+    "Background": [25, 0, 46, 255],
+    "Item": {
+      "Normal": [46, 0, 82, 255],
+      "Selected": [76, 20, 112, 255],
+      "Disable": [27, 0, 48, 255],
+      "DisableSelected": [56, 20, 84, 255]
     },
-    "VolticDesign2": {
-      "Name": "VolticDesign2",
-      "Description": "Made by Hiko",
-      "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/VolticBanner2Rounded.png?raw=true",
-      "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/VolticLogoTransparent.png?raw=true",
+    "Toggle": {
+      "On": [85, 0, 151, 255],
+      "Off": [25, 0, 46, 255]
+    },
+    "Slider": {
       "Background": [25, 0, 46, 255],
-      "Item": {
-        "Normal": [46, 0, 82, 255],
-        "Selected": [76, 20, 112, 255],
-        "Disable": [27, 0, 48, 255],
-        "DisableSelected": [56, 20, 84, 255]
-      },
-      "Toggle": {
-        "On": [85, 0, 151, 255],
-        "Off": [25, 0, 46, 255]
-      },
-      "Slider": {
-        "Background": [25, 0, 46, 255],
-        "Inner": [110, 0, 201, 255]
-      }
+      "Inner": [110, 0, 201, 255]
+    }
+  },
+  "VolticDesign3": {
+    "Name": "VolticDesign3",
+    "Description": "Made by Anbu",
+    "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/VolticBanner4Rounded.png?raw=true",
+    "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/VolticLogoTransparent.png?raw=true",
+    "Background": [25, 0, 46, 255],
+    "Item": {
+      "Normal": [46, 0, 82, 255],
+      "Selected": [76, 20, 112, 255],
+      "Disable": [27, 0, 48, 255],
+      "DisableSelected": [56, 20, 84, 255]
     },
-    "VolticDesign3": {
-      "Name": "VolticDesign3",
-      "Description": "Made by Anbu",
-      "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/VolticBanner4Rounded.png?raw=true",
-      "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/VolticLogoTransparent.png?raw=true",
+    "Toggle": {
+      "On": [85, 0, 151, 255],
+      "Off": [25, 0, 46, 255]
+    },
+    "Slider": {
       "Background": [25, 0, 46, 255],
-      "Item": {
-        "Normal": [46, 0, 82, 255],
-        "Selected": [76, 20, 112, 255],
-        "Disable": [27, 0, 48, 255],
-        "DisableSelected": [56, 20, 84, 255]
-      },
-      "Toggle": {
-        "On": [85, 0, 151, 255],
-        "Off": [25, 0, 46, 255]
-      },
-      "Slider": {
-        "Background": [25, 0, 46, 255],
-        "Inner": [110, 0, 201, 255]
-      }
+      "Inner": [110, 0, 201, 255]
+    }
+  },
+  "VolticDesign4": {
+    "Name": "VolticDesign4",
+    "Description": "Made by Hiko",
+    "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/VolticBanner3Rounded.png?raw=true",
+    "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/VolticLogoTransparent.png?raw=true",
+    "Background": [25, 0, 46, 255],
+    "Item": {
+      "Normal": [46, 0, 82, 255],
+      "Selected": [76, 20, 112, 255],
+      "Disable": [27, 0, 48, 255],
+      "DisableSelected": [56, 20, 84, 255]
     },
-    "VolticDesign4": {
-      "Name": "VolticDesign4",
-      "Description": "Made by Hiko",
-      "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/VolticBanner3Rounded.png?raw=true",
-      "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/VolticLogoTransparent.png?raw=true",
+    "Toggle": {
+      "On": [85, 0, 151, 255],
+      "Off": [25, 0, 46, 255]
+    },
+    "Slider": {
       "Background": [25, 0, 46, 255],
-      "Item": {
-        "Normal": [46, 0, 82, 255],
-        "Selected": [76, 20, 112, 255],
-        "Disable": [27, 0, 48, 255],
-        "DisableSelected": [56, 20, 84, 255]
-      },
-      "Toggle": {
-        "On": [85, 0, 151, 255],
-        "Off": [25, 0, 46, 255]
-      },
-      "Slider": {
-        "Background": [25, 0, 46, 255],
-        "Inner": [110, 0, 201, 255]
-      }
+      "Inner": [110, 0, 201, 255]
+    }
+  },
+  "VolticDesign5": {
+    "Name": "VolticDesign5",
+    "Description": "Made by Rider",
+    "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Background12Rounded.png?raw=true",
+    "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/VolticLogoTransparent.png?raw=true",
+    "Background": [25, 0, 46, 255],
+    "Item": {
+      "Normal": [46, 0, 82, 255],
+      "Selected": [76, 20, 112, 255],
+      "Disable": [27, 0, 48, 255],
+      "DisableSelected": [56, 20, 84, 255]
     },
-    "VolticDesign5": {
-      "Name": "VolticDesign5",
-      "Description": "Made by Rider",
-      "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Background12Rounded.png?raw=true",
-      "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/VolticLogoTransparent.png?raw=true",
+    "Toggle": {
+      "On": [85, 0, 151, 255],
+      "Off": [25, 0, 46, 255]
+    },
+    "Slider": {
       "Background": [25, 0, 46, 255],
-      "Item": {
-        "Normal": [46, 0, 82, 255],
-        "Selected": [76, 20, 112, 255],
-        "Disable": [27, 0, 48, 255],
-        "DisableSelected": [56, 20, 84, 255]
-      },
-      "Toggle": {
-        "On": [85, 0, 151, 255],
-        "Off": [25, 0, 46, 255]
-      },
-      "Slider": {
-        "Background": [25, 0, 46, 255],
-        "Inner": [110, 0, 201, 255]
-      }
+      "Inner": [110, 0, 201, 255]
+    }
+  },
+  "RedDesign1": {
+    "Name": "RedDesign1",
+    "Description": "Made by Anbu",
+    "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Background1Rounded.png?raw=true",
+    "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/VolticLogoTransparent5.png?raw=true",
+    "Background": [56, 11, 2, 255],
+    "Item": {
+      "Normal": [82, 0, 0, 255],
+      "Selected": [112, 20, 20, 255],
+      "Disable": [46, 0, 0, 255],
+      "DisableSelected": [86, 20, 20, 255]
     },
-    "RedDesign1": {
-      "Name": "RedDesign1",
-      "Description": "Made by Anbu",
-      "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Background1Rounded.png?raw=true",
-      "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/VolticLogoTransparent5.png?raw=true",
-      "Background": [56, 11, 2, 255],
-      "Item": {
-        "Normal": [82, 0, 0, 255],
-        "Selected": [112, 20, 20, 255],
-        "Disable": [46, 0, 0, 255],
-        "DisableSelected": [86, 20, 20, 255]
-      },
-      "Toggle": {
-        "On": [151, 0, 0, 255],
-        "Off": [31, 6, 1, 255]
-      },
-      "Slider": {
-        "Background": [31, 6, 1, 255],
-        "Inner": [201, 0, 0, 255]
-      }
+    "Toggle": {
+      "On": [151, 0, 0, 255],
+      "Off": [31, 6, 1, 255]
     },
-    "RedDesign2": {
-      "Name": "RedDesign2",
-      "Description": "Made by Rider",
-      "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Background2Rounded.png?raw=true",
-      "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/VolticLogoTransparent5.png?raw=true",
-      "Background": [56, 11, 2, 255],
-      "Item": {
-        "Normal": [82, 0, 0, 255],
-        "Selected": [112, 20, 20, 255],
-        "Disable": [46, 0, 0, 255],
-        "DisableSelected": [86, 20, 20, 255]
-      },
-      "Toggle": {
-        "On": [151, 0, 0, 255],
-        "Off": [31, 6, 1, 255]
-      },
-      "Slider": {
-        "Background": [31, 6, 1, 255],
-        "Inner": [201, 0, 0, 255]
-      }
+    "Slider": {
+      "Background": [31, 6, 1, 255],
+      "Inner": [201, 0, 0, 255]
+    }
+  },
+  "RedDesign2": {
+    "Name": "RedDesign2",
+    "Description": "Made by Rider",
+    "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Background2Rounded.png?raw=true",
+    "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/VolticLogoTransparent5.png?raw=true",
+    "Background": [56, 11, 2, 255],
+    "Item": {
+      "Normal": [82, 0, 0, 255],
+      "Selected": [112, 20, 20, 255],
+      "Disable": [46, 0, 0, 255],
+      "DisableSelected": [86, 20, 20, 255]
     },
-    "RedDesign3": {
-      "Name": "RedDesign3",
-      "Description": "Made by Anbu",
-      "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Background3Rounded.png?raw=true",
-      "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/VolticLogoTransparent5.png?raw=true",
-      "Background": [56, 11, 2, 255],
-      "Item": {
-        "Normal": [82, 0, 0, 255],
-        "Selected": [112, 20, 20, 255],
-        "Disable": [46, 0, 0, 255],
-        "DisableSelected": [86, 20, 20, 255]
-      },
-      "Toggle": {
-        "On": [151, 0, 0, 255],
-        "Off": [31, 6, 1, 255]
-      },
-      "Slider": {
-        "Background": [31, 6, 1, 255],
-        "Inner": [201, 0, 0, 255]
-      }
+    "Toggle": {
+      "On": [151, 0, 0, 255],
+      "Off": [31, 6, 1, 255]
     },
-    "RedDesign4": {
-      "Name": "RedDesign4",
-      "Description": "Made by Anbu",
-      "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Background8Rounded.png?raw=true",
-      "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/VolticLogoTransparent5.png?raw=true",
-      "Background": [56, 11, 2, 255],
-      "Item": {
-        "Normal": [82, 0, 0, 255],
-        "Selected": [112, 20, 20, 255],
-        "Disable": [46, 0, 0, 255],
-        "DisableSelected": [86, 20, 20, 255]
-      },
-      "Toggle": {
-        "On": [151, 0, 0, 255],
-        "Off": [31, 6, 1, 255]
-      },
-      "Slider": {
-        "Background": [31, 6, 1, 255],
-        "Inner": [201, 0, 0, 255]
-      }
+    "Slider": {
+      "Background": [31, 6, 1, 255],
+      "Inner": [201, 0, 0, 255]
+    }
+  },
+  "RedDesign3": {
+    "Name": "RedDesign3",
+    "Description": "Made by Anbu",
+    "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Background3Rounded.png?raw=true",
+    "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/VolticLogoTransparent5.png?raw=true",
+    "Background": [56, 11, 2, 255],
+    "Item": {
+      "Normal": [82, 0, 0, 255],
+      "Selected": [112, 20, 20, 255],
+      "Disable": [46, 0, 0, 255],
+      "DisableSelected": [86, 20, 20, 255]
     },
-    "OrangeDesign1": {
-      "Name": "OrangeDesign1",
-      "Description": "Made by Anbu",
-      "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Background4Rounded.png?raw=true",
-      "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/VolticLogoTransparent1.png?raw=true",
-      "Background": [56, 36, 2, 255],
-      "Item": {
-        "Normal": [82, 48, 0, 255],
-        "Selected": [102, 68, 20, 255],
-        "Disable": [48, 28, 0, 255],
-        "DisableSelected": [86, 59, 20, 255]
-      },
-      "Toggle": {
-        "On": [151, 91, 0, 255],
-        "Off": [31, 19, 1, 255]
-      },
-      "Slider": {
-        "Background": [31, 19, 1, 255],
-        "Inner": [201, 117, 0, 255]
-      }
+    "Toggle": {
+      "On": [151, 0, 0, 255],
+      "Off": [31, 6, 1, 255]
     },
-    "BlueDesign1": {
-      "Name": "BlueDesign1",
-      "Description": "Made by Anbu",
-      "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Background5Rounded.png?raw=true",
-      "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/VolticLogoTransparent4.png?raw=true",
-      "Background": [2, 43, 56, 255],
-      "Item": {
-        "Normal": [0, 56, 82, 255],
-        "Selected": [20, 86, 112, 255],
-        "Disable": [0, 35, 51, 255],
-        "DisableSelected": [20, 67, 89, 255]
-      },
-      "Toggle": {
-        "On": [0, 106, 151, 255],
-        "Off": [1, 21, 31, 255]
-      },
-      "Slider": {
-        "Background": [1, 21, 31, 255],
-        "Inner": [0, 111, 201, 255]
-      }
+    "Slider": {
+      "Background": [31, 6, 1, 255],
+      "Inner": [201, 0, 0, 255]
+    }
+  },
+  "RedDesign4": {
+    "Name": "RedDesign4",
+    "Description": "Made by Anbu",
+    "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Background8Rounded.png?raw=true",
+    "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/VolticLogoTransparent5.png?raw=true",
+    "Background": [56, 11, 2, 255],
+    "Item": {
+      "Normal": [82, 0, 0, 255],
+      "Selected": [112, 20, 20, 255],
+      "Disable": [46, 0, 0, 255],
+      "DisableSelected": [86, 20, 20, 255]
     },
-    "BlueDesign2": {
-      "Name": "BlueDesign2",
-      "Description": "Made by Anbu",
-      "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Background7Rounded.png?raw=true",
-      "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/VolticLogoTransparent4.png?raw=true",
-      "Background": [2, 43, 56, 255],
-      "Item": {
-        "Normal": [0, 56, 82, 255],
-        "Selected": [20, 86, 112, 255],
-        "Disable": [0, 35, 51, 255],
-        "DisableSelected": [20, 67, 89, 255]
-      },
-      "Toggle": {
-        "On": [0, 106, 151, 255],
-        "Off": [1, 21, 31, 255]
-      },
-      "Slider": {
-        "Background": [1, 21, 31, 255],
-        "Inner": [0, 111, 201, 255]
-      }
+    "Toggle": {
+      "On": [151, 0, 0, 255],
+      "Off": [31, 6, 1, 255]
     },
-    "GreenDesign1": {
-      "Name": "GreenDesign1",
-      "Description": "Made by Anbu",
-      "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Background6Rounded.png?raw=true",
-      "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/VolticLogoTransparent2.png?raw=true",
-      "Background": [6, 56, 2, 255],
-      "Item": {
-        "Normal": [0, 82, 0, 255],
-        "Selected": [20, 112, 20, 255],
-        "Disable": [0, 56, 0, 255],
-        "DisableSelected": [20, 89, 20, 255]
-      },
-      "Toggle": {
-        "On": [0, 151, 0, 255],
-        "Off": [1, 31, 3, 255]
-      },
-      "Slider": {
-        "Background": [1, 31, 3, 255],
-        "Inner": [7, 201, 0, 255]
-      }
+    "Slider": {
+      "Background": [31, 6, 1, 255],
+      "Inner": [201, 0, 0, 255]
+    }
+  },
+  "OrangeDesign1": {
+    "Name": "OrangeDesign1",
+    "Description": "Made by Anbu",
+    "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Background4Rounded.png?raw=true",
+    "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/VolticLogoTransparent1.png?raw=true",
+    "Background": [56, 36, 2, 255],
+    "Item": {
+      "Normal": [82, 48, 0, 255],
+      "Selected": [102, 68, 20, 255],
+      "Disable": [48, 28, 0, 255],
+      "DisableSelected": [86, 59, 20, 255]
     },
-    "PurpleDesign1": {
-      "Name": "PurpleDesign1",
-      "Description": "Made by Anbu",
-      "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Background9-Rounded.png?raw=true",
-      "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/VolticLogoTransparent.png?raw=true",
+    "Toggle": {
+      "On": [151, 91, 0, 255],
+      "Off": [31, 19, 1, 255]
+    },
+    "Slider": {
+      "Background": [31, 19, 1, 255],
+      "Inner": [201, 117, 0, 255]
+    }
+  },
+  "BlueDesign1": {
+    "Name": "BlueDesign1",
+    "Description": "Made by Anbu",
+    "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Background5Rounded.png?raw=true",
+    "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/VolticLogoTransparent4.png?raw=true",
+    "Background": [2, 43, 56, 255],
+    "Item": {
+      "Normal": [0, 56, 82, 255],
+      "Selected": [20, 86, 112, 255],
+      "Disable": [0, 35, 51, 255],
+      "DisableSelected": [20, 67, 89, 255]
+    },
+    "Toggle": {
+      "On": [0, 106, 151, 255],
+      "Off": [1, 21, 31, 255]
+    },
+    "Slider": {
+      "Background": [1, 21, 31, 255],
+      "Inner": [0, 111, 201, 255]
+    }
+  },
+  "BlueDesign2": {
+    "Name": "BlueDesign2",
+    "Description": "Made by Anbu",
+    "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Background7Rounded.png?raw=true",
+    "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/VolticLogoTransparent4.png?raw=true",
+    "Background": [2, 43, 56, 255],
+    "Item": {
+      "Normal": [0, 56, 82, 255],
+      "Selected": [20, 86, 112, 255],
+      "Disable": [0, 35, 51, 255],
+      "DisableSelected": [20, 67, 89, 255]
+    },
+    "Toggle": {
+      "On": [0, 106, 151, 255],
+      "Off": [1, 21, 31, 255]
+    },
+    "Slider": {
+      "Background": [1, 21, 31, 255],
+      "Inner": [0, 111, 201, 255]
+    }
+  },
+  "GreenDesign1": {
+    "Name": "GreenDesign1",
+    "Description": "Made by Anbu",
+    "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Background6Rounded.png?raw=true",
+    "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/VolticLogoTransparent2.png?raw=true",
+    "Background": [6, 56, 2, 255],
+    "Item": {
+      "Normal": [0, 82, 0, 255],
+      "Selected": [20, 112, 20, 255],
+      "Disable": [0, 56, 0, 255],
+      "DisableSelected": [20, 89, 20, 255]
+    },
+    "Toggle": {
+      "On": [0, 151, 0, 255],
+      "Off": [1, 31, 3, 255]
+    },
+    "Slider": {
+      "Background": [1, 31, 3, 255],
+      "Inner": [7, 201, 0, 255]
+    }
+  },
+  "PurpleDesign1": {
+    "Name": "PurpleDesign1",
+    "Description": "Made by Anbu",
+    "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Background9-Rounded.png?raw=true",
+    "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/VolticLogoTransparent.png?raw=true",
+    "Background": [25, 0, 46, 255],
+    "Item": {
+      "Normal": [46, 0, 82, 255],
+      "Selected": [66, 20, 112, 255],
+      "Disable": [32, 0, 56, 255],
+      "DisableSelected": [58, 20, 86, 255]
+    },
+    "Toggle": {
+      "On": [85, 0, 151, 255],
+      "Off": [25, 0, 46, 255]
+    },
+    "Slider": {
       "Background": [25, 0, 46, 255],
-      "Item": {
-        "Normal": [46, 0, 82, 255],
-        "Selected": [66, 20, 112, 255],
-        "Disable": [32, 0, 56, 255],
-        "DisableSelected": [58, 20, 86, 255]
-      },
-      "Toggle": {
-        "On": [85, 0, 151, 255],
-        "Off": [25, 0, 46, 255]
-      },
-      "Slider": {
-        "Background": [25, 0, 46, 255],
-        "Inner": [110, 0, 201, 255]
-      }
+      "Inner": [110, 0, 201, 255]
+    }
+  },
+  "PornhubDesign": {
+    "Name": "PornhubDesign",
+    "Description": "Made by Back",
+    "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/TrollBackground2Rounded.png?raw=true",
+    "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/VolticLogoTransparent1.png?raw=true",
+    "Background": [10, 10, 10, 255],
+    "Item": {
+      "Normal": [25, 25, 25, 255],
+      "Selected": [45, 45, 45, 255],
+      "Disable": [15, 15, 15, 255],
+      "DisableSelected": [35, 35, 35, 255]
     },
-    "PornhubDesign": {
-      "Name": "PornhubDesign",
-      "Description": "Made by Back",
-      "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/TrollBackground2Rounded.png?raw=true",
-      "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/VolticLogoTransparent1.png?raw=true",
-      "Background": [10, 10, 10, 255],
-      "Item": {
-        "Normal": [25, 25, 25, 255],
-        "Selected": [45, 45, 45, 255],
-        "Disable": [15, 15, 15, 255],
-        "DisableSelected": [35, 35, 35, 255]
-      },
-      "Toggle": {
-        "On": [255, 150, 20, 255],
-        "Off": [25, 25, 25, 255]
-      },
-      "Slider": {
-        "Background": [25, 25, 25, 255],
-        "Inner": [255, 150, 20, 255]
-      }
+    "Toggle": {
+      "On": [255, 150, 20, 255],
+      "Off": [25, 25, 25, 255]
     },
-    "BurgerKingDesign": {
-      "Name": "BurgerKingDesign",
-      "Description": "Made by Back",
-      "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/TrollBackground1Rounded.png?raw=true",
-      "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/VolticLogoTransparent4.png?raw=true",
-      "Background": [30, 40, 60, 255],
-      "Item": {
-        "Normal": [45, 60, 85, 255],
-        "Selected": [65, 90, 115, 255],
-        "Disable": [32, 42, 59, 255],
-        "DisableSelected": [58, 70, 91, 255]
-      },
-      "Toggle": {
-        "On": [90, 175, 255, 255],
-        "Off": [45, 60, 85, 255]
-      },
-      "Slider": {
-        "Background": [45, 60, 85, 255],
-        "Inner": [80, 160, 255, 255]
-      }
-    },
-    "GrauDesign1": {
-      "Name": "GrauDesign1",
-      "Description": "Made by Rider",
-      "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Background10Rounded.png?raw=true",
-      "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/VolticLogoTransparent6.png?raw=true",
+    "Slider": {
       "Background": [25, 25, 25, 255],
-      "Item": {
-        "Normal": [55, 55, 55, 255],
-        "Selected": [75, 75, 75, 255],
-        "Disable": [38, 38, 38, 255],
-        "DisableSelected": [66, 66, 66, 255]
-      },
-      "Toggle": {
-        "On": [120, 120, 120, 255],
-        "Off": [25, 25, 25, 255]
-      },
-      "Slider": {
-        "Background": [25, 25, 25, 255],
-        "Inner": [160, 160, 160, 255]
-      }
+      "Inner": [255, 150, 20, 255]
+    }
+  },
+  "BurgerKingDesign": {
+    "Name": "BurgerKingDesign",
+    "Description": "Made by Back",
+    "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/TrollBackground1Rounded.png?raw=true",
+    "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/VolticLogoTransparent4.png?raw=true",
+    "Background": [30, 40, 60, 255],
+    "Item": {
+      "Normal": [45, 60, 85, 255],
+      "Selected": [65, 90, 115, 255],
+      "Disable": [32, 42, 59, 255],
+      "DisableSelected": [58, 70, 91, 255]
     },
-    "SchwarzDesign1": {
-      "Name": "SchwarzDesign1",
-      "Description": "Made by Monkey",
-      "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Background11Rounded.png?raw=true",
-      "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/VolticLogoTransparent5.png?raw=true",
+    "Toggle": {
+      "On": [90, 175, 255, 255],
+      "Off": [45, 60, 85, 255]
+    },
+    "Slider": {
+      "Background": [45, 60, 85, 255],
+      "Inner": [80, 160, 255, 255]
+    }
+  },
+  "GrauDesign1": {
+    "Name": "GrauDesign1",
+    "Description": "Made by Rider",
+    "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Background10Rounded.png?raw=true",
+    "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/VolticLogoTransparent6.png?raw=true",
+    "Background": [25, 25, 25, 255],
+    "Item": {
+      "Normal": [55, 55, 55, 255],
+      "Selected": [75, 75, 75, 255],
+      "Disable": [38, 38, 38, 255],
+      "DisableSelected": [66, 66, 66, 255]
+    },
+    "Toggle": {
+      "On": [120, 120, 120, 255],
+      "Off": [25, 25, 25, 255]
+    },
+    "Slider": {
       "Background": [25, 25, 25, 255],
-      "Item": {
-        "Normal": [82, 0, 0, 255],
-        "Selected": [102, 20, 20, 255],
-        "Disable": [56, 0, 0, 255],
-        "DisableSelected": [76, 20, 20, 255]
-      },
-      "Toggle": {
-        "On": [151, 0, 0, 255],
-        "Off": [25, 25, 25, 255]
-      },
-      "Slider": {
-        "Background": [25, 25, 25, 255],
-        "Inner": [201, 0, 0, 255]
-      }
+      "Inner": [160, 160, 160, 255]
+    }
+  },
+  "SchwarzDesign1": {
+    "Name": "SchwarzDesign1",
+    "Description": "Made by Monkey",
+    "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Background11Rounded.png?raw=true",
+    "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/VolticLogoTransparent5.png?raw=true",
+    "Background": [25, 25, 25, 255],
+    "Item": {
+      "Normal": [82, 0, 0, 255],
+      "Selected": [102, 20, 20, 255],
+      "Disable": [56, 0, 0, 255],
+      "DisableSelected": [76, 20, 20, 255]
+    },
+    "Toggle": {
+      "On": [151, 0, 0, 255],
+      "Off": [25, 25, 25, 255]
+    },
+    "Slider": {
+      "Background": [25, 25, 25, 255],
+      "Inner": [201, 0, 0, 255]
     }
   }
 }
