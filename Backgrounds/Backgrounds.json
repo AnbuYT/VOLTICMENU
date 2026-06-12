@@ -23,7 +23,7 @@
   "VolticDesign2": {
     "Name": "VolticDesign2",
     "Description": "Made by Hiko",
-    "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/VolticBanner2Rounded.png?raw=true",
+    "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Backgrounds/Normal/VolticBanner2Rounded.png?raw=true",
     "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/VolticLogoTransparent.png?raw=true",
     "Background": [25, 0, 46, 255],
     "Item": {
