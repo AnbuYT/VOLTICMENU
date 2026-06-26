@@ -4,7 +4,7 @@
     "Description": "Made by Anbu",
     "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Backgrounds/Normal/VolticBanner1Rounded.png?raw=true",
     "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Backgrounds/Logo/VolticLogoTransparent.png?raw=true",
-    "Background": [25, 0, 46, 230],
+    "Background": [25, 0, 46, 235],
     "Item": {
       "Normal": [46, 0, 82, 255],
       "Selected": [76, 20, 112, 255],
