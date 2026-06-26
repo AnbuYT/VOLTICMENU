@@ -25,7 +25,7 @@
     "Description": "Made by Hiko",
     "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Backgrounds/Normal/VolticBanner2Rounded.png?raw=true",
     "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Backgrounds/Logo/VolticLogoTransparent.png?raw=true",
-    "Background": [25, 0, 46, 255],
+    "Background": [25, 0, 46, 235],
     "Item": {
       "Normal": [46, 0, 82, 255],
       "Selected": [76, 20, 112, 255],
@@ -46,7 +46,7 @@
     "Description": "Made by Anbu",
     "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Backgrounds/Normal/VolticBanner3Rounded.png?raw=true",
     "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Backgrounds/Logo/VolticLogoTransparent.png?raw=true",
-    "Background": [25, 0, 46, 255],
+    "Background": [25, 0, 46, 235],
     "Item": {
       "Normal": [46, 0, 82, 255],
       "Selected": [76, 20, 112, 255],
@@ -67,7 +67,7 @@
     "Description": "Made by Hiko",
     "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Backgrounds/Normal/VolticBanner4Rounded.png?raw=true",
     "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Backgrounds/Logo/VolticLogoTransparent.png?raw=true",
-    "Background": [25, 0, 46, 255],
+    "Background": [25, 0, 46, 235],
     "Item": {
       "Normal": [46, 0, 82, 255],
       "Selected": [76, 20, 112, 255],
@@ -88,7 +88,7 @@
     "Description": "Made by Rider",
     "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Background12Rounded.png?raw=true",
     "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Backgrounds/Logo/VolticLogoTransparent.png?raw=true",
-    "Background": [25, 0, 46, 255],
+    "Background": [25, 0, 46, 235],
     "Item": {
       "Normal": [46, 0, 82, 255],
       "Selected": [76, 20, 112, 255],
@@ -109,7 +109,7 @@
     "Description": "Made by Anbu",
     "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Backgrounds/Custom/Background1Rounded.png?raw=true",
     "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Backgrounds/Logo/VolticLogoTransparent5.png?raw=true",
-    "Background": [56, 11, 2, 255],
+    "Background": [56, 11, 2, 235],
     "Item": {
       "Normal": [82, 0, 0, 255],
       "Selected": [112, 20, 20, 255],
@@ -130,7 +130,7 @@
     "Description": "Made by Rider",
     "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Backgrounds/Custom/Background2Rounded.png?raw=true",
     "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Backgrounds/Logo/VolticLogoTransparent5.png?raw=true",
-    "Background": [56, 11, 2, 255],
+    "Background": [56, 11, 2, 235],
     "Item": {
       "Normal": [82, 0, 0, 255],
       "Selected": [112, 20, 20, 255],
@@ -151,7 +151,7 @@
     "Description": "Made by Anbu",
     "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Backgrounds/Custom/Background3Rounded.png?raw=true",
     "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Backgrounds/Logo/VolticLogoTransparent5.png?raw=true",
-    "Background": [56, 11, 2, 255],
+    "Background": [56, 11, 2, 235],
     "Item": {
       "Normal": [82, 0, 0, 255],
       "Selected": [112, 20, 20, 255],
@@ -172,7 +172,7 @@
     "Description": "Made by Anbu",
     "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Backgrounds/Custom/Background8Rounded.png?raw=true",
     "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Backgrounds/Logo/VolticLogoTransparent5.png?raw=true",
-    "Background": [56, 11, 2, 255],
+    "Background": [56, 11, 2, 235],
     "Item": {
       "Normal": [82, 0, 0, 255],
       "Selected": [112, 20, 20, 255],
@@ -193,7 +193,7 @@
     "Description": "Made by Anbu",
     "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Backgrounds/Custom/Background4Rounded.png?raw=true",
     "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Backgrounds/Logo/VolticLogoTransparent1.png?raw=true",
-    "Background": [56, 36, 2, 255],
+    "Background": [56, 36, 2, 235],
     "Item": {
       "Normal": [82, 48, 0, 255],
       "Selected": [102, 68, 20, 255],
@@ -214,7 +214,7 @@
     "Description": "Made by Anbu",
     "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Backgrounds/Custom/Background5Rounded.png?raw=true",
     "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Backgrounds/Logo/VolticLogoTransparent4.png?raw=true",
-    "Background": [2, 43, 56, 255],
+    "Background": [2, 43, 56, 235],
     "Item": {
       "Normal": [0, 56, 82, 255],
       "Selected": [20, 86, 112, 255],
@@ -235,7 +235,7 @@
     "Description": "Made by Anbu",
     "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Backgrounds/Custom/Background7Rounded.png?raw=true",
     "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Backgrounds/Logo/VolticLogoTransparent4.png?raw=true",
-    "Background": [2, 43, 56, 255],
+    "Background": [2, 43, 56, 235],
     "Item": {
       "Normal": [0, 56, 82, 255],
       "Selected": [20, 86, 112, 255],
@@ -256,7 +256,7 @@
     "Description": "Made by Anbu",
     "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Backgrounds/Custom/Background6Rounded.png?raw=true",
     "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Backgrounds/Logo/VolticLogoTransparent2.png?raw=true",
-    "Background": [6, 56, 2, 255],
+    "Background": [6, 56, 2, 235],
     "Item": {
       "Normal": [0, 82, 0, 255],
       "Selected": [20, 112, 20, 255],
@@ -277,7 +277,7 @@
     "Description": "Made by Anbu",
     "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Backgrounds/Custom/Background9Rounded.png?raw=true",
     "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Backgrounds/Logo/VolticLogoTransparent.png?raw=true",
-    "Background": [25, 0, 46, 255],
+    "Background": [25, 0, 46, 235],
     "Item": {
       "Normal": [46, 0, 82, 255],
       "Selected": [66, 20, 112, 255],
@@ -298,7 +298,7 @@
     "Description": "Made by Back",
     "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Backgrounds/Troll/TrollBackground2Rounded.png?raw=true",
     "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Backgrounds/Logo/VolticLogoTransparent1.png?raw=true",
-    "Background": [10, 10, 10, 255],
+    "Background": [10, 10, 10, 235],
     "Item": {
       "Normal": [25, 25, 25, 255],
       "Selected": [45, 45, 45, 255],
@@ -319,7 +319,7 @@
     "Description": "Made by Back",
     "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Backgrounds/Troll/TrollBackground1Rounded.png?raw=true",
     "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Backgrounds/Logo/VolticLogoTransparent4.png?raw=true",
-    "Background": [30, 40, 60, 255],
+    "Background": [30, 40, 60, 235],
     "Item": {
       "Normal": [45, 60, 85, 255],
       "Selected": [65, 90, 115, 255],
@@ -340,7 +340,7 @@
     "Description": "Made by Rider",
     "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Backgrounds/Custom/Background10Rounded.png?raw=true",
     "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Backgrounds/Logo/VolticLogoTransparent6.png?raw=true",
-    "Background": [25, 25, 25, 255],
+    "Background": [25, 25, 25, 235],
     "Item": {
       "Normal": [55, 55, 55, 255],
       "Selected": [75, 75, 75, 255],
@@ -361,7 +361,7 @@
     "Description": "Made by Back",
     "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Backgrounds/Custom/Background13Rounded.png?raw=true",
     "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Backgrounds/Logo/VolticLogoTransparent5.png?raw=true",
-    "Background": [25, 0, 0, 255],
+    "Background": [25, 0, 0, 235],
     "Item": {
       "Normal": [90, 0, 0, 255],
       "Selected": [140, 0, 0, 255],
