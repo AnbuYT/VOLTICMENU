@@ -86,7 +86,7 @@
   "VolticDesign5": {
     "Name": "VolticDesign5",
     "Description": "Made by Rider",
-    "BannerURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Background12Rounded.png?raw=true",
+    "BannerURL": "https://raw.githubusercontent.com/AnbuYT/VOLTICMENU/refs/heads/main/Backgrounds/Custom/Background12Rounded.png",
     "LogoURL": "https://github.com/AnbuYT/VOLTICMENU/blob/main/Backgrounds/Logo/VolticLogoTransparent.png?raw=true",
     "Background": [25, 0, 46, 235],
     "Item": {
